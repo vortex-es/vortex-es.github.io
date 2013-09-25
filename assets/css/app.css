@@ -1,0 +1,373 @@
+ @import url("/assets/fonts/stylesheet.css");
+ 
+ /* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+}
+
+img {
+  max-width:100%;
+}
+
+.display {
+  display: block;
+}
+
+.nodisplay {
+  display: none!important;
+}
+
+.molecula:hover {
+          transform: rotate(360deg);
+     -moz-transform: rotate(360deg);
+  -webkit-transform: rotate(360deg);
+  transition-duration:1500ms;
+  cursor:progress;
+}
+
+.jumbotron {
+  border-radius:0;
+  color:rgb(0,60,76);
+  background:rgba(0, 60, 76, 0.25);
+}
+
+.jumbotron.case-study {
+  color:rgb(172,203,218);
+  background:rgb(0,60,76);
+}
+
+.jumbotron-orange {
+  background:rgb(231,101,87);
+}
+
+.jumbotron-no-margin {
+  margin: 0
+}
+
+.jumbotron.case-study.case-study-sequence {
+  padding: 0;
+}
+
+.jumbotron.case-study h1, .jumbotron.case-study h2, .jumbotron.case-study h3 {
+  color:rgb(255,255,255);
+}
+
+.jumbotron .page-header {
+  border-bottom: none;
+}
+.ox-blog #content {
+  background:rgba(0, 60, 76, 0.25);
+}
+
+h1,h2,h3 {
+  font-family:'vortexbold', serif;
+  color:rgb(0,60,76);
+  text-transform: lowercase;
+}
+h4,h5,h6,.nav > li > a {
+  font-family:'vortexregular', serif;
+  color:rgb(0,60,76);
+}
+
+/* Effect 5: same word slide in */
+header[role="banner"] .cl-effect-5 a {
+	overflow: hidden;
+}
+
+header[role="banner"] .cl-effect-5 a span {
+	position: relative;
+	display: inline-block;
+	-webkit-transition: -webkit-transform 0.3s;
+	-moz-transition: -moz-transform 0.3s;
+	transition: transform 0.3s;
+}
+
+header[role="banner"] .cl-effect-5 a span::before {
+	position: absolute;
+	top: 200%;
+	content: attr(data-hover);
+	-webkit-transform: translate3d(0,0,0);
+	-moz-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+}
+
+header[role="banner"] .cl-effect-5 a:hover span,
+header[role="banner"] .cl-effect-5 a:focus span {
+	-webkit-transform: translateY(-200%);
+	-moz-transform: translateY(-200%);
+	transform: translateY(-200%);
+}
+
+header[role="banner"] div.navbar {
+  padding-top: 12.5px;
+  min-height: 75px;
+}
+.navbar{
+  background: #ffffff;
+  border: none;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border: none;
+}
+
+.navbar-brand {
+  margin-left:0;
+  padding:0;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  background:rgba(0, 60, 76, 0.25);
+  color:rgb(0,60,76);
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background:rgb(0,60,76); 
+}
+
+main[role="main"] {
+  margin-top: 25px;
+}
+
+footer[role="contentinfo"] {
+  font-family:'vortexregular', serif;
+}
+
+.oxygen-bg {background:#010101;
+border-collapse: collapse;
+    display: table;
+    width: 100%;
+}
+
+.footer-bg {
+  background:rgba(0,60,76,1);
+   padding:1em 1em 0;
+   color:#BFCBCF;
+}
+.footer-bg hr {
+background-color:rgb(172,203,218);
+border:rgb(231,101,87) 1px solid;
+border-style: none none solid;
+color:#fff;
+margin:20px 0 5px;
+}
+.footer-bg a {
+color:#BFCBCF;
+}
+.footer-bg-2 {
+  background:rgba(231,101,87,.25);
+  color:#BFCBCF;
+  padding-top:1em;
+}
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.body-content.blog {
+  position: relative;
+  padding: 30px 2.5% 80px 2.5%;
+}
+
+.blog .breadcrumb {
+padding: 0;
+margin-bottom: 20px;
+list-style: none;
+background:none;
+}
+
+.blog .card {
+padding: 10px;
+margin-top: 10px;
+max-height: none;
+height: auto;
+}
+
+.blog .card h1,.blog .card h2,.blog .card h3,.blog .article h1,.blog .article h2,.blog .article h3 {
+  -wekit-hyphens:auto;
+    -moz-hyphens:auto;
+         hyphens:auto;
+}
+
+.display {
+display: block!important;
+}
+
+.card {display: block;
+height: 280px;
+padding: 10px;
+margin-top: 10px 20px;
+background: #fff;
+overflow: hidden;
+}
+
+.card .card-title {
+  font-size: 3.5rem;
+}
+
+.card .card-content {
+  padding-left: 10%;
+}
+
+a.next-ten {
+    display: block;
+    margin-top: 30px;
+    padding: 5% 0;
+    width: 100%;
+    background-color:#BFCBCF;
+    color:#fff;
+}
+.card:hover {
+  background-color:#BFCBCF;
+  color:#fff;
+  -webkit-transition:background-color .2s, color .2s;
+     -moz-transition:background-color .2s, color .2s;
+       -o-transition:background-color .2s, color .2s;
+      -ms-transition:background-color .2s, color .2s;
+          transition:background-color .2s,color .2s;
+}
+
+a.next-ten:hover {
+  background: #fff;
+  color:#BFCBCF;
+  -webkit-transition:background-color .2s, color .2s;
+     -moz-transition:background-color .2s, color .2s;
+       -o-transition:background-color .2s, color .2s;
+      -ms-transition:background-color .2s, color .2s;
+          transition:background-color .2s,color .2s;
+}
+
+.card:hover h2,.card:hover h4 {
+  color:#fff;
+  -webkit-transition:color .2s;
+     -moz-transition:color .2s;
+       -o-transition:color .2s;
+      -ms-transition:color .2s;
+          transition:color .2s;
+}
+
+.article {
+position: relative;
+background: #fff;
+padding: 10px;
+}
+
+.blog .article figure {
+  background: rgba(16,68,90,.25);
+}
+
+.blog .article figure figcaption {
+  text-align: center;
+  font-size: .75em;
+}
+
+#siderail {
+position: relative;
+top:0;
+}
+
+#blog-categories ul, #blog-top ul {
+  padding:0;
+}
+
+#blog-categories li, #blog-top li {
+  list-style:none;
+}
+
+.social-share {
+width: 276px;
+}
+.social-share ul {
+list-style: none;
+margin: 0!important;
+padding:0!important;
+}
+
+.social-share ul li {
+float: left;
+margin-bottom: 0!important;
+}
+
+.social-share .twframe, .social-share .fbframe {
+margin-top: 4px!important;
+width: 90px!important;
+}
+
+#siderail li {
+  margin-bottom:.75em;
+}
+
+.label.marketing {
+  font-size:1em;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+
+  body.ox-comunicacio,body.ox-infraestructura {
+      background: url(/assets/img/banner-barcelona-lg.jpg) repeat-x 20% 0;
+  }
+  body.ox-comunicacio [role="main"],body.ox-infraestructura [role="main"] {
+    padding-top: 25px;
+  }
+  .jumbotron {
+    margin-top: 30px;
+  }
+  .jumbotron.full-width {
+    margin-top: 0;
+  }
+  body.ox-comunicacio .jumbotron:first-child,body.ox-infraestructura .jumbotron:first-child {
+    background: rgba(172,203,218,.5);
+  }
+
+  /* Remove padding from wrapping element since we kick in the grid classes here */
+  .body-content {
+    padding: 0;
+  }
+  
+  .blog .card {
+    padding: 25px 30px;
+  }
+
+.article {
+    padding: 30px 40px;
+  }
+
+.navbar-nav-right {
+  float: right;
+}
+
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+ .label.marketing.sm {
+   font-size: 0.75em;
+    white-space: pre-wrap;
+} 
+}
+
+@media screen and (min-width: 1024px) {
+ body.ox-comunicacio,body.ox-infraestructura {
+      background: url(/assets/img/banner-barcelona-lg.jpg) repeat-x -20% 0;
+  } 
+}
+
+@media (min-width: 768px) {
+header[role="banner"] div.navbar {
+  padding-top: 25px;
+  height: 100px;
+}
+main[role="main"] {
+  margin-top: 60px;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+  background:none;
+  border-bottom:2.5px solid rgb(78,117,128);
+  padding-bottom:5px;
+}
+  .card .card-title {
+  font-size: 6.5rem;
+}
+}

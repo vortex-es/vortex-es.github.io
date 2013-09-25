@@ -1,0 +1,90 @@
+---
+layout: default
+slug: infraestructura
+title: implementació i manteniment d'infraestructures, sistemes i serveis informàtics
+keywords: implementació, manteniment, infraestructures, sistemes, serveis, informàtics
+---
+
+<main class="ox-masthead" id="content" role="main">
+	<div class="container">
+		<p class="text-center"><img class="molecula" src="{{ site.base_url }}/assets/img/oxygen-ico-taronja-96.png" data-src961="{{ site.base_url }}assets/img/oxygen-ico-taronja-51.png" data-src1025="{{ site.base_url }}/assets/img/oxygen-ico-taronja-70.png" /></p>
+		<h1 class="text-center">Infraestructura</h1>
+	</div>
+	
+	<div class="container">
+		<div class="jumbotron">
+			<h2 class="text-center">Som experts en implementació i manteniment d'infraestructures, sistemes i serveis informàtics per mitjà dels darrers estàndards de virtualització al núvol</h2>
+		</div>
+	</div>	
+
+	<div class="container">
+    
+
+			<div class="body-content">
+
+
+				<div class="row">
+					<div class="col-sm-4 col-md-4 hidden-xs">
+						<p><img class="img-circle molecula" src="{{ site.base_url }}/assets/img/fundacc.png" /></p>
+					</div>
+					<div class="col-sm-4 col-md-4">
+						<p><img class="img-circle molecula" src="{{ site.base_url }}/assets/img/powerband.png" /></p>
+					</div>
+					<div class="col-sm-4 col-md-4 hidden-xs">
+						<p><img class="img-circle molecula" src="{{ site.base_url }}/assets/img/hospitalplato.png" /></p>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-4 col-md-4">
+						<ul>
+							<li>Realitzem projectes complets de <strong>xarxes informàtiques</strong>, des del disseny inicial i la posada en funcionament, fins al manteniment i l’actualització permanent.</li>
+						</ul>
+					</div>
+					
+					<div class="col-sm-4 col-md-4">
+						<ul>
+							<li>Som experts en la configuració de <strong>sistemes Linux</strong> i proporcionem sol·lucions completes per a totes les necessitats d’una organització en xarxa.</li>
+						</ul>
+					</div>
+					
+					<div class="col-sm-4 col-md-4">
+						<ul>
+							<li>Utilitzem i <strong>optimitzem el maquinari</strong> existent i proposem actualitzacions mitjançant la compra, el lloguer d’equips o rènting.</li>
+						</ul>
+					</div>
+				</div>
+
+				{% for post in site.categories.infraestructura limit:1 %}
+				<div class="jumbotron case-study">
+					<div class="container">
+						<h3>Destaquem</h3>
+						{% if post.featured-img-url %}
+						<div class="row">
+							<div class="col-sm-7 col-md-9">
+								<a href="{{site.baseurl}}{{post.url}}"><h2>{{ post.title}}</h2></a>
+							</div>
+							<div class="col-sm-5 col-md-3">
+								<img class="img-circle" src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}">
+							</div>
+						</div>
+						{% else if %}
+						<div class="row">
+							<div class="col-sm-12 col-md-12">
+								<a href="{{site.baseurl}}{{post.url}}"><h2>{{ post.title}}</h2></a>
+							</div>
+						</div>
+						{% endif %}
+					</div>
+				</div>
+				{% endfor %}
+
+				<div class="page-header">
+					<h1 class="text-center">T'ajudem? Ens encantaria treballar amb tu!</h1>
+					<p class="text-center"><a href="{{ site.base_url }}/contacte" class="btn btn-default btn-lg"><i class="icon-envelope"></i> ontacta'ns »</a></p>
+				</div>	
+
+			</div>
+
+	</div> <!-- /container -->
+
+</main>

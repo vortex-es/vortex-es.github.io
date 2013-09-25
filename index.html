@@ -1,0 +1,180 @@
+---
+layout: home
+slug: home
+title: Vortex Online Wind Modeling for Professionals. By Professionals
+keywords: online, wind, modeling, forecast, solar, offshore
+---
+
+<main class="ox-masthead" id="content" role="main">
+	<div class="oxygen-bg">
+		<section class="barcelona-skyline">
+			<div>
+				<span class="barcelona-skyline__o">Vortex</span>
+			</div>
+		</section>
+	</div>
+
+	<div class="jumbotron full-width">
+		<div class="container">
+			<h1 class="text-center">Des de Barcelona, 17 anys creant a Internet</h1>
+		</div>
+	</div>
+
+	<div class="container">
+
+		<div class="body-content">
+			
+			<div class="row">
+				<div class="col-md-6">
+					<div class="row">
+						<div class="hidden-xs col-sm-2 col-md-2">
+							<p>
+								<img class="molecula" src="{{ site.base_url }}/assets/img/oxygen-ico-blau.png" data-src481="{{ site.base_url }}assets/img/oxygen-ico-blau-96.png" data-src961="{{ site.base_url }}/assets/img/oxygen-ico-blau-51.png" data-src1025="{{ site.base_url }}/assets/img/oxygen-ico-blau-70.png" />
+							</p>
+						</div>
+						<div class="col-10 col-md-10">
+							<h1>Comunicació</h1>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-6 col-md-6">
+							<p>
+								<img class="img-circle molecula" src="{{ site.base_url }}/assets/img/01-CPC-nousserveis.png" />
+							</p>
+						</div>
+						<div class="col-sm-6 col-md-6">
+							<p>Comunicació corporativa, estratègia, elaboració, publicació i posicionament de continguts a Internet per mitjà dels darrers estàndards de <span class="label label-info marketing">disseny i programació web</span>.</p>
+							<p><a class="btn btn-default" href="{{ site.base_url }}/comunicacio"><i class="icon-plus-sign"></i> informació &raquo;</a></p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="row">
+						<div class="hidden-xs col-sm-2 col-md-2">
+							<p>
+								<img class="molecula" src="{{ site.base_url }}/assets/img/oxygen-ico-taronja.png" data-src481="{{ site.base_url }}/assets/img/oxygen-ico-taronja-96.png" data-src961="{{ site.base_url }}/assets/img/oxygen-ico-taronja-51.png" data-src1025="{{ site.base_url }}/assets/img/oxygen-ico-taronja-70.png" />
+							</p>
+						</div>
+						<div class="col-10 col-md-10">
+							<h1>Infraestructura</h1>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-6 col-md-6">
+							<p>
+								<img class="img-circle molecula" src="{{ site.base_url }}/assets/img/Servers_in_a_Rack.png" />
+							</p>
+						</div>
+						<div class="col-sm-6 col-md-6">
+							<p>Estratègia, implementació i manteniment d'infraestructures, sistemes i serveis informàtics per mitjà dels darrers estàndards de <span class="label label-info marketing">virtualització al núvol</span>.</p>
+							<p><a class="btn btn-default" href="{{ site.base_url }}/infraestructura"><i class="icon-plus-sign"></i> informació &raquo;</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	{% for post in site.tags.case-study limit:1 %}
+	<div class="jumbotron jumbotron-no-margin full-width case-study hidden-md hidden-lg">
+		<div class="container">
+			<h3>Treball destacat</h3>
+			{% if post.featured-img-url %}
+			<div class="row">
+				<div class="col-sm-7 col-md-9">
+					<a href="{{site.baseurl}}{{post.url}}"><h1>{{ post.title}}</h1></a>
+				</div>
+				<div class="col-sm-5 col-md-3">
+					<img class="img-circle" src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}">
+				</div>
+			</div>
+			{% else if %}
+			<div class="row">
+				<div class="col-sm-12 col-md-12">
+					<a href="{{site.baseurl}}{{post.url}}"><h1>{{ post.title}}</h1></a>
+				</div>
+			</div>
+			{% endif %}
+		</div>
+	</div>
+	{% endfor %}
+
+	<div class="jumbotron jumbotron-no-margin case-study case-study-sequence hidden-xs hidden-sm">
+
+		<div id="sequence">
+				<span class="sequence-prev">&laquo;</span>
+				<span class="sequence-next">&raquo;</span>
+				<ul class="sequence-canvas">
+				{% assign count = '0' %}
+					{% for post in site.tags.case-study limit:3 %}
+					{% if post.tags contains 'case-study' %}
+						{% capture count %}{{ count | plus: '1' }}{% endcapture %}
+						{% if count == '1' %}
+						<li class="animate-in case-study-{{ count }}">
+						{% else if %}
+						<li class="case-study-{{ count }}">
+						{% endif %}
+							{% if post.featured-img-url %}
+							
+								<div class="info">
+									<a href="{{site.baseurl}}{{post.url}}"><h1>{{ post.title}}</h1></a>
+								</div>
+									<img class="img-circle img-case-study-{{ count }}" src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}">
+									<span class="sky"></span>
+								
+							
+							{% else if %}
+							
+								<div class="info">
+									<a href="{{site.baseurl}}{{post.url}}"><h1>{{ post.title}}</h1></a>
+								</div>
+							
+							{% endif %}
+						</li>
+					{% endif %}
+					{% endfor %}
+				</ul>
+		</div>
+
+	</div>
+
+	<div class="jumbotron jumbotron-orange jumbotron-no-margin full-width">
+
+		<div class="container">
+
+			<div class="page-header">
+				<h1 class="text-center">T'ajudem? Estaríem encantats d'escoltar-te!</h1> 
+				<p class="text-center"><a href="{{ site.base_url }}/contacte" class="btn btn-default btn-lg"><i class="icon-envelope"></i> contacta'ns »</a></p>
+			</div>
+
+		</div>
+
+	</div>
+
+	<div class="container">
+
+		<div class="body-content">
+
+			<section id="thoughts">
+				<div class="row">
+					<div class="col-sm-6 col-md-6">
+						<a href="{{ site.base_url }}blog/"><h2><i class="icon-edit"></i> Oxygen blog</h2></a>						
+						{% for post in site.categories.general limit:1 %}
+						<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4>
+						<a href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>							
+						{% endfor %}						
+					</div>
+					<div class="col-sm-6 col-md-6">
+						<h2><i class="icon-quote-right"></i> Oxygen cita</h2>
+						{% for post in site.categories.cita limit:1 %}
+							{{ post.content }}
+						{% endfor %}
+					</div>
+				</div>
+			</section>
+
+		</div>
+
+	</div>
+
+</main>

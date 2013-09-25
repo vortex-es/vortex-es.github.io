@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ca">
+  <head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    {% include header-home.html %}
+    <!-- Place anything custom after this. -->
+  </head>
+  <body class="ox-{{ page.slug }}">
+    <a class="sr-only" href="#content">Skip navigation</a>
+
+    
+    {% include nav-main.html %}
+
+    
+    {{ content }}
+
+    <footer role="contentinfo">
+      <div class="footer-bg">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-1 col-lg-1">
+              <p><img src="{{ site.base_url }}/assets/img/vortex-logo-footer.png" /></p>
+            </div>
+            <div class="col-sm-2 col-lg-2">
+              <p><small>&copy; Vortex 2013<br/>Terms of Use Privacy Policy</small></p>
+            </div>
+            <div class="col-sm-1 col-lg-1">
+              <p><small><strong>Home</strong><br/>Terms of Use Privacy Policy</small></p>
+            </div>
+            <div class="col-sm-1 col-lg-1">
+              <p><small><strong>Markets</strong><br/>Terms of Use Privacy Policy</small></p>
+            </div>
+            <div class="col-sm-1 col-lg-1">
+              <p><small><strong>Solutions</strong><br/>Terms of Use Privacy Policy</small></p>
+            </div>
+            <div class="col-sm-1 col-lg-1">
+              <p><small><strong>Why Vortex?</strong><br/>Terms of Use Privacy Policy</small></p>
+            </div>
+            <div class="col-sm-1 col-lg-1">
+              <p><small><strong>Get Started</strong><br/>Terms of Use Privacy Policy</small></p>
+            </div>
+            <div class="col-sm-4 col-lg-4">
+              <p class="text-right"><a href="#" title="Twitter" rel="external"><i class="icon-twitter icon-large"></i></a> <a href="#" title="Facebook" rel="external"><i class="icon-facebook icon-large"></i></a> <a href="mailto:info@oxygen.cat" title="Correu-e" rel="external"><i class="icon-envelope icon-large"></i></a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+
+    {% include footer.html %}
+
+  </body>
+</html>

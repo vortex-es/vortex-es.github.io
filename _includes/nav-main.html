@@ -1,0 +1,30 @@
+<header role="banner">
+	<div class="navbar navbar-fixed-top navbar-default cl-effect-5">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{ site.base_url }}/"><img src="{{ site.base_url }}/assets/img/vortex-logo.png" /></a>
+        </div>
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-nav-right">
+            <li{% if page.slug == "home" %} class="active"{% endif %}>
+              <a href="{{ site.base_url }}/"><span data-hover="Home">Home</span></a>
+           </li>
+           <li{% if page.slug == "quant-a" %} class="active"{% endif %}>
+				      <a href="{{ site.base_url }}/quant-a"><span data-hover="Quant a">Quant a</span></a>
+		       </li>
+			     <li{% if page.slug == "blog" %} class="active"{% endif %}>
+				    <a href="{{ site.base_url }}/blog"><span data-hover="Blog">Blog</span></a>
+			     </li>
+           <li{% if page.slug == "contacte" %} class="active"{% endif %}>
+              <a href="{{ site.base_url }}/contacte"><span data-hover="Contacte">Contacte</span></a>
+           </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+ </header>
