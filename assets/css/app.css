@@ -55,7 +55,7 @@ img {
 .jumbotron .page-header {
   border-bottom: none;
 }
-.ox-blog #content {
+.vx-blog #content {
   background:rgba(0, 60, 76, 0.25);
 }
 
@@ -306,10 +306,10 @@ width: 90px!important;
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
 
-  body.ox-comunicacio,body.ox-infraestructura {
+  body.vx-comunicacio,body.vx-infraestructura {
       background: url(/assets/img/banner-barcelona-lg.jpg) repeat-x 20% 0;
   }
-  body.ox-comunicacio [role="main"],body.ox-infraestructura [role="main"] {
+  body.vx-comunicacio [role="main"],body.vx-infraestructura [role="main"] {
     padding-top: 25px;
   }
   .jumbotron {
@@ -318,7 +318,7 @@ width: 90px!important;
   .jumbotron.full-width {
     margin-top: 0;
   }
-  body.ox-comunicacio .jumbotron:first-child,body.ox-infraestructura .jumbotron:first-child {
+  body.vx-comunicacio .jumbotron:first-child,body.vx-infraestructura .jumbotron:first-child {
     background: rgba(172,203,218,.5);
   }
 
@@ -349,7 +349,7 @@ width: 90px!important;
 }
 
 @media screen and (min-width: 1024px) {
- body.ox-comunicacio,body.ox-infraestructura {
+ body.vx-comunicacio,body.vx-infraestructura {
       background: url(/assets/img/banner-barcelona-lg.jpg) repeat-x -20% 0;
   } 
 }
