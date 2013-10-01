@@ -3,7 +3,7 @@ published: false
 comments: true
 date: {}
 layout: blog
-slug: "prova-de-noticia"
+slug: "prova-noticia"
 categories: 
   - infraestructura
   - general
@@ -13,6 +13,7 @@ meta: Prova de notícia
 excerpt: Prova de notícia
 author: vortex
 keywords: "prova, notícia"
+title: Prova de notícia
 ---
 
 ## A New Post
