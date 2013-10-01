@@ -17,6 +17,10 @@ img {
   display: none!important;
 }
 
+.page-header {
+  border-bottom:1px solid rgb(0,60,76);
+}
+
 /* ----- #myCarouselHomeVortex ---- */
 
 #myCarouselHomeVortex .carousel-caption {
@@ -381,11 +385,14 @@ border-collapse: collapse;
    padding:1em 1em 0;
    color:#BFCBCF;
 }
-.footer-bg hr {
+.footer-bg hr, hr {
 background-color:rgb(172,203,218);
-border:rgb(231,101,87) 1px solid;
+border:rgb(0,60,76) 1px solid;
 border-style: none none solid;
 color:#fff;
+}
+
+.footer-bg hr {
 margin:20px 0 5px;
 }
 .footer-bg a {
@@ -571,7 +578,7 @@ width: 90px!important;
   /* Remove padding from wrapping element since we kick in the grid classes here */
   .body-content {
     padding: 0;
-    margin-bottom: 1em;
+    margin: 1em 0;
   }
   
   .blog .card {

@@ -109,16 +109,12 @@ keywords: online, wind, modeling, forecast, solar, offshore
 		<div class="body-content">
 
 			<section id="thoughts">
-				<div class="page-header">
-					<a href="{{ site.base_url }}blog/"><h2>Recent news</h2></a>
-				</div>
 				<div class="row">
 				{% for post in site.categories.general limit:3 %}
 					<div class="col-sm-4 col-md-4">
 						<div class="recent-news">
-							<div class="page-header">
-								<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4>
-							</div>
+							<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4>
+							<hr />
 							<a href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>
 							<p>{{ post.excerpt }}</p>
 						</div>												
