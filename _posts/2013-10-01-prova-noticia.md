@@ -1,21 +1,17 @@
 ---
-published: true
 comments: true
-date: {}
+date: 2013-10-01 09:48:19
 layout: blog
-slug: "prova-noticia"
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-tags: null
-meta: Prova de notícia
-excerpt: Prova de notícia
-author: vortex
-keywords: "prova, notícia"
+slug: prova-de-noticia
 title: Prova de notícia
+categories: [infraestructura, general, no-cita]
+tags:
+excerpt: Hola això és una prova
+meta: Prova de notícia
+author: vortex
+keywords: vortex, company, experience, independence, collaborative
 ---
 
-## A New Post
+## Prova de notícia
 
 Hola això és una prova
