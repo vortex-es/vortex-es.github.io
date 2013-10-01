@@ -7,120 +7,111 @@ keywords: online, wind, modeling, forecast, solar, offshore
 
 <main class="vx-masthead" id="content" role="main">
 
-	<div class="container hidden-xs hidden-sm">
-
-	    <div id="myCarousel" class="carousel slide">
-	      <!-- Indicators -->
-	      <ol class="carousel-indicators">
-	        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-	        <li data-target="#myCarousel" data-slide-to="1"></li>
-	        <li data-target="#myCarousel" data-slide-to="2"></li>
-	      </ol>
-	      <div class="carousel-inner">
-	        <div class="item active">
-	          <div class="container">
-	            <div class="carousel-caption">
-	              <h1>Example headline.</h1>
-	              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-	            </div>
-	          </div>
-	        </div>
-	        <div class="item">
-	          <div class="container">
-	            <div class="carousel-caption">
-	              <h1>Another example headline.</h1>
-	              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-	              <p><a class="btn btn-large btn-primary" href="#">Learn more</a></p>
-	            </div>
-	          </div>
-	        </div>
-	        <div class="item">
-	          <div class="container">
-	            <div class="carousel-caption">
-	              <h1>One more for good measure.</h1>
-	              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-	              <p><a class="btn btn-large btn-primary" href="#">Browse gallery</a></p>
-	            </div>
-	          </div>
-	        </div>
-	      </div>
-	      <a class="left carousel-control" href="#myCarousel" data-slide="prev">&laquo;</a>
-	      <a class="right carousel-control" href="#myCarousel" data-slide="next">&raquo;</a>
-	    </div>
-
-	</div>
-
-
-	{% for post in site.tags.case-study limit:1 %}
-	<div class="jumbotron jumbotron-no-margin full-width case-study hidden-md hidden-lg">
-		<div class="container">
-			<h3>Treball destacat</h3>
-			{% if post.featured-img-url %}
-			<div class="row">
-				<div class="col-sm-7 col-md-9">
-					<a href="{{site.baseurl}}{{post.url}}"><h1>{{ post.title}}</h1></a>
-				</div>
-				<div class="col-sm-5 col-md-3">
-					<img class="img-circle" src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}">
-				</div>
-			</div>
-			{% else if %}
-			<div class="row">
-				<div class="col-sm-12 col-md-12">
-					<a href="{{site.baseurl}}{{post.url}}"><h1>{{ post.title}}</h1></a>
-				</div>
-			</div>
-			{% endif %}
-		</div>
-	</div>
-	{% endfor %}
-
-	<div class="jumbotron jumbotron-no-margin case-study case-study-sequence hidden-xs hidden-sm">
-
-		<div id="sequence">
-				<span class="sequence-prev">&laquo;</span>
-				<span class="sequence-next">&raquo;</span>
-				<ul class="sequence-canvas">
-				{% assign count = '0' %}
-					{% for post in site.tags.case-study limit:3 %}
-					{% if post.tags contains 'case-study' %}
-						{% capture count %}{{ count | plus: '1' }}{% endcapture %}
-						{% if count == '1' %}
-						<li class="animate-in case-study-{{ count }}">
-						{% else if %}
-						<li class="case-study-{{ count }}">
-						{% endif %}
-							{% if post.featured-img-url %}
-							
-								<div class="info">
-									<a href="{{site.baseurl}}{{post.url}}"><h1>{{ post.title}}</h1></a>
-								</div>
-									<img class="img-circle img-case-study-{{ count }}" src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}">
-									<span class="sky"></span>
-								
-							
-							{% else if %}
-							
-								<div class="info">
-									<a href="{{site.baseurl}}{{post.url}}"><h1>{{ post.title}}</h1></a>
-								</div>
-							
-							{% endif %}
-						</li>
+	<!-- Carousel
+	================================================== -->
+	<div id="myCarouselHomeVortex" class="carousel slide">
+	<!-- Indicators -->
+		<ol class="carousel-indicators">
+		{% assign count = '-1' %}
+			{% for post in site.tags.slideshow limit:3 %}
+				{% if post.tags contains 'slideshow' %}
+					{% capture count %}{{ count | plus: '1' }}{% endcapture %}
+					{% if count == '0' %}
+					<li data-target="#myCarouselHomeVortex" data-slide-to="{{ count }}" class="active">
+					{% else if %}
+					<li data-target="#myCarouselHomeVortex" data-slide-to="{{ count }}">
 					{% endif %}
-					{% endfor %}
-				</ul>
+					</li>
+				{% endif %}
+			{% endfor %}
+		</ol>
+		<div class="carousel-inner">
+			{% assign count = '0' %}
+			{% for post in site.tags.slideshow limit:3 %}
+			{% if post.tags contains 'slideshow' %}
+				{% capture count %}{{ count | plus: '1' }}{% endcapture %}
+				{% if count == '1' %}
+				<div class="item active">
+				{% else if %}
+				<div class="item">
+				{% endif %}
+					{% if post.featured-img-url %}
+					<div class="container">
+						<img src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}">
+			            <div class="carousel-caption">
+			              <h1>{{ post.title }}</h1>
+			              <h4>{{ post.excerpt }}</h4>
+			            </div>
+			         </div>	
+					
+					{% else if %}
+					<div class="container">
+			            <div class="carousel-caption">
+			              <h1>{{ post.title }}</h1>
+			              <p>{{ post.excerpt }}</p>
+			            </div>
+			         </div>	
+					
+					{% endif %}
+				</div>
+			{% endif %}
+			{% endfor %}
 		</div>
+	<a class="left carousel-control" href="#myCarousel" data-slide="prev"></a>
+	<a class="right carousel-control" href="#myCarousel" data-slide="next"></a>
+	</div><!-- /.carousel -->
 
+	<!-- iconMarkets
+	================================================== -->
+	<div id="marketsIconHome" class="container blau-vortex">
+  		<div class="row">
+  			<div class="col-md-3">
+			    <div class="vortex-icon wind-site-icon">
+					<div id="cf3">
+					  <img class="bottom" src="{{site.baseurl}}/assets/img/wind-site-white-b.png" />
+					  <img class="top" src="{{site.baseurl}}/assets/img/wind-site-white-a.png" />
+					</div>
+					<p class="vortex-icon title-icon title-inverse-icon text-center">Wind & Site</p>
+				</div>
+			</div>
+			<div class="col-md-3">
+			    <div class="vortex-icon forecast-forecast">
+					<div id="cf3">
+					  <img class="bottom" src="{{site.baseurl}}/assets/img/forecast-white-b.png" />
+					  <img class="top" src="{{site.baseurl}}/assets/img/forecast-white-a.png" />
+					</div>
+					<p class="vortex-icon title-icon title-inverse-icon text-center">Forecast</p>
+				</div>
+			</div>
+			<div class="col-md-3">
+			    <div class="vortex-icon solar-icon">
+					<div id="cf3">
+					  <img class="bottom" src="{{site.baseurl}}/assets/img/solar-white-b.png" />
+					  <img class="top" src="{{site.baseurl}}/assets/img/solar-white-a.png" />
+					</div>
+					<p class="vortex-icon title-icon title-inverse-icon text-center">Solar</p>
+				</div>
+			</div>
+			<div class="col-md-3">
+			    <div class="vortex-icon offshore-icon">
+					<div id="cf3">
+					  <img class="bottom" src="{{site.baseurl}}/assets/img/offshore-white-b.png" />
+					  <img class="top" src="{{site.baseurl}}/assets/img/offshore-white-a.png" />
+					</div>
+					<p class="vortex-icon title-icon title-inverse-icon text-center">Offshore</p>
+				</div>
+			</div>
+		</div>
 	</div>
 
-	<div class="jumbotron jumbotron-orange jumbotron-no-margin full-width">
+
+	<div class="jumbotron jumbotron-blue-vortex jumbotron-no-margin full-width">
 
 		<div class="container">
 
 			<div class="page-header">
 				<h1 class="text-center">Can we help you?</h1> 
-				<p class="text-center"><a href="{{ site.base_url }}/contacte" class="btn btn-default btn-lg"><i class="icon-envelope"></i> Get Started »</a></p>
+				<p class="text-center"><a href="{{ site.base_url }}/getstarted" class="btn btn-default btn-lg"><i class="icon-signin"></i> Get Started »</a></p>
 			</div>
 
 		</div>
@@ -132,20 +123,19 @@ keywords: online, wind, modeling, forecast, solar, offshore
 		<div class="body-content">
 
 			<section id="thoughts">
+				<div class="page-header">
+					<a href="{{ site.base_url }}blog/"><h2>Recent news</h2></a>
+				</div>
 				<div class="row">
-					<div class="col-sm-6 col-md-6">
-						<a href="{{ site.base_url }}blog/"><h2><i class="icon-edit"></i> Oxygen blog</h2></a>						
-						{% for post in site.categories.general limit:1 %}
-						<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4>
-						<a href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>							
-						{% endfor %}						
+				{% for post in site.categories.general limit:3 %}
+					<div class="col-sm-4 col-md-4">
+						<div class="recent-news">
+							<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4>
+							<a href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>
+							<p>{{ post.excerpt }}</p>
+						</div>												
 					</div>
-					<div class="col-sm-6 col-md-6">
-						<h2><i class="icon-quote-right"></i> Oxygen cita</h2>
-						{% for post in site.categories.cita limit:1 %}
-							{{ post.content }}
-						{% endfor %}
-					</div>
+				{% endfor %}
 				</div>
 			</section>
 

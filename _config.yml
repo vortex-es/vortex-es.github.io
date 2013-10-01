@@ -7,10 +7,10 @@ baseurl:
 permalink:        /:title
 
 authors:
- oxygen:
-  name: Oxygen
-  display_name: Oxygen
-  email: info@oxygen.cat
+ vortex:
+  name: Vortex
+  display_name: Vortex
+  email: info@vortex.es
   web: http://www.vortex.es/
 
 # Server
