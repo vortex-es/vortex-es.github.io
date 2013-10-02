@@ -11,9 +11,6 @@
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav navbar-nav-right">
-            <li{% if page.slug == "home" %} class="active"{% endif %}>
-              <a href="{{ site.base_url }}/"><span data-hover="Home">Home</span></a>
-           </li>
            <li{% if page.slug == "markets" %} class="active"{% endif %}>
 				      <a href="{{ site.base_url }}/markets"><span data-hover="Markets">Markets</span></a>
 		       </li>
@@ -24,7 +21,7 @@
               <a href="{{ site.base_url }}/about-us"><span data-hover="About us">About us</span></a>
            </li>
 			     <li{% if page.slug == "get-started" %} class="active"{% endif %}>
-				    <a href="{{ site.base_url }}/getstarted"><span data-hover="Get Started">Get Started</span></a>
+				    <a href="{{ site.base_url }}/getstarted"><span class="btn btn-info" data-hover="Get Started">Get Started</span></a>
 			     </li>
           </ul>
         </div><!--/.nav-collapse -->
