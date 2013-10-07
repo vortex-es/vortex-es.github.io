@@ -37,18 +37,23 @@ img {
 }
 
 #myCarouselHomeVortex.carousel .item {
-  height: 500px;
+  min-height: 200px;
   background-color: rgba(0,60,76,1);
 }
+
 #myCarouselHomeVortex .carousel-inner > .item > img {
   position: absolute;
   top: 0;
   left: 0;
   min-width: 100%;
-  height: 500px;
 }
 
 /* ---- marketsIconHome ---- */
+
+#marketsIconHome {
+  background: #003C4C;
+  max-width: 100%;
+}
 
   @-webkit-keyframes cf3FadeInOut {
    0% {
@@ -174,11 +179,6 @@ img {
   /*background: rgba(0,60,76,1);*/
 }
 
-.vortex-icon {
-  margin-top: -190px;
-  margin-bottom: 190px;
-}
-
 #cf3 {
   position:relative;
   height:115px;
@@ -248,6 +248,7 @@ p.vortex-icon.title-icon {
   font-family:'vortexregular', serif;
   color: rgba(0,60,76,1);
   letter-spacing: 2px;
+  margin:0;
 }
 
 p.vortex-icon.title-icon.title-inverse-icon {
@@ -405,10 +406,10 @@ color:#BFCBCF;
 }
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
-.body-content {
+/*.body-content {
   padding-left: 15px;
   padding-right: 15px;
-}
+}*/
 
 .body-content.blog {
   position: relative;
@@ -550,6 +551,7 @@ width: 90px!important;
 #thoughts div.row .recent-news {
   background: rgb(235,235,235);
   padding:.75em;
+  margin: 0.75em 0;
 }
 
 #thoughts h2 {
@@ -602,12 +604,6 @@ width: 90px!important;
 } 
 }
 
-@media screen and (min-width: 1024px) {
- body.vx-comunicacio,body.vx-infraestructura {
-      background: url(/assets/img/banner-barcelona-lg.jpg) no-repeat 50% 8%;
-  } 
-}
-
 @media (min-width: 768px) {
 header[role="banner"] div.navbar {
   padding-top: 25px;
@@ -623,5 +619,29 @@ main[role="main"] {
 }
   .card .card-title {
   font-size: 6.5rem;
+}
+#thoughts div.row .recent-news {
+  margin: 0;
+}
+.vortex-icon {
+  margin-bottom: 1em;
+}
+}
+
+@media screen and (min-width: 1024px) {
+ body.vx-comunicacio,body.vx-infraestructura {
+      background: url(/assets/img/banner-barcelona-lg.jpg) no-repeat 50% 8%;
+  } 
+
+  #myCarouselHomeVortex.carousel .item {
+  height: 400px;
+}
+#marketsIconHome {
+  background: none;
+  max-width: 970px;
+}
+.vortex-icon {
+  margin-top: -230px;
+  margin-bottom: 0;
 }
 }
