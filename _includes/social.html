@@ -5,13 +5,14 @@
       <iframe class='twframe' allowtransparency='true' frameborder='0' scrolling='no' src='' via='Vortex.es' style='height:20px;'></iframe>
     </li>
     <li>
-      <iframe src='' class='inframe' frameborder='0' style='border:none; overflow:hidden; height:25px;' allowTransparency='true'></iframe>
+      <a href='http://www.linkedin.com/shareArticle?mini=true&url=http://www.vortex.es{{page.url | replace:"'","\'" | uri_escape}}&title={{page.title | replace:"'","\'" | uri_escape}}&summary={{page.excerpt | replace:"'","\'" | uri_escape}}&source=http://www.vortex.es' class='mailto btn btn-default btn-sm' title='Share on Linkedin' target="_blank"><span class='icon-linkedin icon-white'></span> Linkedin</a>
+      <!-- <iframe src='' class='inframe' frameborder='0' style='border:none; overflow:hidden; height:25px;' allowTransparency='true'></iframe> -->
     </li>
     <!-- <li>
       <iframe src='' class='fbframe' frameborder='0' style='border:none; overflow:hidden; height:25px;' allowTransparency='true'></iframe>
     </li> -->
     <li>
-      <a href='mailto:?subject={{page.title}} - Vortex.es&body=Voldria compartir aquest enllaç amb tu: http://www.vortex.es{{page.url}}' class='mailto btn btn-default btn-sm' title='Envia aquesta pàgina'><span class='icon-envelope icon-white'></span> Correu-e</a>
+      <a href='mailto:?subject={{page.title}} - Vortex.es&body=Voldria compartir aquest enllaç amb tu: http://www.vortex.es{{page.url}}' class='mailto btn btn-default btn-sm' title='Envia aquesta pàgina'><span class='icon-envelope icon-white'></span> E-mail</a>
     </li>
   </ul>
 </div>
@@ -27,7 +28,7 @@ $(window).load(function(){
       var url = $(this).parent().attr('data-url');
       var title = $(this).parent().attr('data-title');
 
-      $(this).find('.inframe').attr('src','https://www.facebook.com/plugins/like.php?href=vortex.es' + url + '&layout=button_count&show_faces=false&width=450&action=like&font&amp;colorscheme=light&amp;height=25&amp;xfbml=true;');
+      // $(this).find('.inframe').attr('src','http://www.linkedin.com/shareArticle?mini=true&url=http://www.vortex.es' + url + '&title=' + title + '&summary=' + excerpt + '&source=http://www.vortex.es');
 
       $(this).find('.fbframe').attr('src','https://www.facebook.com/plugins/like.php?href=vortex.es' + url + '&layout=button_count&show_faces=false&width=450&action=like&font&amp;colorscheme=light&amp;height=25&amp;xfbml=true;');
 
@@ -37,7 +38,7 @@ $(window).load(function(){
 
     }else{
 
-      $('.inframe').attr('src','https://www.facebook.com/plugins/like.php?href=vortex.es{{page.url | replace:"'","\'" | uri_escape}}&layout=button_count&show_faces=false&width=450&action=like&font&amp;colorscheme=light&amp;height=25&amp;xfbml=true;');
+      // $('.inframe').attr('src','http://www.linkedin.com/shareArticle?mini=true&url=http://www.vortex.es{{page.url | replace:"'","\'" | uri_escape}}&title={{page.title | replace:"'","\'" | uri_escape}}&summary={{page.excerpt | replace:"'","\'" | uri_escape}}&source=http://www.vortex.es');
 
       $('.fbframe').attr('src','https://www.facebook.com/plugins/like.php?href=vortex.es{{page.url | replace:"'","\'" | uri_escape}}&layout=button_count&show_faces=false&width=450&action=like&font&amp;colorscheme=light&amp;height=25&amp;xfbml=true;');
 
@@ -47,6 +48,4 @@ $(window).load(function(){
   });
 });
 </script>
-
-http://www.linkedin.com/shareArticle?mini=true&url={articleUrl}&title={articleTitle}&summary={articleSummary}&source={articleSource}
 

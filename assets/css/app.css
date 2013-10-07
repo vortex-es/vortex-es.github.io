@@ -533,9 +533,10 @@ padding:0!important;
 .social-share ul li {
 float: left;
 margin-bottom: 0!important;
+margin-right: .5em!important;
 }
 
-.social-share .twframe, .social-share .fbframe {
+.social-share .twframe, .social-share .fbframe, .social-share .inframe  {
 margin-top: 4px!important;
 width: 90px!important;
 }
