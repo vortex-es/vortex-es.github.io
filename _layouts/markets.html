@@ -1,0 +1,47 @@
+---
+layout: default
+class: markets-market
+slug: markets
+---
+
+<main class="vx-masthead" id="content" role="main">
+
+  <div class="container">
+
+    <div class="body-content markets">
+
+      <ul class="breadcrumb">
+        <li><a href="{{ site.base_url }}/">Home</a></li>
+        <li><a href="{{ site.base_url }}/markets">Markets</a></li>
+        <li class="active">{{page.title}}</li>
+      </ul>
+
+      <div class="page-header">
+        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {{page.title}}</h1>
+      </div>
+
+          <article role="main">
+            {% if page.featured-img-url %}
+            <p class="pull-right hidden-xs"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
+            {% endif %}
+            {{ content }}
+          </article>
+
+    </div>
+
+  </div>
+
+  <div class="jumbotron jumbotron-orange jumbotron-no-margin full-width">
+
+    <div class="container">
+
+      <div class="page-header">
+        <h1 class="text-center">Can we help you?</h1> 
+        <p class="text-center"><a href="{{ site.base_url }}/getstarted" class="btn btn-default btn-lg"><i class="icon-signin"></i> Get Started »</a></p>
+      </div>
+
+    </div>
+
+  </div>
+
+</main>

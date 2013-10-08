@@ -4,7 +4,7 @@
 	</div>
 	<a href="{{site.baseurl}}{{post.url}}"><h2 class="card-title">{{post.title}}</h2></a>
 	<div class="card-content">
-		<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4>
+		<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | date: "%b %d" }}</time></h4>
 		<p>{{ post.excerpt | truncate: 140 }}</p>
 		<p class='continue-link'>Read more: <a href='{{site.baseurl}}{{post.url}}'>{{post.title}}</a></p>
 	</div>

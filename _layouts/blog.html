@@ -28,7 +28,7 @@ slug: blog
             <hr />
             {% include social.html %}
             <hr />
-            <h4><time datetime="{{ page.date | date: "%Y-%m-%d %H:%M%z" }}">{{ page.date | localize: ":simple" }}</time> per {{ author.display_name }}</h4>
+            <h4><time datetime="{{ page.date | date: "%Y-%m-%d %H:%M%z" }}">{{ page.date | date: "%b %d" }}</time> by {{ author.display_name }}</h4>
             {% if page.featured-img-url %}
             <p class="pull-right hidden-xs"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
             {% endif %}

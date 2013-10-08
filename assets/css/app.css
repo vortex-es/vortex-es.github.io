@@ -298,6 +298,10 @@ p.vortex-icon.title-icon.title-inverse-icon {
   background:#ffffff;
 }
 
+body {
+  font-family:'vortexregular', serif;
+}
+
 h1,h2,h3 {
   font-family:'vortexregular', serif;
   color:rgb(0,60,76);
@@ -305,6 +309,10 @@ h1,h2,h3 {
 h4,h5,h6,.navbar-default .navbar-nav > li > a {
   font-family:'vortexregular', serif;
   color:rgb(0,60,76);
+}
+
+h4 time {
+  text-transform: uppercase;
 }
 
 /*.navbar-default .navbar-nav > li:last-child > a {
@@ -411,12 +419,12 @@ color:#BFCBCF;
   padding-right: 15px;
 }*/
 
-.body-content.blog {
+.body-content.blog, .body-content.markets {
   position: relative;
   padding: 30px 2.5% 80px 2.5%;
 }
 
-.blog .breadcrumb {
+.blog .breadcrumb, .markets .breadcrumb {
 padding: 0;
 margin-bottom: 20px;
 list-style: none;
