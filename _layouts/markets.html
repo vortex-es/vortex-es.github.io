@@ -13,11 +13,13 @@ slug: markets
       <ul class="breadcrumb">
         <li><a href="{{ site.base_url }}/">Home</a></li>
         <li><a href="{{ site.base_url }}/markets">Markets</a></li>
+        {% if page.title != 'Markets' %}
         <li class="active">{{page.title}}</li>
+        {% endif %}
       </ul>
 
       <div class="page-header">
-        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {{page.title}}</h1>
+        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {% if page.title == 'Markets' %}<strong>{{page.title}}</strong> {% else if %}<strong>{{page.title}}</strong>, {{page.subtitle}} {% endif %}</h1>
       </div>
 
           <article role="main">

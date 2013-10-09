@@ -2,6 +2,7 @@
 layout: markets
 slug: markets
 title: Forecast
+subtitle: like it will be in the future
 keywords: forecast, service, energy, management, imbalance
 ---
 

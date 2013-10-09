@@ -1,7 +1,8 @@
 ---
 layout: markets
 slug: markets
-title: Offshore
+title: Off-shore
+subtitle: treated on-line
 keywords: forecast, service, energy, management, imbalance
 ---
 

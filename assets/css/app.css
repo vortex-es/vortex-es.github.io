@@ -45,7 +45,6 @@ img {
           transition: all 1s ease-in-out;
 }
 #myCarouselHomeVortex .carousel-caption a:hover {
-  border-bottom: 4px solid #ffffff;
   -webkit-opacity: 1;
      -moz-opacity: 1;
           opacity: 1;
