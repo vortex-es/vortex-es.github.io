@@ -13,7 +13,7 @@ keywords: online, wind, modeling, forecast, solar, offshore
 	<!-- Indicators -->
 		<ol class="carousel-indicators">
 		{% assign count = '-1' %}
-			{% for post in site.tags.slideshow limit:3 %}
+			{% for post in site.tags.slideshow limit:5 %}
 				{% if post.tags contains 'slideshow' %}
 					{% capture count %}{{ count | plus: '1' }}{% endcapture %}
 					{% if count == '0' %}
@@ -27,7 +27,7 @@ keywords: online, wind, modeling, forecast, solar, offshore
 		</ol>
 		<div class="carousel-inner">
 			{% assign count = '0' %}
-			{% for post in site.tags.slideshow limit:3 %}
+			{% for post in site.tags.slideshow limit:5 %}
 			{% if post.tags contains 'slideshow' %}
 				{% capture count %}{{ count | plus: '1' }}{% endcapture %}
 				{% if count == '1' %}
@@ -67,38 +67,22 @@ keywords: online, wind, modeling, forecast, solar, offshore
   		<div class="row">
   			<div class="col-md-3 col-sm-6">
 			    <div class="vortex-icon wind-site-icon">
-					<div id="cf3">
-					  <img class="bottom" src="{{site.baseurl}}/assets/img/wind-site-white-b.png" />
-					  <img class="top" src="{{site.baseurl}}/assets/img/wind-site-white-a.png" />
-					</div>
 					<p class="vortex-icon title-icon title-inverse-icon text-center"><a href="{{ site.base_url }}/markets/wind-and-site.html">Wind & Site</a></p>
 				</div>
 			</div>
 			<div class="col-md-3 col-sm-6">
 			    <div class="vortex-icon forecast-forecast">
-					<div id="cf3">
-					  <img class="bottom" src="{{site.baseurl}}/assets/img/forecast-white-b.png" />
-					  <img class="top" src="{{site.baseurl}}/assets/img/forecast-white-a.png" />
-					</div>
-					<p class="vortex-icon title-icon title-inverse-icon text-center">Forecast</p>
+					<p class="vortex-icon title-icon title-inverse-icon text-center"><a href="{{ site.base_url }}/markets/forecast.html">Forecast</a></p>
 				</div>
 			</div>
 			<div class="col-md-3 col-sm-6">
 			    <div class="vortex-icon solar-icon">
-					<div id="cf3">
-					  <img class="bottom" src="{{site.baseurl}}/assets/img/solar-white-b.png" />
-					  <img class="top" src="{{site.baseurl}}/assets/img/solar-white-a.png" />
-					</div>
-					<p class="vortex-icon title-icon title-inverse-icon text-center">Solar</p>
+					<p class="vortex-icon title-icon title-inverse-icon text-center"><a href="{{ site.base_url }}/markets/solar.html">Solar</a></p>
 				</div>
 			</div>
 			<div class="col-md-3 col-sm-6">
 			    <div class="vortex-icon offshore-icon">
-					<div id="cf3">
-					  <img class="bottom" src="{{site.baseurl}}/assets/img/offshore-white-b.png" />
-					  <img class="top" src="{{site.baseurl}}/assets/img/offshore-white-a.png" />
-					</div>
-					<p class="vortex-icon title-icon title-inverse-icon text-center">Offshore</p>
+					<p class="vortex-icon title-icon title-inverse-icon text-center"><a href="{{ site.base_url }}/markets/offshore.html">Offshore</a></p>
 				</div>
 			</div>
 		</div>

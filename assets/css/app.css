@@ -242,7 +242,7 @@ img {
   animation-direction: alternate;
 }
 
-p.vortex-icon.title-icon {
+p.vortex-icon.title-icon a {
   text-transform: uppercase;
   font-size: 30px;
   font-family:'vortexregular', serif;
@@ -251,7 +251,7 @@ p.vortex-icon.title-icon {
   margin:0;
 }
 
-p.vortex-icon.title-icon.title-inverse-icon {
+p.vortex-icon.title-icon.title-inverse-icon a {
   color: rgba(255,255,255,1);
 }
 
@@ -650,7 +650,14 @@ main[role="main"] {
   max-width: 970px;
 }
 .vortex-icon {
-  margin-top: -230px;
+  margin-top: -180px;
   margin-bottom: 0;
+}
+}
+
+@media screen and (min-width: 1200px) {
+ #marketsIconHome {
+  background: none;
+  max-width: 1170px;
 }
 }
