@@ -25,27 +25,50 @@ img {
 
 #myCarouselHomeVortex .carousel-caption {
   z-index: 10;
-  top:0;
+  bottom:0;
+  padding-top: 0;
+  top: 0;
   text-align: left;
   text-shadow:none;
 }
+#myCarouselHomeVortex .carousel-caption a {
+  color: #ffffff;
+  text-decoration: none;
+  border-bottom: 2px solid #ffffff;
+  -webkit-opacity: 0.5;
+     -moz-opacity: 0.5;
+          opacity: 0.5;
+  -webkit-transition: all 1s ease-in-out;
+     -moz-transition: all 1s ease-in-out;
+      -ms-transition: all 1s ease-in-out;
+       -o-transition: all 1s ease-in-out;
+          transition: all 1s ease-in-out;
+}
+#myCarouselHomeVortex .carousel-caption a:hover {
+  border-bottom: 4px solid #ffffff;
+  -webkit-opacity: 1;
+     -moz-opacity: 1;
+          opacity: 1;
+}
 #myCarouselHomeVortex .carousel-indicators {
-  top:20px;
+  bottom:20px;
 }
 #myCarouselHomeVortex .carousel-caption h1, #myCarouselHomeVortex .carousel-caption h4 {
   color: #ffffff;
 }
 
 #myCarouselHomeVortex.carousel .item {
-  min-height: 200px;
+  min-height: 400px;
   background-color: rgba(0,60,76,1);
 }
 
-#myCarouselHomeVortex .carousel-inner > .item > img {
+#myCarouselHomeVortex .carousel-inner .item .container img {
   position: absolute;
   top: 0;
   left: 0;
   min-width: 100%;
+  display: none;
+  height: 500px;
 }
 
 /* ---- marketsIconHome ---- */
@@ -613,6 +636,12 @@ width: 90px!important;
 } 
 }
 
+@media (min-width: 480px) {
+#myCarouselHomeVortex.carousel .item {
+  min-height: 300px;
+}
+}
+
 @media (min-width: 768px) {
 header[role="banner"] div.navbar {
   padding-top: 25px;
@@ -635,16 +664,18 @@ main[role="main"] {
 .vortex-icon {
   margin-bottom: 1em;
 }
+#myCarouselHomeVortex .carousel-inner .item .container img {
+  display: block;
+}
+  #myCarouselHomeVortex.carousel .item {
+  height: 500px;
+}
 }
 
 @media screen and (min-width: 1024px) {
  body.vx-comunicacio,body.vx-infraestructura {
       background: url(/assets/img/banner-barcelona-lg.jpg) no-repeat 50% 8%;
-  } 
-
-  #myCarouselHomeVortex.carousel .item {
-  height: 400px;
-}
+  }
 #marketsIconHome {
   background: none;
   max-width: 970px;

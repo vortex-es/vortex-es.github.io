@@ -39,18 +39,25 @@ keywords: online, wind, modeling, forecast, solar, offshore
 					<div class="container">
 						<img src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}">
 			            <div class="carousel-caption">
-			              <h1>{{ post.title }}</h1>
-			              <h4>{{ post.excerpt }}</h4>
+			              	<h1>
+			              	{% if post.title == 'Vortex' %}
+				              	<strong>{{ post.title }}</strong>, {{ post.subtitle }}
+				             {% else if %}
+				             	<a href="{{site.baseurl}}/markets/{{ post.url }}.html"><strong>{{ post.title }}</strong></a>, {{ post.subtitle }}
+				             {% endif %}
+			              	</h1>
+			              	<h4>{{ post.excerpt }}</h4>
 			            </div>
 			         </div>	
 					
 					{% else if %}
 					<div class="container">
 			            <div class="carousel-caption">
-			              <h1>{{ post.title }}</h1>
-			              <p>{{ post.excerpt }}</p>
+			              	<h1>
+				              	<a href="{{site.baseurl}}/markets/{{ post.url }}.html"><strong>{{ post.title }}</strong>, {{ post.subtitle }}</a>
+		              		</h1>
+			              	<h4>{{ post.excerpt }}</h4>
 			            </div>
-			         </div>	
 					
 					{% endif %}
 				</div>
@@ -63,7 +70,7 @@ keywords: online, wind, modeling, forecast, solar, offshore
 
 	<!-- iconMarkets
 	================================================== -->
-	<div id="marketsIconHome" class="container blau-vortex">
+	<!-- <div id="marketsIconHome" class="container blau-vortex">
   		<div class="row">
   			<div class="col-md-3 col-sm-6">
 			    <div class="vortex-icon wind-site-icon">
@@ -86,7 +93,7 @@ keywords: online, wind, modeling, forecast, solar, offshore
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<div class="container">
 

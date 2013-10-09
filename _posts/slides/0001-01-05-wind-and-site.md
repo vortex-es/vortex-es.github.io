@@ -1,6 +1,7 @@
 ---
 
-title: Wind & Site, one-click away
+title: Wind & Site
+subtitle: one-click away
 categories: slideshow
 tags: slideshow
 featured-img: true
