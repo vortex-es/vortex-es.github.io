@@ -669,6 +669,9 @@ main[role="main"] {
   #myCarouselHomeVortex.carousel .item {
   height: 500px;
 }
+#thoughts div.row .recent-news {
+  min-height: 320px;
+}
 }
 
 @media screen and (min-width: 1024px) {
