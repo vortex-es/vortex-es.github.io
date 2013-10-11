@@ -441,12 +441,12 @@ color:#BFCBCF;
   padding-right: 15px;
 }*/
 
-.body-content.blog, .body-content.markets {
+.body-content.blog, .body-content.markets, .body-content.solutions {
   position: relative;
   padding: 30px 2.5% 80px 2.5%;
 }
 
-.blog .breadcrumb, .markets .breadcrumb {
+.blog .breadcrumb, .markets .breadcrumb, .solutions .breadcrumb {
 padding: 0;
 margin-bottom: 20px;
 list-style: none;
@@ -672,6 +672,9 @@ main[role="main"] {
 #thoughts div.row .recent-news {
   min-height: 320px;
 }
+body.vx-solutions div.body-content article p.pull-right, body.vx-markets div.body-content article p.pull-right {
+  float: none!important;
+}
 }
 
 @media screen and (min-width: 1024px) {
@@ -685,6 +688,9 @@ main[role="main"] {
 .vortex-icon {
   margin-top: -180px;
   margin-bottom: 0;
+}
+body.vx-solutions div.body-content article p.pull-right, body.vx-markets div.body-content article p.pull-right {
+  float: right!important;
 }
 }
 
