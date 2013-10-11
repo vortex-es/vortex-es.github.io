@@ -2,10 +2,10 @@
 layout: solutions
 slug: solutions
 title: Mast
-subtitle: hi posem un subtítol?
+subtitle:
 keywords: 
 featured-img-url: vortex-solutions-mastfoto.png
-icon-url: vortex-solutions-mast-icon.png
+icon-url: vortex-solutions-mast-icon-128.png
 ---
 
 <p class="lead"><strong>Vortex Mast</strong> has been designed to help you in the important decision of placing a real met. mast on the field.</p>

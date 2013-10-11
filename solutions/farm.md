@@ -2,9 +2,10 @@
 layout: solutions
 slug: solutions
 title: Farm
-subtitle: hi posem un subtítol?
+subtitle:
 keywords: 
 featured-img-url: vortex-solutions-farmfoto.png
+icon-url: vortex-solutions-farm-icon-128.png
 ---
 
 <p class="lead">Probably, the most complete modeling product on the market: long-term main statistics at any point within the area of your planned wind Farm plus high-resolution temperature, mean wind, extreme wind (Vref) and turbulence maps for IEC turbine Class selection.</p>

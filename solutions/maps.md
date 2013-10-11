@@ -2,10 +2,10 @@
 layout: solutions
 slug: solutions
 title: Maps
-subtitle: hi posem un subtítol?
+subtitle:
 keywords: 
 featured-img-url: vortex-solutions-mapfoto.png
-icon-url: vortex-solutions-maps-icon.png
+icon-url: vortex-solutions-maps-icon-128.png
 ---
 
 <p class="lead"><strong>Vortex Maps</strong> are inexpensive and delivered fast because they only cover the areas you are interested in, selected after a couple of clicks from your web browser.</p>
