@@ -6,7 +6,7 @@ subtitle: one-click away
 keywords: wind and site, farm, development, decisions, measuring
 ---
 
-Wind farm development is a long and challenging task. At each stage of the process, decisions have to be taken using the best available information. Vortex portfolio has been designed to cost-effectively help you answering some key questions:
+<p class="lead">Wind farm development is a long and challenging task. At each stage of the process, decisions have to be taken using the best available information. Vortex portfolio has been designed to cost-effectively help you answering some key questions:</p>
 
 <div clas="row">
 

@@ -6,4 +6,4 @@ subtitle: the primary source
 keywords: forecast, service, energy, management, imbalance
 ---
 
-Pendent
+<p class="lead">The Sun is the ultimate source of most natural energies. Vortex solar mapping & prospecting treat it with the care it deserves...</p>

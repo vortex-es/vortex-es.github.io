@@ -6,4 +6,4 @@ subtitle: treated on-line
 keywords: forecast, service, energy, management, imbalance
 ---
 
-Pendent
+<p class="lead">Ocean is hard but Metocean technology can be soft. Access to Vortex wind & waves estimations from your desktop</p>
