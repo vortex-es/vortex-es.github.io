@@ -446,7 +446,7 @@ color:#BFCBCF;
   padding: 30px 2.5% 80px 2.5%;
 }
 
-.blog .breadcrumb, .markets .breadcrumb, .solutions .breadcrumb {
+.blog .breadcrumb, .markets .breadcrumb, .solutions .breadcrumb,  .about-us .breadcrumb {
 padding: 0;
 margin-bottom: 20px;
 list-style: none;
@@ -671,6 +671,9 @@ main[role="main"] {
 }
 #thoughts div.row .recent-news {
   min-height: 320px;
+}
+ .about-us #thoughts div.row .recent-news {
+  min-height: 120px;
 }
 body.vx-solutions div.body-content article p.pull-right, body.vx-markets div.body-content article p.pull-right {
   float: none!important;
