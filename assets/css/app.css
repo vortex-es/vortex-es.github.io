@@ -341,34 +341,40 @@ h4 time {
   color:rgb(147,176,237);
 }*/
 
-/* Effect 5: same word slide in */
-header[role="banner"] .cl-effect-5 a {
-	overflow: hidden;
+/* Effect 3: bottom line slides/fades in */
+header[role="banner"] .cl-effect-3 a::after {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 4px;
+  background: rgba(78,117,128,0.5);
+  content: '';
+  opacity: 0;
+  -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
+  -moz-transition: opacity 0.3s, -moz-transform 0.3s;
+  transition: opacity 0.3s, transform 0.3s;
+  -webkit-transform: translateY(10px);
+  -moz-transform: translateY(10px);
+  transform: translateY(10px);
 }
 
-header[role="banner"] .cl-effect-5 a span {
-	position: relative;
-	display: inline-block;
-	-webkit-transition: -webkit-transform 0.3s;
-	-moz-transition: -moz-transform 0.3s;
-	transition: transform 0.3s;
+header[role="banner"] .cl-effect-3 a:hover::after,
+header[role="banner"] .cl-effect-3 a:focus::after {
+  opacity: 1;
+  -webkit-transform: translateY(0px);
+  -moz-transform: translateY(0px);
+  transform: translateY(0px);
 }
 
-header[role="banner"] .cl-effect-5 a span::before {
-	position: absolute;
-	top: 200%;
-	content: attr(data-hover);
-	-webkit-transform: translate3d(0,0,0);
-	-moz-transform: translate3d(0,0,0);
-	transform: translate3d(0,0,0);
+header[role="banner"] .cl-effect-3 a.navbar-brand:hover::after,
+header[role="banner"] .cl-effect-3 li.active a:hover::after,
+header[role="banner"] .cl-effect-3 a.navbar-brand:focus::after,
+header[role="banner"] .cl-effect-3 li.active a:focus::after {
+  opacity: 0;
 }
 
-header[role="banner"] .cl-effect-5 a:hover span,
-header[role="banner"] .cl-effect-5 a:focus span {
-	-webkit-transform: translateY(-200%);
-	-moz-transform: translateY(-200%);
-	transform: translateY(-200%);
-}
+
 
 header[role="banner"] div.navbar {
   padding-top: 12.5px;
@@ -651,8 +657,7 @@ main[role="main"] {
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   background:none;
-  border-bottom:2.5px solid rgb(78,117,128);
-  padding-bottom:5px;
+  border-bottom:4px solid rgb(78,117,128);
 }
   .card .card-title {
   font-size: 6.5rem;
