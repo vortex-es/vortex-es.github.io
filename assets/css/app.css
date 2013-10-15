@@ -460,7 +460,7 @@ color:#BFCBCF;
 
 .body-content.blog, .body-content.markets, .body-content.solutions {
   position: relative;
-  padding: 0 2.5% 50px 2.5%;
+  padding: 30px 2.5% 50px 2.5%;
 }
 
 .blog .breadcrumb, .markets .breadcrumb, .solutions .breadcrumb,  .about-us .breadcrumb {
@@ -698,6 +698,9 @@ main[role="main"] {
 }
 body.vx-solutions div.body-content article p.pull-right, body.vx-markets div.body-content article p.pull-right {
   float: none!important;
+}
+.body-content.blog, .body-content.markets, .body-content.solutions {
+  padding-top: 0;
 }
 }
 
