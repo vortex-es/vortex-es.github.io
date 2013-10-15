@@ -20,5 +20,5 @@ port:             9001
 # Prose
 prose:
   rooturl: '_posts'
-  siteurl: 'http://www.vortex.es/'
+  siteurl: 'http://vortex-es.github.io/'
   media: 'assets/img'
