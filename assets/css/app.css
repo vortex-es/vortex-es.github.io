@@ -21,6 +21,10 @@ img {
   border-bottom:1px solid rgb(0,60,76);
 }
 
+body.solutions-solution .page-header {
+  border-bottom:none;
+}
+
 /* ----- #myCarouselHomeVortex ---- */
 
 #myCarouselHomeVortex .carousel-caption {
@@ -449,7 +453,7 @@ color:#BFCBCF;
 
 .body-content.blog, .body-content.markets, .body-content.solutions {
   position: relative;
-  padding: 30px 2.5% 80px 2.5%;
+  padding: 0 2.5% 50px 2.5%;
 }
 
 .blog .breadcrumb, .markets .breadcrumb, .solutions .breadcrumb,  .about-us .breadcrumb {

@@ -1,6 +1,7 @@
 ---
 layout: solutions
 slug: solutions
+class: solutions-solution
 title: Series
 subtitle:
 keywords: 

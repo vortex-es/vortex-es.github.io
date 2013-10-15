@@ -1,6 +1,5 @@
 ---
 layout: default
-class: solutions-market
 slug: solutions
 ---
 
@@ -18,14 +17,15 @@ slug: solutions
         {% endif %}
       </ul>
 
+      {% if page.featured-img-url %}
+      <p class="pull-right hidden-xs text-center"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
+      {% endif %}
+
       <div class="page-header">
         <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {% if page.title == 'Solutions' %}<strong>{{page.title}}</strong> {% else if %}{{page.title}} {% if page.subitle %}, {{page.subtitle}} {% endif %} {% endif %}</h1>
       </div>
 
           <article role="main">
-            {% if page.featured-img-url %}
-            <p class="pull-right hidden-xs text-center"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
-            {% endif %}
             {{ content }}
           </article>
 

@@ -1,6 +1,7 @@
 ---
 layout: solutions
 slug: solutions
+class: solutions-solution
 title: Icing
 subtitle:
 keywords: 
