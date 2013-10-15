@@ -5,7 +5,7 @@ class: solutions-solution
 title: Maps
 subtitle:
 keywords: 
-featured-img-url: vortex-solutions-mapfoto.png
+featured-img-url: vortex-solutions-mapfoto.jpg
 icon-url: vortex-solutions-maps-icon-128.png
 ---
 

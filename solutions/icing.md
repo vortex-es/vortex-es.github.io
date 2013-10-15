@@ -5,7 +5,7 @@ class: solutions-solution
 title: Icing
 subtitle:
 keywords: 
-featured-img-url: vortex-solutions-icingfoto.png
+featured-img-url: vortex-solutions-icingfoto.jpg
 icon-url: vortex-solutions-icing-icon-128.png
 ---
 

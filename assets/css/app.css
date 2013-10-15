@@ -76,11 +76,6 @@ body.solutions-solution .page-header {
 
 /* ---- marketsIconHome ---- */
 
-#marketsIconHome {
-  background: #003C4C;
-  max-width: 100%;
-}
-
   @-webkit-keyframes cf3FadeInOut {
    0% {
      opacity:1;
@@ -281,6 +276,14 @@ p.vortex-icon.title-icon.title-inverse-icon a {
   color: rgba(255,255,255,1);
 }
 
+h2.title-icon a {
+  text-transform: uppercase;
+  color: rgba(0, 60, 76, 1);
+}
+
+h2.title-icon a:hover {
+  text-decoration: none;
+}
 
 .molecula:hover {
           transform: rotate(360deg);
@@ -303,6 +306,10 @@ p.vortex-icon.title-icon.title-inverse-icon a {
 
 .jumbotron-blue-vortex {
   background:rgb(191,203,207);
+}
+
+.jumbotron-white {
+  background:rgb(1255,255,255);
 }
 
 .jumbotron-no-margin {
@@ -346,7 +353,7 @@ h4 time {
 }*/
 
 /* Effect 3: bottom line slides/fades in */
-header[role="banner"] .cl-effect-3 a::after {
+.cl-effect-3 a::after {
   position: absolute;
   top: 100%;
   left: 0;
@@ -363,18 +370,18 @@ header[role="banner"] .cl-effect-3 a::after {
   transform: translateY(10px);
 }
 
-header[role="banner"] .cl-effect-3 a:hover::after,
-header[role="banner"] .cl-effect-3 a:focus::after {
+.cl-effect-3 a:hover::after,
+.cl-effect-3 a:focus::after {
   opacity: 1;
   -webkit-transform: translateY(0px);
   -moz-transform: translateY(0px);
   transform: translateY(0px);
 }
 
-header[role="banner"] .cl-effect-3 a.navbar-brand:hover::after,
-header[role="banner"] .cl-effect-3 li.active a:hover::after,
-header[role="banner"] .cl-effect-3 a.navbar-brand:focus::after,
-header[role="banner"] .cl-effect-3 li.active a:focus::after {
+.cl-effect-3 a.navbar-brand:hover::after,
+.cl-effect-3 li.active a:hover::after,
+.cl-effect-3 a.navbar-brand:focus::after,
+.cl-effect-3 li.active a:focus::after {
   opacity: 0;
 }
 
@@ -698,22 +705,12 @@ body.vx-solutions div.body-content article p.pull-right, body.vx-markets div.bod
  body.vx-comunicacio,body.vx-infraestructura {
       background: url(/assets/img/banner-barcelona-lg.jpg) no-repeat 50% 8%;
   }
-#marketsIconHome {
-  background: none;
-  max-width: 970px;
-}
-.vortex-icon {
-  margin-top: -180px;
-  margin-bottom: 0;
-}
+
 body.vx-solutions div.body-content article p.pull-right, body.vx-markets div.body-content article p.pull-right {
   float: right!important;
 }
 }
 
 @media screen and (min-width: 1200px) {
- #marketsIconHome {
-  background: none;
-  max-width: 1170px;
-}
+
 }

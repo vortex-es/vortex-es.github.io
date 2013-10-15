@@ -5,7 +5,7 @@ class: solutions-solution
 title: Series
 subtitle:
 keywords: 
-featured-img-url: vortex-solutions-seriesfoto.png
+featured-img-url: vortex-solutions-seriesfoto.jpg
 icon-url: vortex-solutions-series-icon-128.png
 ---
 

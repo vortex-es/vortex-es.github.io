@@ -5,7 +5,7 @@ class: solutions-solution
 title: Mast
 subtitle:
 keywords: 
-featured-img-url: vortex-solutions-mastfoto.png
+featured-img-url: vortex-solutions-mastfoto.jpg
 icon-url: vortex-solutions-mast-icon-128.png
 ---
 
