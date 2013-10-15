@@ -595,6 +595,11 @@ width: 90px!important;
   text-transform: uppercase;
 }
 
+#thoughts .thoughts-thumbnail img {
+  max-width: 150px;
+  margin-right: 10px;
+}
+
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
 

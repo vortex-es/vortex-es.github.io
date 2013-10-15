@@ -5,6 +5,7 @@ layout: blog
 slug: vortex-is-a-company-with-experience-independence-and-collaborative
 title: Vortex is a company with experience, independence and collaborative
 categories: [infraestructura, general, no-cita]
+featured-img-url: Sheringham_Shoal_Wind_Farm_2012.jpg
 tags:
 meta: Vortex is a company with experience, independence and collaborative
 excerpt: Vortex started its technology development in 2007 by former Wind&Site engineers (with more than 20 years of experience), atmospheric physicists and computer experts
