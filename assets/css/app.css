@@ -712,6 +712,10 @@ body.vx-solutions div.body-content article p.pull-right, body.vx-markets div.bod
 body.vx-solutions div.body-content article p.pull-right, body.vx-markets div.body-content article p.pull-right {
   float: right!important;
 }
+body.vx-solutions div.body-content article p.featured-img-url {
+  margin-top: -150px;
+  margin-left: 10px;
+}
 }
 
 @media screen and (min-width: 1200px) {

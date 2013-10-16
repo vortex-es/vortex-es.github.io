@@ -17,32 +17,21 @@ slug: solutions
         {% endif %}
       </ul>
 
-      {% if page.featured-img-url %}
-      <p class="pull-right hidden-xs text-center"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
-      {% endif %}
-
       <div class="page-header">
         <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {% if page.title == 'Solutions' %}<strong>{{page.title}}</strong> {% else if %}{{page.title}} {% if page.subitle %}, {{page.subtitle}} {% endif %} {% endif %}</h1>
       </div>
 
           <article role="main">
+            {% if page.featured-img-url %}
+            <p class="pull-right hidden-xs text-center featured-img-url"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
+            {% endif %}
             {{ content }}
           </article>
 
     </div>
-
-  </div>
-
-  <div class="jumbotron jumbotron-orange jumbotron-no-margin full-width">
-
-    <div class="container">
-
-      <div class="page-header">
-        <h1 class="text-center">Can we help you?</h1> 
-        <p class="text-center"><a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact sales</a></p>
-      </div>
-
-    </div>
+    
+    <h1 class="text-center">Can we help you?</h1> 
+    <p class="text-center"><a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact sales</a></p>
 
   </div>
 
