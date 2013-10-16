@@ -5,8 +5,8 @@ class: solutions-solution
 title: Wind Farm Power Forecast
 subtitle:
 keywords: 
-featured-img-url: 
-icon-url: 
+featured-img-url:
+icon-url: vortex-solutions-forecast-icon-128.png
 ---
 
 <p class="lead"><strong>Vortex</strong> provides a Power Forecast with a really high precision. Precision in Power Forecast is mandatory as allows to reduce imbalance cost and comply regulatory requirements.</p>

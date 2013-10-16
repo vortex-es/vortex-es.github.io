@@ -5,8 +5,8 @@ class: solutions-solution
 title: Wind Forecast
 subtitle:
 keywords: 
-featured-img-url: 
-icon-url: 
+featured-img-url:
+icon-url: vortex-solutions-forecast-icon-128.png
 ---
 
 <p class="lead"><strong>Vortex Wind Forecast</strong> is a site specific designed for operational and maintenance services in renewable energy plants. We do provide main weather variables like wind, temperature or pressure. </p>
