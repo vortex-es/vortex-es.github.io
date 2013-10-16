@@ -11,7 +11,7 @@ icon-url:
 
 <p class="lead"><strong>Vortex</strong> provides a Power Forecast with a really high precision. Precision in Power Forecast is mandatory as allows to reduce imbalance cost and comply regulatory requirements.</p>
 
-##Technical details:
+###Technical details:
 
 - Power forecast.
 - 360 h forecast.

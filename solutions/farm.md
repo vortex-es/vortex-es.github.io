@@ -19,7 +19,7 @@ When the wind farm area is already selected but not yet the turbine locations or
 
 WRG files for WindPro, WindFarmer, OpenWind plus Vref and TI data.
 
-##Technical details:
+###Technical details:
 
 - Fully selectable areas in size, location and orientation.
 - Up to 100 m resolution.

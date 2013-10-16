@@ -17,7 +17,7 @@ Vortex Icing provides a fairly reasonable estimate of the combined probability o
 
 Before the decision of starting a development in clod-climate must be taken.
 
-##Technical details:
+###Technical details:
 
 - Any region worldwide, both on and off-shore.
 - Up to 100 m resolution.

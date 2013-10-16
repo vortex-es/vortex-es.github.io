@@ -16,4 +16,67 @@ They could also help you.
 
 ##Some of our costumers
 
+<div class="row">
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/iberdrola-renovables-vortex-160x160.jpg"/></a></p>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/res-group-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/siemens-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/gl-garrad-hassan-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/acciona-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/gamesa-vortex-160x160.jpg"/>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/renova-energia-vortex-160x160.jpg"/></a></p>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/edp-renovaveis-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/dewi-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/suzlon-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/nordex-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/edf-vortex-160x160.jpg"/>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/vattenfall-vortex-160x160.jpg"/></a></p>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/natural-power-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/dong-energy-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/clipper-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/cube-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/alston-vortex-160x160.jpg"/>
+	</div>
+</div>
+
 
