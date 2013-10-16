@@ -79,4 +79,32 @@ They could also help you.
 	</div>
 </div>
 
+<div class="row">
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/e-on-vortex-160x160.jpg"/></a></p>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/inova-energy-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/impsa-wind-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/sse-renewables-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/wind-prospect-vortex-160x160.jpg"/>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/rwe-vortex-160x160.jpg"/>
+	</div>
+</div>
 
+<div class="row">
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/hatch-vortex-160x160.jpg"/></a></p>
+	</div>
+	<div class="col-xs-6 col-md-2 col-sm-2">
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/3e-vortex-160x160.jpg"/>
+	</div>
+</div>
