@@ -2,7 +2,7 @@
 layout: solutions
 slug: solutions
 class: solutions-solution
-title: Farm
+title: FARM
 subtitle:
 keywords: 
 featured-img-url: vortex-solutions-farmfoto.jpg

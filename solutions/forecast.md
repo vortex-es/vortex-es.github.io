@@ -2,14 +2,14 @@
 layout: solutions
 slug: solutions
 class: solutions-solution
-title: Wind Forecast
+title: FORECAST
 subtitle:
 keywords: 
 featured-img-url:
 icon-url: vortex-solutions-forecast-icon-128.png
 ---
 
-<p class="lead"><strong>Vortex Wind Forecast</strong> is a site specific designed for operational and maintenance services in renewable energy plants. We do provide main weather variables like wind, temperature or pressure. </p>
+<p class="lead">The accuracy and a fast response service are mandatory in <strong>Power Forecast</strong> for Grid Management and <strong>Wind Forecast</strong> for Operational and Maintenance.</p>
 
 ###Technical details: 
 

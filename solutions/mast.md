@@ -2,7 +2,7 @@
 layout: solutions
 slug: solutions
 class: solutions-solution
-title: Mast
+title: MAST
 subtitle:
 keywords: 
 featured-img-url: vortex-solutions-mastfoto.jpg

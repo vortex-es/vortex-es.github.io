@@ -2,24 +2,18 @@
 layout: solutions
 slug: solutions
 class: solutions-solution
-title: Maps
+title: MAPS
 subtitle:
 keywords: 
 featured-img-url: vortex-solutions-mapfoto.jpg
 icon-url: vortex-solutions-maps-icon-128.png
 ---
 
-<p class="lead"><strong>Vortex Maps</strong> are inexpensive and delivered fast because they only cover the areas you are interested in, selected after a couple of clicks from your web browser.</p>
-
-Thanks to **Vortex** exclusive WAsP Wind Atlas export feature, MAPS can be refined to any resolution making them the ultimate tool for prospecting purposes.  
+<p class="lead">Thanks to <strong>Vortex exclusive WAsP Wind Atlas export feature</strong>, MAPS can be refined to any resolution making them the ultimate tool for prospecting purposes.</p>
 
 ##When to use Maps?
 
 When a large unknown area is explored, well before any measurement are available.
-
-##Main deliverables
-
-GIS and LIB files for WAsP, WindPro...
 
 ###Technical details:
 

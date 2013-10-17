@@ -2,7 +2,7 @@
 layout: solutions
 slug: solutions
 class: solutions-solution
-title: Icing
+title: ICING
 subtitle:
 keywords: 
 featured-img-url: vortex-solutions-icingfoto.jpg

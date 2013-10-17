@@ -2,7 +2,7 @@
 layout: solutions
 slug: solutions
 class: solutions-solution
-title: Series
+title: SERIES
 subtitle:
 keywords: 
 featured-img-url: vortex-solutions-seriesfoto.jpg
