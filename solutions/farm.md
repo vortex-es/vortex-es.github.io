@@ -5,6 +5,7 @@ class: solutions-solution
 title: FARM
 subtitle:
 keywords: 
+regsiter: true
 featured-img-url: vortex-solutions-farmfoto.jpg
 icon-url: vortex-solutions-farm-icon-128.png
 ---

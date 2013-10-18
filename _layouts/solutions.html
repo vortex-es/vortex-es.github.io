@@ -26,12 +26,108 @@ slug: solutions
             <p class="pull-right hidden-xs text-center featured-img-url"><img class="img-thumbnail" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
             {% endif %}
             {{ content }}
-          </article>
+          </article>   
 
-      <hr />
+        {% if page.register %}
 
-      <h1 class="text-center">Can we help you?</h1> 
-      <p class="text-center"><a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact sales</a></p>
+        <div class="well {% if page.title == 'Solutions' %} hidden-xs hidden-sm hidden-md hidden-lg {% endif %}">
+
+          <p>New to Vortex? Please, <strong>sign up</strong></p>
+
+          <form class="form-horizontal" role="form">
+            <div class="form-group">
+              <label for="inputName1" class="col-md-4 col-lg-4 control-label">Complete Name</label>
+              <div class="col-md-6 col-lg-6">
+                <input type="name" class="form-control" id="inputName1" placeholder="Name">
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="inputEmail1" class="col-md-4 col-lg-4 control-label">Email address</label>
+              <div class="col-md-6 col-lg-6">
+                <input type="email" class="form-control" id="inputEmail1" placeholder="Email">
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="inputEmail2" class="col-md-4 col-lg-4 control-label">Confirm Email</label>
+              <div class="col-md-6 col-lg-6">
+                <input type="email" class="form-control" id="inputEmail2" placeholder="Email">
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="col-md-offset-4 col-md-6 col-lg-offset-4 col-lg-6">
+                <div class="checkbox">
+                  <label>
+                    <input type="checkbox"> I agree with Vortex <a data-toggle="modal" href="#myModal">Terms of service</a> and <a href="">Privacy Policy</a>.
+                  </label>
+                </div>
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="col-md-offset-4 col-md-6 col-lg-offset-4 col-lg-6">
+                <button type="submit" class="btn btn-default">Sign up</button>
+              </div>
+            </div>
+          </form>
+
+        </div>
+
+        {% else if %}
+
+        <div class="well {% if page.title == 'Solutions' %} hidden-xs hidden-sm hidden-md hidden-lg {% endif %}">
+
+          <p>Please, <strong>contact sales</strong></p>
+
+          <form class="form-horizontal" role="form">
+            <div class="form-group">
+              <label for="inputName1" class="col-md-4 col-lg-4 control-label">Name</label>
+              <div class="col-md-6 col-lg-6">
+                <input type="name" class="form-control" id="inputName1" placeholder="Name">
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="inputCompany1" class="col-md-4 col-lg-4 control-label">Company</label>
+              <div class="col-md-6 col-lg-6">
+                <input type="name" class="form-control" id="inputCompany1" placeholder="Name">
+              </div>
+            </div>
+            <div class="form-group">
+              <label for="inputEmail1" class="col-md-4 col-lg-4 control-label">Email address</label>
+              <div class="col-md-6 col-lg-6">
+                <input type="email" class="form-control" id="inputEmail1" placeholder="Email">
+              </div>
+            </div>
+            <div class="form-group">
+              <div class="col-md-offset-4 col-md-6 col-lg-offset-4 col-lg-6">
+                <button type="submit" class="btn btn-default">Submit</button>
+              </div>
+            </div>
+          </form>
+
+        </div>
+
+        {% endif %}
+
+        <div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" style="display: none;">
+          <div class="modal-dialog">
+            <div class="modal-content">
+
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                <h4 class="modal-title" id="myModalLabel">Terms of service</h4>
+              </div>
+              <div class="modal-body">
+               
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+              </div>
+
+            </div><!-- /.modal-content -->
+          </div><!-- /.modal-dialog -->
+        </div>
+
+      <!-- <h1 class="text-center">Can we help you?</h1> 
+      <p class="text-center"><a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact sales</a></p> -->
 
     </div>
 

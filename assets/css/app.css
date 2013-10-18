@@ -463,6 +463,10 @@ color:#BFCBCF;
   padding: 30px 2.5% 50px 2.5%;
 }
 
+.body-content.blog .well, .body-content.markets .well, .body-content.solutions .well{
+  margin-top: 2em;
+}
+
 .blog .breadcrumb, .markets .breadcrumb, .solutions .breadcrumb,  .about-us .breadcrumb {
 padding: 0;
 margin-bottom: 20px;
