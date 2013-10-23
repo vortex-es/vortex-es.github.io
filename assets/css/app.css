@@ -671,6 +671,7 @@ width: 90px!important;
 header[role="banner"] div.navbar {
   padding-top: 25px;
   height: 100px;
+  font-size: 1.25em;
 }
 main[role="main"] {
   margin-top: 60px;
