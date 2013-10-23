@@ -103,13 +103,13 @@ keywords: online, wind, modeling, forecast, solar, offshore
 				{% for post in site.categories.general limit:3 %}
 					<div class="col-sm-4 col-md-4">
 						<div class="recent-news">
-							{% if post.featured-img-url %}
-            				<p class="pull-left hidden-xs thoughts-thumbnail"><img src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}"></p>
-            				{% endif %}
 							<a href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>
 							<h5><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | date: "%b %d" }}</time></h5>
 							<!-- <h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4> -->
 							<hr />
+							{% if post.featured-img-url %}
+            				<p class="pull-left hidden-xs thoughts-thumbnail"><img src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}"></p>
+            				{% endif %}
 							<p>{{ post.excerpt }}</p>
 						</div>												
 					</div>
