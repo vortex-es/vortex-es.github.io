@@ -6,7 +6,9 @@ subtitle: treated on-line
 keywords: forecast, service, energy, management, imbalance
 ---
 
-<p class="lead"><strong>Offshore Winds</strong>, modeling from farms to power plants No matter: offshore measurements are priceless. Treat online the resource and secure your offshore project development through Vortex air and sea modelling pivots.</p>
+<p class="lead"><strong>Offshore Winds</strong>, modeling from farms to power plants.</p>
+
+No matter: offshore measurements are priceless. Treat online the resource and secure your offshore project development through Vortex air and sea modelling pivots.
 
 ##For initial project proposal and offshore zones tenders to final decision making
 
