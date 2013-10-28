@@ -10,6 +10,9 @@ slug: markets
 
     <div class="body-content markets">
 
+      {% if page.title == 'Markets' %}
+      {% else if %}
+      {% if page.title == 'References' or page.title == 'Pricing' %}
       <ul class="breadcrumb">
         <li><a href="{{ site.base_url }}/">Home</a></li>
         <li><a href="{{ site.base_url }}/markets">Markets</a></li>
@@ -17,6 +20,10 @@ slug: markets
         <li class="active">{{page.title}}</li>
         {% endif %}
       </ul>
+      {% else if %}
+      {% include nav-markets.html %}
+      {% endif %}
+      {% endif %}
 
       <div class="page-header">
         <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {% if page.title == 'Markets' or page.title == 'Pricing' %}<strong>{{page.title}}</strong> {% else if %}<strong>{{page.title}}</strong>, {{page.subtitle}} {% endif %}</h1>

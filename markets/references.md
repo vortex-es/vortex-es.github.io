@@ -1,7 +1,7 @@
 ---
 layout: markets
 slug: markets
-title: Refecences
+title: References
 subtitle: what do these companies have in common?
 keywords: forecast, service, energy, management, imbalance
 ---
