@@ -414,6 +414,10 @@ header[role="banner"] div.navbar {
   background:rgb(0,60,76); 
 }
 
+.nav-tabs {
+    border-bottom:none;
+}
+
 main[role="main"] {
   margin-top: 25px;
 }
@@ -679,6 +683,9 @@ main[role="main"] {
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   background:none;
   border-bottom:4px solid rgb(78,117,128);
+}
+.nav-tabs {
+    border-bottom: 1px solid #DDDDDD;
 }
   .card .card-title {
   font-size: 6.5rem;
