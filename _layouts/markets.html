@@ -19,18 +19,23 @@ slug: markets
       </ul>
 
       <div class="page-header">
-        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {% if page.title == 'Markets' %}<strong>{{page.title}}</strong> {% else if %}<strong>{{page.title}}</strong>, {{page.subtitle}} {% endif %}</h1>
+        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {% if page.title == 'Markets' or page.title == 'Pricing' %}<strong>{{page.title}}</strong> {% else if %}<strong>{{page.title}}</strong>, {{page.subtitle}} {% endif %}</h1>
       </div>
 
       <article role="main">
-        {% if page.featured-img-url %}
-        <p class="pull-right hidden-xs text-center featured-img-url"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
-        {% endif %}
         {{ content }}
       </article>
 
-      <h1 class="text-center">Can we help you?</h1> 
-      <p class="text-center">{% if page.title == 'Wind & Site' %}<a href='{{ site.base_url }}/getstarted' class='mailto btn btn-default' title='Get started'><span class='icon-signin icon-white'></span> Get Started</a></p> {% else if %} <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact sales</a> {% endif %}</p>
+      {% if page.title == 'Pricing' or page.title == 'Markets' %}
+      {% else if %}
+      {% if page.title == 'Wind & Site' or page.title == 'Forecast' %}
+      <h1 class="text-center">Are you interestd?</h1> 
+      <p class="text-center"><a href='{{ site.base_url }}/markets/pricing.html' class='mailto btn btn-default' title='Get started'><span class='icon-eur icon-white'></span> Pricing</a></p> 
+      {% else if %}
+      <h1 class="text-center">Can we help you?</h1>
+      <p class="text-center"><a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact sales</a></p>
+      {% endif %}
+      {% endif %}
 
     </div>
 

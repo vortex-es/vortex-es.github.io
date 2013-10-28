@@ -2,7 +2,7 @@
 layout: solutions
 slug: solutions
 class: solutions-solution
-title: WAVES
+title: SOLAR
 subtitle:
 keywords: 
 featured-img-url:

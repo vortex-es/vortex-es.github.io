@@ -707,6 +707,20 @@ body.vx-solutions div.body-content article p.pull-right, body.vx-markets div.bod
 .body-content.blog, .body-content.markets, .body-content.solutions {
   padding-top: 0;
 }
+body.vx-markets div.row div.pricing {
+  -webkit-transition: -webkit-transform .4s ease-in-out;
+     -moz-transition: -webkit-transform .4s ease-in-out;
+      -ms-transition: -webkit-transform .4s ease-in-out;
+       -o-transition: -webkit-transform .4s ease-in-out;
+          transition: transform .2s ease-in-out;
+  }
+body.vx-markets div.row div.pricing:hover {
+  -webkit-transform: scale(1.15);
+     -moz-transform: scale(1.15);
+      -ms-transform: scale(1.15);
+       -o-transform: scale(1.15);
+          transform: scale(1.15);
+  }
 }
 
 @media screen and (min-width: 1024px) {
@@ -720,6 +734,12 @@ body.vx-solutions div.body-content article p.pull-right, body.vx-markets div.bod
 body.vx-solutions div.body-content article p.featured-img-url {
   margin-top: -165px;
   margin-left: 10px;
+}
+body.vx-markets div.row div.pricing {
+  margin-top: 2em;
+}
+body.vx-markets div.row div.pricing.pricing-featured {
+  margin-top: 0;
 }
 }
 
