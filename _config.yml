@@ -12,6 +12,11 @@ authors:
   display_name: Vortex
   email: info@vortex.es
   web: http://www.vortex.es/
+ gil:
+  name: Gil
+  display_name: Gil
+  email: gil@vortex.es
+  web: http://www.vortex.es/
 
 # Server
 exclude:          ["LICENSE", "README.md",]

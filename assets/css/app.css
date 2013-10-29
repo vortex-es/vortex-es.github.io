@@ -503,6 +503,10 @@ background: #fff;
 overflow: hidden;
 }
 
+.card.card-gil{
+  background: rgba(0,60,76,.1);
+}
+
 .card .card-title {
   font-size: 3.5rem;
 }
@@ -668,6 +672,10 @@ width: 90px!important;
 @media (min-width: 480px) {
 #myCarouselHomeVortex.carousel .item {
   min-height: 300px;
+}
+body.vx-blog .ox-masthead div.body-content p.gil {
+  float: left;
+  margin-right: 1em;
 }
 }
 
