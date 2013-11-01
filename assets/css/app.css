@@ -38,25 +38,8 @@ body.solutions-solution .page-header {
 #myCarouselHomeVortex .carousel-caption a {
   display: block;
 }
-#myCarouselHomeVortex .carousel-caption a h1,
-#myCarouselHomeVortex .carousel-caption a h4{
-  color: #ffffff;
-  text-decoration: none;
-  background:rgba(0,60,76,0);
-  padding: 0;
-  -webkit-transition: all 1s ease-in-out;
-     -moz-transition: all 1s ease-in-out;
-      -ms-transition: all 1s ease-in-out;
-       -o-transition: all 1s ease-in-out;
-          transition: all 1s ease-in-out;
-}
 #myCarouselHomeVortex .carousel-caption a:hover {
   text-decoration: none;
-}
-#myCarouselHomeVortex .carousel-caption a:hover h1,
-#myCarouselHomeVortex .carousel-caption a:hover h4 {
-  background:rgba(0,60,76,.75);
-  padding: 1em;
 }
 #myCarouselHomeVortex .carousel-indicators {
   bottom:20px;
@@ -691,6 +674,24 @@ body.vx-blog .ox-masthead div.body-content p.gil {
 }
 
 @media (min-width: 768px) {
+
+#myCarouselHomeVortex .carousel-caption a h1,
+#myCarouselHomeVortex .carousel-caption a h4{
+  color: #ffffff;
+  text-decoration: none;
+  background:rgba(0,60,76,0);
+  padding: 0;
+  -webkit-transition: all 1s ease-in-out;
+     -moz-transition: all 1s ease-in-out;
+      -ms-transition: all 1s ease-in-out;
+       -o-transition: all 1s ease-in-out;
+          transition: all 1s ease-in-out;
+}
+#myCarouselHomeVortex .carousel-caption a:hover h1,
+#myCarouselHomeVortex .carousel-caption a:hover h4 {
+  background:rgba(0,60,76,.75);
+  padding: 1em;
+}
 header[role="banner"] div.navbar {
   padding-top: 25px;
   height: 100px;
