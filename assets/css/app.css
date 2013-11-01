@@ -36,12 +36,14 @@ body.solutions-solution .page-header {
   text-shadow:none;
 }
 #myCarouselHomeVortex .carousel-caption a {
+  display: block;
+}
+#myCarouselHomeVortex .carousel-caption a h1,
+#myCarouselHomeVortex .carousel-caption a h4{
   color: #ffffff;
   text-decoration: none;
-  border-bottom: 2px solid #ffffff;
-  -webkit-opacity: 0.5;
-     -moz-opacity: 0.5;
-          opacity: 0.5;
+  background:rgba(0,60,76,0);
+  padding: 0;
   -webkit-transition: all 1s ease-in-out;
      -moz-transition: all 1s ease-in-out;
       -ms-transition: all 1s ease-in-out;
@@ -49,9 +51,12 @@ body.solutions-solution .page-header {
           transition: all 1s ease-in-out;
 }
 #myCarouselHomeVortex .carousel-caption a:hover {
-  -webkit-opacity: 1;
-     -moz-opacity: 1;
-          opacity: 1;
+  text-decoration: none;
+}
+#myCarouselHomeVortex .carousel-caption a:hover h1,
+#myCarouselHomeVortex .carousel-caption a:hover h4 {
+  background:rgba(0,60,76,.75);
+  padding: 1em;
 }
 #myCarouselHomeVortex .carousel-indicators {
   bottom:20px;
