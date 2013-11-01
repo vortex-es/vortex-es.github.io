@@ -380,7 +380,9 @@ h4 time {
 
 .cl-effect-3 a.navbar-brand:hover::after,
 .cl-effect-3 li.active a:hover::after,
+.cl-effect-3 li.get-started a:hover::after,
 .cl-effect-3 a.navbar-brand:focus::after,
+.cl-effect-3 li.get-started a:focus::after,
 .cl-effect-3 li.active a:focus::after {
   opacity: 0;
 }

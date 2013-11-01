@@ -20,8 +20,8 @@
            <li{% if page.slug == "about-us" %} class="active"{% endif %}>
               <a href="{{ site.base_url }}/about-us">About us</a>
            </li>
-			     <li{% if page.slug == "get-started" %} class="active"{% endif %}>
-				    <a href="{{ site.base_url }}/getstarted"><span class="btn btn-info">Get Started</span></a>
+			     <li class="get-started {% if page.slug == "get-started" %}active{% endif %}">
+				    <a href="http://itest.vortex.es/signup"><span class="btn btn-info">Get Started</span></a>
 			     </li>
           </ul>
         </div><!--/.nav-collapse -->
