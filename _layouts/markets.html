@@ -30,6 +30,9 @@ slug: markets
       </div>
 
       <article role="main">
+        {% if page.featured-img-url %}
+          <p class="pull-right hidden-xs text-center featured-img-url"><img class="img-thumbnail" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
+        {% endif %}
         {{ content }}
       </article>
 

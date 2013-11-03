@@ -2,6 +2,7 @@
 layout: markets
 slug: markets
 title: Forecast
+featured-img-url: 03-bg-slide-forecast-512.jpg
 subtitle: like it will be in the future
 keywords: forecast, service, energy, management, imbalance
 ---
