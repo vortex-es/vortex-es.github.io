@@ -3,6 +3,7 @@ layout: markets
 slug: markets
 title: Solar radiation
 subtitle: beam the information to your project
+featured-img-url: 04-bg-slide-solar-512.jpg
 keywords: forecast, service, energy, management, imbalance
 ---
 

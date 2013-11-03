@@ -3,6 +3,7 @@ layout: markets
 slug: markets
 title: Off-shore
 subtitle: treated on-line
+featured-img-url: 05-bg-slide-offshore-512.jpg
 keywords: forecast, service, energy, management, imbalance
 ---
 
