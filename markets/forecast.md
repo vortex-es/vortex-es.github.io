@@ -7,18 +7,14 @@ subtitle: like it will be in the future
 keywords: forecast, service, energy, management, imbalance
 ---
 
-<p class="lead"><strong>VORTEX</strong> has developed an state of art forecast service to support windfarm asset management efficiency. We are awarded that accuracy on weather and on energy production is quite important in order to fulfill grid authorities requirements and to manage correctly the O&M operations. At Vortex, we have taken care to implement a robust forecast platform with the best input data and multimodel flow.</p>
+<p class="lead">Reliable weather and energy production forecast is the basis to build an efficient windfarm asset management strategy. Vortex forecasts have been designed with accuracy in mind, taking also into account robusteness and usability. Our forecasts are based on the state-of-art of the modeling technology and input data, optimize weather models ouput with site specific gathered information through powerful adaptative statistical techniques, and deliver results by means of a extremely easy-to-use interface or the channel preferred by the client.</p>
 
-##Power Forecast, when the accuracy is key
+##Power Forecast, when the accuracy is the key
 
-Grid and power system planning, handling information for decision making Vortex optimized wind power forecast platform serves the different needs for the operation of a power system like power plant operation, trading, grid operation, etc.
+Vortex Power Forecast service opens a window on energy productions from next hour to next days. Delivered securely and automatically, its performance can be checked in a constantly update online validation exercise. 
 
-FORECAST open a window on power productions from next hour to next days.
+##Wind Forecast, simplify your O&M decisions
 
-##Wind Forecast for O&M; wind conditions for tomorrow's weather
+Vortex Wind Forecast service is the result of more than 20 years experience with manufacturers maintenance teams. Based on their requests, an extremely easy-to-use interface has been designed to fulfill O&M, always urgent, needs.
 
-Reliable and accurate wind conditions information for the next 24 hours or days can save money and time.
-
-Vortex Wind FORECAST product has been designed to maximize all the available information and to localize the prediction with a smart set of advanced statistical and dynamical models
-
-Contact us and will offer you access to our Forecast interface with samples, try us.
+Contact us for a try-out access to our wind and power forecast for your windfarm location.
