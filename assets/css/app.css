@@ -265,7 +265,6 @@ p.vortex-icon.title-icon.title-inverse-icon a {
 }
 
 h2.title-icon a {
-  text-transform: uppercase;
   color: rgba(0, 60, 76, 1);
 }
 
@@ -702,7 +701,9 @@ main[role="main"] {
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
   background:none;
-  border-bottom:4px solid rgb(78,117,128);
+  /*border-bottom:4px solid rgb(78,117,128);*/
+  font-weight: bold;
+  color: #000000;
 }
 .nav-tabs {
     border-bottom: 1px solid #DDDDDD;
