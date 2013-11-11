@@ -49,8 +49,12 @@ body.solutions-solution .page-header {
 }
 
 #myCarouselHomeVortex.carousel .item {
-  min-height: 400px;
+  min-height: 425px;
   background-color: rgba(0,60,76,1);
+}
+
+#myCarouselHomeVortex.carousel .item h1 {
+  font-size: 30px;
 }
 
 #myCarouselHomeVortex .carousel-inner .item .container img {
@@ -264,11 +268,15 @@ p.vortex-icon.title-icon.title-inverse-icon a {
   color: rgba(255,255,255,1);
 }
 
-h2.title-icon a {
+h1.title-icon {
+  font-size: 36px;
+}
+
+h1.title-icon a {
   color: rgba(0, 60, 76, 1);
 }
 
-h2.title-icon a:hover {
+h1.title-icon a:hover {
   text-decoration: none;
 }
 
@@ -664,7 +672,7 @@ width: 90px!important;
 
 @media (min-width: 480px) {
 #myCarouselHomeVortex.carousel .item {
-  min-height: 300px;
+  min-height: 325px;
 }
 body.vx-blog .ox-masthead div.body-content p.gil {
   float: left;
@@ -673,6 +681,10 @@ body.vx-blog .ox-masthead div.body-content p.gil {
 }
 
 @media (min-width: 768px) {
+
+#myCarouselHomeVortex.carousel .item h1{
+  font-size: 36px
+}
 
 #myCarouselHomeVortex .carousel-caption a h1,
 #myCarouselHomeVortex .carousel-caption a h4{
