@@ -43,13 +43,11 @@ slug: markets
       {% else if %}
       {% if page.title == 'Wind & Site' or page.title == 'Forecast' or page.title == 'Markets' %}
       <div class="well well-sm">
-        <h2 class="text-center">Are you interested? Please,</h2> 
-        <p class="text-center"><a href='http://itest.vortex.es/signup' rel="external" target="_blank" class='mailto btn btn-default' title='Please, sign up'><span class='icon-signin icon-white'></span> Sign up</a></p> 
+        <h2 class="text-center">Are you interested? Please, <a href='http://itest.vortex.es/signup' rel="external" target="_blank" class='mailto btn btn-info' title='Please, sign up'><span class='icon-signin icon-white'></span> Get started</a></h2>
       </div>
       {% else if %}
       <div class="well well-sm">
-        <h2 class="text-center">Can we help you?</h2>
-        <p class="text-center"><a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact sales</a></p>
+        <h2 class="text-center">Can we help you? <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact sales</a></p>
       </div>
       {% endif %}
       {% endif %}

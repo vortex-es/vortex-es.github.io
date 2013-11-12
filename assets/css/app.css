@@ -18,7 +18,7 @@ img {
 }
 
 .page-header {
-  border-bottom:1px solid rgb(0,60,76);
+  border-bottom:/*1px solid rgb(0,60,76)*/ none;
 }
 
 body.solutions-solution .page-header {
@@ -304,7 +304,7 @@ h1.title-icon a:hover {
 }
 
 .jumbotron-white {
-  background:rgb(1255,255,255);
+  background:rgb(255,255,255);
 }
 
 .jumbotron-no-margin {
@@ -462,6 +462,11 @@ color:#BFCBCF;
 .body-content.blog, .body-content.markets, .body-content.solutions {
   position: relative;
   padding: 30px 2.5% 50px 2.5%;
+}
+
+.well {
+  background-color: rgba(0,60,76,.1);
+  border: 1px solid rgba(0,60,76,1);
 }
 
 .body-content.blog .well, .body-content.markets .well, .body-content.solutions .well{
@@ -711,7 +716,11 @@ header[role="banner"] div.navbar {
 main[role="main"] {
   margin-top: 60px;
 }
-.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+.navbar-default .navbar-nav > .active > a, 
+.navbar-default .navbar-nav > .active > a:hover, 
+.navbar-default .navbar-nav > .active > a:focus,
+.navbar-default .navbar-nav > li > a:hover, 
+.navbar-default .navbar-nav > li > a:focus {
   background:none;
   /*border-bottom:4px solid rgb(78,117,128);*/
   font-weight: bold;
