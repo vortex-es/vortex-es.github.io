@@ -25,9 +25,12 @@ slug: markets
       {% endif %}
       {% endif %}
 
+      {% if page.title == 'Markets' %}
+      {% else %}
       <div class="page-header">
-        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {% if page.title == 'Markets' or page.title == 'Pricing' %}<strong>{{page.title}}</strong> {% else if %}<strong>{{page.title}}</strong>, {{page.subtitle}} {% endif %}</h1>
+        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {% if page.title == 'Pricing' %}<strong>{{page.title}}</strong> {% else if %}<strong>{{page.title}}</strong>, {{page.subtitle}} {% endif %}</h1>
       </div>
+      {% endif %}
 
       <article role="main">
         {% if page.featured-img-url %}
