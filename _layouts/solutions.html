@@ -14,9 +14,12 @@ slug: solutions
       {% include nav-solutions.html %}
       {% endif %}
 
+      {% if page.title == 'Solutions' %}
+      {% else %}
       <div class="page-header">
-        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {% if page.title == 'Solutions' %}<strong>{{page.title}}</strong> {% else if %}{{page.title}} {% if page.subitle %}, {{page.subtitle}} {% endif %} {% endif %}</h1>
+        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {{page.title}} {% if page.subitle %}, {{page.subtitle}} {% endif %}</h1>
       </div>
+      {% endif %}
 
           <article role="main">
             {% if page.featured-img-url %}
