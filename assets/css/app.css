@@ -469,6 +469,15 @@ color:#BFCBCF;
   border: 1px solid rgba(0,60,76,1);
 }
 
+.panel-info {
+    border-color: #003C4C;
+}
+
+.panel-info > .panel-heading {
+    background-color: #9CB7CB;
+    border-color: #003C4C;
+}
+
 .body-content.blog .well, .body-content.markets .well, .body-content.solutions .well{
   margin-top: 2em;
 }
@@ -758,10 +767,10 @@ body.vx-solutions div.body-content article p.pull-right, body.vx-markets div.bod
 }
 body.vx-solutions div.row div.pricing {
   -webkit-transition: -webkit-transform .4s ease-in-out;
-     -moz-transition: -webkit-transform .4s ease-in-out;
-      -ms-transition: -webkit-transform .4s ease-in-out;
-       -o-transition: -webkit-transform .4s ease-in-out;
-          transition: transform .2s ease-in-out;
+     -moz-transition:    -moz-transform .4s ease-in-out;
+      -ms-transition:     -ms-transform .4s ease-in-out;
+       -o-transition:      -o-transform .4s ease-in-out;
+          transition:         transform .4s ease-in-out;
   }
 body.vx-solutions div.row div.pricing:hover {
   -webkit-transform: scale(1.15);

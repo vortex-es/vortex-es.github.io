@@ -24,7 +24,7 @@ keywords: wind and site, farm, development, decisions, measuring
 					<li class="list-group-item"><i class="icon-ok text-info"></i> Topography and Roughness map</li>
 				</ul>
 				<div class="panel-footer">
-				<a class="btn btn-lg btn-block btn-info" href="#">Get Started!</a>
+				<a class="btn btn-lg btn-block btn-info" href="#">Get Started</a>
 				</div>
 			</div>
 
@@ -50,7 +50,7 @@ keywords: wind and site, farm, development, decisions, measuring
 					<li class="list-group-item"><i class="icon-ok text-info"></i> Progressive discounts apply for packages of 3 or more Runs</li>
 				</ul>
 				<div class="panel-footer">
-				<a class="btn btn-lg btn-block btn-info" href="#">Get Started!</a>
+				<a class="btn btn-lg btn-block btn-info" href="#">Get Started</a>
 				</div>
 			</div>
 
