@@ -36,14 +36,14 @@ slug: blog
           {% assign cardCount = 0 %}
 
             {% for post in site.categories.ask-gil %}      
-              {% include blog-card.html %}
+              {% include gil-card.html %}
               {% assign cardCount = cardCount | plus: 1 %}      
             {% endfor %}
 
-            {% if cardCount > 3 %}
+            {% if cardCount > 10 %}
               {% assign firstThree = true %}
               <div class="clearfix"></div>
-              {% include next-ten.html %}
+              {% include next-ten-ten.html %}
             {% endif %}
 
         </div>
