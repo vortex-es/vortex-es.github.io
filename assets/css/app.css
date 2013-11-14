@@ -9,6 +9,14 @@ img {
   max-width:100%;
 }
 
+a {
+  color:rgba(0,60,76,.75);
+}
+
+a:hover {
+  color:rgb(0,0,0);
+}
+
 .display {
   display: block;
 }
