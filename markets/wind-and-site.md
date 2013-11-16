@@ -49,4 +49,15 @@ keywords: wind and site, farm, development, decisions, measuring
 
 </div>
 
-<p class="text-center hidden-xs"><img src="{{ site.base_url }}/assets/img/vortex-markets-wind-farm-development.png"></p>
+<p class="text-center hidden-xs hidden-lg"><img src="{{ site.base_url }}/assets/img/vortex-markets-wind-farm-development.png"></p>
+
+<div class="text-center hidden-xs hidden-sm hidden-md">
+	<img id="Image-Maps_3201311160731402" src="{{ site.base_url }}/assets/img/vortex-markets-wind-farm-development.png" usemap="#Image-Maps_3201311160731402" border="0" alt="" />
+	<map id="_Image-Maps_3201311160731402" name="Image-Maps_3201311160731402">
+	<area shape="rect" coords="154,225,204,275" href="{{ site.base_url }}/solutions/maps.html" alt="MAPS" title="MAPS"    />
+	<area shape="rect" coords="404,228,454,278" href="{{ site.base_url }}/solutions/mast.html" alt="MAST" title="MAST"    />
+	<area shape="rect" coords="489,226,539,276" href="{{ site.base_url }}/solutions/farm.html" alt="FARM" title="FARM"    />
+	<area shape="rect" coords="556,228,606,278" href="{{ site.base_url }}/solutions/series.html" alt="SERIES" title="SERIES"    />
+	<area shape="rect" coords="813,226,863,276" href="{{ site.base_url }}/solutions/icing.html" alt="ICING" title="ICING"    />
+	</map>
+</div>
