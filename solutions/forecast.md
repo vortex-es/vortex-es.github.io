@@ -9,7 +9,7 @@ featured-img-url:
 icon-url: vortex-solutions-forecast-icon-128.png
 ---
 
-<p class="lead">The accuracy and a fast response service are mandatory in <strong>Power Forecast</strong> for Grid Management and <strong>Wind Forecast</strong> for Operational and Maintenance.</p>
+<p class="lead">The accuracy and a fast response service are mandatory in Power Forecast for Grid Management and Wind Forecast for Operational and Maintenance.</p>
 
 ###Technical details: 
 

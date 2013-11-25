@@ -10,17 +10,11 @@ featured-img-url: vortex-solutions-mastfoto.jpg
 icon-url: vortex-solutions-mast-icon-128.png
 ---
 
-<p class="lead"><strong>Vortex Mast</strong> has been designed to help you in the important decision of placing a real met. mast on the field.</p>
-
-For a small fraction of the price of a real mast, our Mast will give you a fairly accurate clue as to which may be the best of several candidate sites.
+<p class="lead">Vortex Mast has been designed to help you in the important decision of placing a real met. mast on the field. For a small fraction of the price of a real mast, our Mast will give you a fairly accurate clue as to which may be the best of several candidate sites.</p>
 
 ##When to use Mast?
 
 Just before the decission of installing a real met. mast must be taken.
-
-##Main deliverables:
-
-TAB files for WAsP, WindSim, Meteodyn...
 
 ###Technical details:
 
@@ -33,4 +27,4 @@ TAB files for WAsP, WindSim, Meteodyn...
 - 16 sectors wind direction rose.
 - Table cross referencing wind speed and direction.
 - Mean temperature & density.
-- Exportable to industry-standard TAB format.
+- Exportable to industry-standard TAB format for WAsP, WindSim, Meteodyn...

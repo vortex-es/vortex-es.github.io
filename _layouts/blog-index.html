@@ -15,10 +15,6 @@ slug: blog
         <li class="active">News</li>
       </ul>
 
-      <div class="page-header">
-        <h1>News</h1>
-      </div>
-
       <div class="row">
         <div class="col-sm-12 col-lg-12 blog-list">
           {% assign cardCount = 0 %}
@@ -30,6 +26,7 @@ slug: blog
 
             {% if cardCount > 3 %}
               {% assign firstThree = true %}
+              <div class="clearfix"></div>
               {% include next-ten.html %}
             {% endif %}
 

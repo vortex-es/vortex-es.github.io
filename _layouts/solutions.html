@@ -14,7 +14,7 @@ slug: solutions
       {% include nav-solutions.html %}
       {% endif %}
 
-      {% if page.title == 'Solutions' %}
+      {% if page.title == 'Solutions' or page.title == 'Pricing' %}
       {% else %}
       <div class="page-header">
         <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {{page.title}} {% if page.subitle %}, {{page.subtitle}} {% endif %}</h1>
@@ -28,21 +28,25 @@ slug: solutions
             {{ content }}
           </article>   
 
-        {% if page.register %}
-
-        <div class="well well-sm {% if page.title == 'Solutions' %}hidden-xs hidden-sm hidden-md hidden-lg{% endif %}">
-
-          <h2 class="text-center">New to Vortex? Please, <a href='http://itest.vortex.es/signup' rel="external" target="_blank" class='mailto btn btn-info' title='Please, sign up'><span class='icon-signin icon-white'></span> Get Started</a></h2>
-
-        </div>
-
+        
+        {% if page.title == 'Pricing' %}
         {% else if %}
+          {% if page.register %}
 
-        <div class="well well-sm {% if page.title == 'Solutions' %}hidden-xs hidden-sm hidden-md hidden-lg{% endif %}">
+          <div class="well well-sm {% if page.title == 'Solutions' %}hidden-xs hidden-sm hidden-md hidden-lg{% endif %}">
 
-          <h2 class="text-center"><p>Do you need further information? Please, <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact sales</a></h2>
+            <h2 class="text-center">Try it for free <a href='http://itest.vortex.es/signup' class='mailto btn btn-info' title='Please, sign up'><span class='icon-signin icon-white'></span> Get Started</a></h2>
 
-        </div>
+          </div>
+
+          {% else if %}
+
+          <div class="well well-sm {% if page.title == 'Solutions' %}hidden-xs hidden-sm hidden-md hidden-lg{% endif %}">
+
+            <h2 class="text-center"><p>Try it for free, <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact sales</a></h2>
+
+          </div>
+          {% endif %}
 
         {% endif %}
 

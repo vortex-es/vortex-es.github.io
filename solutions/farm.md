@@ -16,10 +16,6 @@ icon-url: vortex-solutions-farm-icon-128.png
 
 When the wind farm area is already selected but not yet the turbine locations or their class.
 
-##Main deliverables:
-
-WRG files for WindPro, WindFarmer, OpenWind plus Vref and TI data.
-
 ###Technical details:
 
 - Fully selectable areas in size, location and orientation.
@@ -31,4 +27,4 @@ WRG files for WindPro, WindFarmer, OpenWind plus Vref and TI data.
 - 50 years extreme wind (Vref) via 30 years Gumbel fit.
 - Characteristic turbulence intensity spectra.
 - Sector-wise inflow angle and vertical shear.
-- Exportable to Google Earth KML, ESRI grid and WAsP WRG.
+- Exportable to Google Earth KML, ESRI grid and WAsP WRG for WindPRO, Wind Farmer OpenWind...
