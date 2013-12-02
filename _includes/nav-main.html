@@ -17,7 +17,7 @@
            <li{% if page.slug == "solutions" %} class="active"{% endif %}>
               <a href="{{ site.base_url }}/solutions">Solutions</a>
            </li>
-           <li{% if page.slug == "about-us" %} class="active"{% endif %}>
+           <li{% if page.slug == "about-us" or page.slug == 'blog' %} class="active"{% endif %}>
               <a href="{{ site.base_url }}/about-us">About us</a>
            </li>
 			     <li class="get-started {% if page.slug == "get-started" %}active{% endif %}">

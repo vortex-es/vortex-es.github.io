@@ -16,7 +16,7 @@ icon-url: vortex-solutions-farm-icon-128.png
 
 When the wind farm area is already selected but not yet the turbine locations or their class.
 
-###Technical details:
+##Technical details:
 
 - Fully selectable areas in size, location and orientation.
 - Up to 100 m resolution.
@@ -27,4 +27,4 @@ When the wind farm area is already selected but not yet the turbine locations or
 - 50 years extreme wind (Vref) via 30 years Gumbel fit.
 - Characteristic turbulence intensity spectra.
 - Sector-wise inflow angle and vertical shear.
-- Exportable to Google Earth KML, ESRI grid and WAsP WRG for WindPRO, Wind Farmer OpenWind...
+- Exportable to Google Earth KML, ESRI grid and WAsP WRG files for WindPro, WindFarmer, OpenWind....

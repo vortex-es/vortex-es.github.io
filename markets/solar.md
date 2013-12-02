@@ -1,13 +1,13 @@
 ---
 layout: markets
 slug: markets
-title: Solar radiation
+title: Solar
 subtitle: beam the information to your project
 featured-img-url: 04-bg-slide-solar-512.jpg
 keywords: forecast, service, energy, management, imbalance
 ---
 
-<p class="lead">Sun irradiation touches every site on Earth but scattered by many diffusive agents. Vortex helps you narrowing uncertainty on site-specific solar energy resources with the best blend of ground measurements, remote sensing and atmospheric modeling technologies.</p>
+<p class="lead">Sun irradiation touches every site on Earth but scattered by many diffusive agents. Vortex helps you narrowing uncertainty on site-specific solar energy projects.</p>
 
 ##Unveiling regional resources for integrated development
 

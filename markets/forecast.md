@@ -3,11 +3,11 @@ layout: markets
 slug: markets
 title: Forecast
 featured-img-url: 03-bg-slide-forecast-512.jpg
-subtitle: like it will be in the future
+subtitle: tomorrow's technology, today
 keywords: forecast, service, energy, management, imbalance
 ---
 
-<p class="lead">Reliable weather and energy production forecast is the basis to build an efficient windfarm asset management strategy. Vortex forecasts have been designed with accuracy in mind, taking also into account robusteness and usability. Our forecasts are based on the state-of-art of the modeling technology and input data, optimize weather models ouput with site specific gathered information through powerful adaptative statistical techniques, and deliver results by means of a extremely easy-to-use interface or the channel preferred by the client.</p>
+<p class="lead">Reliable weather and energy production forecast is the basis to build an efficient windfarm asset management strategy. Vortex forecasts have been designed with accuracy in mind. Based on state-of-the-art modeling technology and input data, Vortex optimizes weather models ouput with site specific gathered information through powerful adaptative statistical techniques, and deliver results through the channel preferred by the client.</p>
 
 ##Power Forecast, when the accuracy is the key
 

@@ -7,9 +7,9 @@ featured-img-url: 05-bg-slide-offshore-512.jpg
 keywords: forecast, service, energy, management, imbalance
 ---
 
-<p class="lead"><strong>Offshore Winds</strong>, modeling from farms to power plants.</p>
+<p class="lead">Ocean is hard but Metocean technology can be soft. Vortex brings you access to wind & waves estimations the easy way, direct from your desktop to our computer cluster.</p>
 
-No matter: offshore measurements are priceless. Treat online the resource and secure your offshore project development through Vortex air and sea modelling pivots.
+No matter: offshore measurements are priceless. Treat online the resource and secure your offshore project development through Vortex air and sea modelling pivots. Vortex differentiating factor to what offshore is concerned is the possibility to get combined wind and waves estimations. The former, produced with the well-stablished Vortex technology, the later with cutting-egde metocean modelling tools.
 
 ##For initial project proposal and offshore zones tenders to final decision making
 
