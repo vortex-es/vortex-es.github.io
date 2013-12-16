@@ -31,7 +31,7 @@ keywords: wind and site, farm, development, decisions, measuring
 			<div class="panel panel-info">
 				<div class="panel-heading"><h3 class="text-center">Pay per run</h3></div>
 				<div class="panel-body text-center">
-				<p class="lead" style="font-size:40px"><strong>Secure credit card payment</strong></p>
+				<p class="lead" style="font-size:40px"><strong>Interface access</strong></p>
 				</div>
 				<ul class="list-group list-group-flush">
 					<li class="list-group-item">MAP starting at 900 €</li>
@@ -43,6 +43,7 @@ keywords: wind and site, farm, development, decisions, measuring
 				</ul>
 				<ul class="list-group list-group-flush text-center">
 					<li class="list-group-item"><i class="icon-ok text-info"></i> Progressive discounts apply for packages of 3 or more Runs in a row. <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a> if interested</li>
+					<li class="list-group-item"><i class="icon-ok text-info"></i> Secure credit card payment or bank transfer.</li>
 				</ul>
 				<div class="panel-footer">
 				<a href='http://itest.vortex.es/signup' class='btn btn-lg btn-block btn-info' title='Please, sign up'><span class='icon-signin icon-white'></span> Get started</a>
@@ -54,7 +55,11 @@ keywords: wind and site, farm, development, decisions, measuring
 			<div class="panel panel-default">
 				<div class="panel-heading"><h3 class="text-center">Subscriptions</h3></div>
 				<div class="panel-body text-center">
-				<p class="lead" style="font-size:40px"><strong>Starting at 2.100 €/month</strong></p>
+				<p class="lead" style="font-size:40px"><strong>
+				Flat rate S3 2.100 €/month
+				<br/>Flat rate S2 3.000 €/month
+				<br/>Flat rate S1 5.900 €/month
+				</strong></p>
 				</div>
 				<ul class="list-group list-group-flush text-center">
 					<li class="list-group-item"><i class="icon-ok text-default"></i> Unlimited sequential runs of any Vortex product</li>
