@@ -6,7 +6,7 @@ subtitle: one-click away
 keywords: wind and site, farm, development, decisions, measuring
 ---
 
-<p class="lead">Wind farm development is a long and challenging task. At each stage of the process, decisions have to be taken using the best available information. Vortex portfolio has been designed to cost-effectively help you answering some key questions:</p>
+<p class="lead">Vortex web-based portfolio has been designed to cost-effectively help you answering some key questions:</p>
 
 <div class="row">
 
@@ -31,7 +31,7 @@ keywords: wind and site, farm, development, decisions, measuring
 
 	<div class="col-md-3 col-sm-6">
 
-		<h2>How many, where and which Class should my turbines be?</h2>
+		<h2>Where and which Class should my turbines be?</h2>
 
 		<p><strong>While measuring</strong><br/>
 		<a href="{{ site.base_url }}/solutions/farm.html">FARM</a> helps you designing your wind farm and selecting your turbines.</p>

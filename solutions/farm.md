@@ -12,7 +12,7 @@ icon-url: vortex-solutions-farm-icon-128.png
 
 <p class="lead">Probably the most complete modeling product on the market: long-term statistics within an area plus high-resolution temperature, mean wind, extreme wind (Vref) and turbulence maps.</p>
 
-##When to use Farm?
+##When to use FARM?
 
 When the wind farm area is already selected but not yet the turbine locations or their class.
 
@@ -27,4 +27,4 @@ When the wind farm area is already selected but not yet the turbine locations or
 - 50 years extreme wind (Vref) via 30 years Gumbel fit.
 - Characteristic turbulence intensity spectra.
 - Sector-wise inflow angle and vertical shear.
-- Exportable to Google Earth KML, ESRI grid and WAsP WRG files for WindPro, WindFarmer, OpenWind....
+- Exportable to Google Earth KML, ESRI grid and WAsP WRG files for WindPro, WindFARMer, OpenWind....
