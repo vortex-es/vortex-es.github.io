@@ -1,4 +1,4 @@
-<div class="card card-gil {% if cardCount < 10 %}display{% else %}nodisplay{% endif %}">
+<div class="card card-gil  ox_animate_when_almost_visible ox_bottom-to-top {% if cardCount < 10 %}display{% else %}nodisplay{% endif %}">
 	<div data-title='{{post.title | replace:"'","\'"}}' data-url='{{post.url}}' data-open='true'>
 	</div>
 	<a href="{{site.baseurl}}{{post.url}}"><h2 class="card-title">{{post.title}}</h2></a>
