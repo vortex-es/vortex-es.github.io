@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2013-11-27 11:48:19
+date: 2013-11-28 11:48:19
 layout: blog
 slug: turkiye-de-vortex-akreditasyon-calısmasi-sonucları
 title: Türkiye'de Vortex Akreditasyon Çalışması Sonuçları
