@@ -18,9 +18,9 @@
 <script src="/assets/js/jquery.js"></script>
 
 <!-- Bootstrap core CSS -->
-<link href="/bootstrap/css/bootstrap.min.css?20140303103300" rel="stylesheet">
+<link href="/bootstrap/css/bootstrap.min.css?20140303105340" rel="stylesheet">
 <!-- Font awesome -->
-<link href="/assets/font-awesome/css/font-awesome.min.css?20140303103300" rel="stylesheet">
+<link href="/assets/font-awesome/css/font-awesome.min.css?20140303105340" rel="stylesheet">
 <!-- Custom styles for this app template -->
 <link href="/assets/css/app.min.css" rel="stylesheet">
 <!-- Favicons -->
@@ -97,7 +97,7 @@
 
           <article role="main">
             
-            <p class="pull-right hidden-xs text-center featured-img-url"><img class="img-thumbnail" src="/assets/img/vortex-solutions-farmfoto.jpg"></p>
+            <p class="pull-right hidden-xs text-center featured-img-url ox_animate_when_almost_visible ox_left-to-right"><img class="img-thumbnail" src="/assets/img/vortex-solutions-farmfoto.jpg"></p>
             
             <p class="lead">Probably the most complete modeling product on the market: long-term statistics within an area plus high-resolution temperature, mean wind, extreme wind (Vref) and turbulence maps.</p>
 
@@ -144,9 +144,11 @@
 
 </main>
 
+    
+
     <footer role="contentinfo">
       <div class="footer-bg">
-        <div class="container">
+        <div class="container ox_animate_when_almost_visible ox_bottom-to-top">
           <div class="row">
             <div class="col-sm-1 col-lg-1">
               <p><img src="/assets/img/vortex-logo-footer.png" /></p>
@@ -195,7 +197,7 @@
             </div>
             <div class="col-sm-2 col-lg-2 col-sm-offset-2 col-lg-offset-2">
               <p>
-                <small><strong>&copy; Vortex 2013</strong>
+                <small><strong>&copy; Vortex 2014</strong>
                   <br/><a href="/terms-of-use.html">Terms of Use</a>
                   <br/><a href="/privacy-policy.html">Privacy Policy</a>
                 </small>
@@ -210,10 +212,27 @@
     </footer>
 
 
-    <script src="/bootstrap/js/bootstrap.min.js"></script>
-<script src="http://airve.github.io/js/response/response.min.js"></script>
+    <script src="/bootstrap/js/bootstrap.min.js20140303105340"></script>
+<script src="http://airve.github.io/js/response/response.min.js20140303105340"></script>
 <script>
     $('.carousel-vortex-home').carousel()
+</script>
+<script src="/assets/js/waypoints.min.js?20140303105340"></script>
+<script>
+	jQuery(document).ready(function($) {
+	vc_waypoints();
+});
+	/* Waypoints magic
+---------------------------------------------------------- */
+if ( typeof window['vc_waypoints'] !== 'function' ) {
+  function vc_waypoints() {
+	if (typeof jQuery.fn.waypoint !== 'undefined') {
+	    jQuery('.ox_animate_when_almost_visible').waypoint(function() {
+			jQuery(this).addClass('ox_start_animation');
+		}, { offset: '85%' });
+	}
+  }
+}
 </script>
 <script>    
 Response.create({mode : 'src', prefix : 'src'});
