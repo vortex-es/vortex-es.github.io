@@ -1,4 +1,4 @@
-<div class="card card-blog {% if cardCount < 3 %}display{% else %}nodisplay{% endif %}">
+<div class="card card-blog ox_animate_when_almost_visible ox_bottom-to-top {% if cardCount < 4 %}display{% else %}nodisplay{% endif %}">
 	<a href="{{site.baseurl}}{{post.url}}"><h2 class="card-title">{{post.title}}</h2></a>
 	<div class="card-content">
 		{% if page.class == 'blog-index' %}<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | date: "%b %d" }}</time></h4>{% endif %}

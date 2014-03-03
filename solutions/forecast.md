@@ -5,17 +5,21 @@ class: solutions-solution
 title: FORECAST
 subtitle:
 keywords: 
-featured-img-url:
+featured-img-url: vortex-solutions-forecastfoto.png
 icon-url: vortex-solutions-forecast-icon-128.png
 ---
 
-<p class="lead">The accuracy and a fast response service are mandatory in Power Forecast for Grid Management and Wind Forecast for Operational and Maintenance.</p>
+<p class="lead">Vortex forecast solution combines cutting edge modeling resources with a state-of-the-art statistical approach to provide a fast and reliable service oriented to the customer needs.</p>
 
-###Technical details: 
+Vortex provides solutions for a wide spectrum of clients: energy traders, IPPs, system operators, etc., and needs, from wind farms with a large number of operating hours and high availability of data, to projects in (pre-)construction phase or expansion.
 
-- Forecast of main variables.
-- 240 h forecast.
-- Graphic displays.
-- Hourly outputs.
-- Different delivery format.
-- Web based interface to analyze information.
+Vortex predictions includes Wind (speed and direction), Power production and other meteorological variables at several look ahead horizons, from (very) short-term up to 7-10 days ahead, with (sub-)hourly granularity, updated several times a day (subject to availability of data in near real time).
+
+###Some of the distinguishing characteristics of our service are:
+
+- Fast project setup, less than a business week for a standard project and 24 to 48 hours for
+projects without measured data.
+- Service is agile, create new projects and upload your data from the Vortex interface.
+- Vortex interface allows you to: visualize forecast of different variables with their probability bands (P90-10), select forecast date and prediction horizon, scroll through historical data, manage availability (past and future), visualize and analyze various error metrics, download on-screen data in CSV format, support for multi-site projects (aggregate and compare predictions from several projects in your portfolio).
+- Customizable deliverables, forecasts can be provided in several formats (e.g. TXT, CSV, XML, XLSX, SAS, etc.) by e-mail, FTP or from the web interface.
+- Graphic reports in PDF for Operation and Maintenance.
