@@ -22,7 +22,7 @@ keywords: wind and site, farm, development, decisions, measuring
 					<li class="list-group-item"><i class="icon-ok text-info"></i> Global access to Topography and Roughness maps</li>
 				</ul>
 				<div class="panel-footer">
-				<a href='http://itest.vortex.es/signup' class='btn btn-lg btn-block btn-info' title='Please, sign up'><span class='icon-signin icon-white'></span> Get started</a>
+				<a href='http://interface.vortex.es/signup' class='btn btn-lg btn-block btn-info' title='Please, sign up'><span class='icon-signin icon-white'></span> Get started</a>
 				</div>
 			</div>
 
@@ -46,7 +46,7 @@ keywords: wind and site, farm, development, decisions, measuring
 					<li class="list-group-item"><i class="icon-ok text-info"></i> Secure credit card payment or bank transfer.</li>
 				</ul>
 				<div class="panel-footer">
-				<a href='http://itest.vortex.es/signup' class='btn btn-lg btn-block btn-info' title='Please, sign up'><span class='icon-signin icon-white'></span> Get started</a>
+				<a href='http://interface.vortex.es/signup' class='btn btn-lg btn-block btn-info' title='Please, sign up'><span class='icon-signin icon-white'></span> Get started</a>
 				</div>
 			</div>
 
