@@ -21,3 +21,7 @@ At [Vortex](http://www.vortex.es/?utm_source=Vortex+users&utm_campaign=5ed7f23d3
 Get the vibe of Barcelona's night-life at the first Vortex user's Party in [Café Royale](http://www.timeout.com/barcelona/music-and-nightlife/cafe-royale?utm_source=Vortex+users&utm_campaign=5ed7f23d31-Barcelona&utm_medium=email&utm_term=0_76f80cadf1-5ed7f23d31-).
 
 [Abel Tortosa](http://www.ewea.org/annual2014/conference/programme/info2.php?id2=360&id=30%20&ordre=1&utm_source=Vortex+users&utm_campaign=5ed7f23d31-Barcelona&utm_medium=email&utm_term=0_76f80cadf1-5ed7f23d31-#top), [Gil Lizcano](http://www.ewea.org/annual2014/conference/programme/info2.php?id2=363&id=30%20&ordre=1&utm_source=Vortex+users&utm_campaign=5ed7f23d31-Barcelona&utm_medium=email&utm_term=0_76f80cadf1-5ed7f23d31-#top) and Pep Moreno to speak at the [Ressource Assesment track](http://www.ewea.org/annual2014/conference/programme/infoalloraltrack.php?id=2&utm_source=Vortex+users&utm_campaign=5ed7f23d31-Barcelona&utm_medium=email&utm_term=0_76f80cadf1-5ed7f23d31-), Wed. 11h & Thu. 9h. 
+
+------
+
+*The image is a detail of Barcelona 2005, Josep Moscardó's paint*
