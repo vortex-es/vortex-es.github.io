@@ -27,7 +27,7 @@ slug: blog
             {% include social.html %}
             <h4><time datetime="{{ page.date | date: "%Y-%m-%d %H:%M%z" }}">{{ page.date | date: "%b %d" }}</time> by {{ author.display_name }}</h4>
             {% if page.featured-img-url %}
-            <p class="pull-right hidden-xs"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}"></p>
+            <p class="pull-right hidden-xs"><img class="img-circle" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}}" title="{{page.featured-img-alt}}"{% endif %}></p>
             {% endif %}
             {{ content }}
           </article>

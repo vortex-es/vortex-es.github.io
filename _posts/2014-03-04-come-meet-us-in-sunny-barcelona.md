@@ -6,6 +6,7 @@ slug: come-meet-us-in-sunny-barcelona
 title: Come meet us in sunny Barcelona
 categories: [infraestructura, general, no-cita]
 featured-img-url: come-meet-us-in-sunny-barcelona.png
+featured-img-alt: "Barcelona 2005, Josep Moscardó"
 tags:
 meta: Come meet us in sunny Barcelona
 excerpt: "At Vortex we are very excited to be part of the year's greatest wind energy event: EWEA 2014, especially as it is being held in our home town!"
