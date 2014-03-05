@@ -1,6 +1,5 @@
 ---
 comments: true
-date: 0001-01-02 11:48:19
 layout: gil-faq
 slug: what-makes-vortex-approach-different-from-other-wind-modelers
 title: What makes Vortex approach different from other wind modelers?

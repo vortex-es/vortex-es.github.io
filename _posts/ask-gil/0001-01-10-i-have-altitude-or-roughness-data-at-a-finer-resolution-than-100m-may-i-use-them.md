@@ -1,6 +1,5 @@
 ---
 comments: true
-date: 0001-01-10 11:48:19
 layout: gil-faq
 slug: i-have-altitude-or-roughness-data-at-a-finer-resolution-than-100m-may-i-use-them
 title: I have altitude or roughness data at a finer resolution than 100m. May I use them?

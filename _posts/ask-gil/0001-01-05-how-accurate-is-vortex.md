@@ -1,6 +1,5 @@
 ---
 comments: true
-date: 0001-01-05 11:48:19
 layout: gil-faq
 slug: how-accurate-is-vortex
 title: How accurate is Vortex?

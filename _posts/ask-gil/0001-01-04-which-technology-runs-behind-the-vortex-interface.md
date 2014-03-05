@@ -1,6 +1,5 @@
 ---
 comments: true
-date: 0001-01-04 11:48:19
 layout: gil-faq
 slug: which-technology-runs-behind-the-vortex-interface
 title: Which technology runs behind the Vortex interface?

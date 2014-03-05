@@ -1,6 +1,5 @@
 ---
 comments: true
-date: 0001-01-09 11:48:19
 layout: gil-faq
 slug: at-which-height-are-vortex-series-computed
 title: At which height are Vortex SERIES computed?
