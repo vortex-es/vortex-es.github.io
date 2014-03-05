@@ -10,6 +10,10 @@ meta: Should I send you my local measurements to calibrate your model?
 excerpt: No, your measured data is your only reference to check the reliability of our modeling system.
 author: gil
 keywords: vortex, company, experience, independence, collaborative
+sitemap:
+  lastmod: 2014-03-05
+  priority: 0.7
+  changefreq: monthly
 ---
 
 #Should I send you my local measurements to calibrate your model?

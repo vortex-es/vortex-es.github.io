@@ -10,6 +10,10 @@ meta: How accurate is Vortex?
 excerpt: Current Vortex system accuracy values are presented here.
 author: gil
 keywords: vortex, company, experience, independence, collaborative
+sitemap:
+  lastmod: 2014-03-05
+  priority: 0.7
+  changefreq: monthly
 ---
 
 #How accurate is Vortex?

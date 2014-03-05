@@ -10,6 +10,10 @@ meta: But your results take some hours to be delivered...
 excerpt: Yes, this is due to the fact that calculations are non-linear, and non-linear computing is not immediate.
 author: gil
 keywords: vortex, company, experience, independence, collaborative
+sitemap:
+  lastmod: 2014-03-05
+  priority: 0.7
+  changefreq: monthly
 ---
 
 #But your results take some hours to be delivered...
