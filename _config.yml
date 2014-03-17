@@ -28,7 +28,7 @@ prose:
   siteurl: "http://vortex-es.github.io/"
   media: "assets/img"
   metadata:
-    _post:
+    _posts:
       - name: "title"
         field:
           element: "text"
