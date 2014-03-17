@@ -1,10 +1,10 @@
 ---
 categories: "ask-gil"
 published: true
-title: "0001-01-12-prova-de-ask-gil"
+title: "prova-de-ask-gil"
 layout: "gil-faq"
 author: gil
-slug: "prova-de-ask"
+slug: "prova-de-ask-gil"
 meta: Prova de una pregunta del gil
 excerpt: Això és un breu resum
 keywords: "prova. ask, gil, text"
