@@ -1,6 +1,6 @@
 ---
 categories: "no-cita"
-published: false
+published: true
 title: Això és una prova de notícia
 layout: blog
 author: vortex
