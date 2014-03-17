@@ -76,3 +76,65 @@ prose:
           element: "text"
           label: "Meta keywords"
           value: ""
+    _posts/slides:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+          value: ""
+      - name: "subtitle"
+        field:
+          element: "text"
+          label: "subtitle"
+          value: ""
+      - name: "categories"
+        field:
+          element:"hidden"
+          value: "slideshow"
+      - name: "tags"
+        field:
+          element: "hidden"
+          value: "slideshow"
+      - name: "featured-img"
+        field:
+          element:"hidden"
+          value: "true"
+      - name: "featured-img"
+        field:
+          element: "text"
+          label: "Featured Img URL"
+          value: ""
+      - name: "featured-img-url-768"
+        field:
+          element: "text"
+          label: "Featured Img URL 758"
+          value: ""
+      - name: "featured-img-url-1280"
+        field:
+          element: "text"
+          label: "Featured Img URL 1280"
+          value: ""
+      - name: "meta"
+        field:
+          element: "text"
+          label: "Meta title"
+          value: ""
+      - name: "author"
+        field:
+          element: "select"
+          label: "Who are you dude?"
+          placeholder: "Default"
+          options:
+            - name: "vortex"
+              value: "vortex"
+              selected: "vortex"
+      - name: "excerpt"
+        field:
+          element: "text"
+          label: "excerpt"
+          value: ""
+      - name: "keywords"
+        field:
+          element: "text"
+          label: "Meta keywords"
+          value: ""
