@@ -30,16 +30,16 @@ prose:
   metadata:
     _posts/ask-gil:
       - name: "title"
-      field:
-        element: "text"
-        label: "title"
-        value: ""
+        field:
+          element: "text"
+          label: "title"
+          value: ""
       - name: "layout"
         field:
-        element: "select"
-        label: "Select a layout"
-        placeholder: "Default"
-        options:
-          - name: "gil-faq"
-            value: "gil-faq"
-            selected: "gil-faq"
+          element: "select"
+          label: "Select a layout"
+          placeholder: "Default"
+          options:
+            - name: "gil-faq"
+              value: "gil-faq"
+              selected: "gil-faq"
