@@ -28,6 +28,64 @@ prose:
   siteurl: "http://vortex-es.github.io/"
   media: "assets/img"
   metadata:
+    _post:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+          value: ""
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Select a layout"
+          placeholder: "Default"
+          options:
+            - name: "blog"
+              value: "blog"
+              selected: "blog"
+      - name: "slug"
+        field:
+          element: "text"
+          label: "slug"
+          value: ""
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "no-cita"
+      - name: "featured-img-url"
+        field:
+          element: "text"
+          label: "Featured Img URL"
+          value: ""
+      - name: "featured-img-alt"
+        field:
+          element: "text"
+          label: "Featured Img Alt Text"
+          value: ""
+      - name: "meta"
+        field:
+          element: "text"
+          label: "Meta title"
+          value: ""
+      - name: "excerpt"
+        field:
+          element: "text"
+          label: "excerpt"
+          value: ""
+      - name: "author"
+        field:
+          element: "select"
+          label: "Who are you dude?"
+          placeholder: "Default"
+          options:
+            - name: "vortex"
+              value: "vortex"
+              selected: "vortex"
+      - name: "keywords"
+        field:
+          element: "text"
+          label: "Meta keywords"
+          value: ""
     _posts/ask-gil:
       - name: "title"
         field:
@@ -138,61 +196,5 @@ prose:
           element: "text"
           label: "Meta keywords"
           value: ""
-    _post:
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-          value: ""
-      - name: "layout"
-        field:
-          element: "select"
-          label: "Select a layout"
-          placeholder: "Default"
-          options:
-            - name: "blog"
-              value: "blog"
-              selected: "blog"
-      - name: "slug"
-        field:
-          element: "text"
-          label: "slug"
-          value: ""
-      - name: "categories"
-        field:
-          element: "hidden"
-          value: "no-cita"
-      - name: "featured-img-url"
-        field:
-          element: "text"
-          label: "Featured Img URL"
-          value: ""
-      - name: "featured-img-alt"
-        field:
-          element: "text"
-          label: "Featured Img Alt Text"
-          value: ""
-      - name: "meta"
-        field:
-          element: "text"
-          label: "Meta title"
-          value: ""
-      - name: "excerpt"
-        field:
-          element: "text"
-          label: "excerpt"
-          value: ""
-      - name: "author"
-        field:
-          element: "select"
-          label: "Who are you dude?"
-          placeholder: "Default"
-          options:
-            - name: "vortex"
-              value: "vortex"
-              selected: "vortex"
-      - name: "keywords"
-        field:
-          element: "text"
-          label: "Meta keywords"
-          value: ""
+
+
