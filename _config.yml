@@ -43,3 +43,36 @@ prose:
             - name: "gil-faq"
               value: "gil-faq"
               selected: "gil-faq"
+      - name: "slug"
+        field:
+          element: "text"
+          label: "slug"
+          value: ""
+      - name: "categories"
+        field:
+          element: "hidden"
+          value: "ask-gil"
+      - name: "meta"
+        field:
+          element: "text"
+          label: "Meta title"
+          value: ""
+      - name: "excerpt"
+        field:
+          element: "text"
+          label: "excerpt"
+          value: ""
+      - name: "author"
+        field:
+          element: "select"
+          label: "Who are you dude?"
+          placeholder: "Default"
+          options:
+            - name: "gil"
+              value: "gil"
+              selected: "gil"
+      - name: "keywords"
+        field:
+          element: "text"
+          label: "Meta keywords"
+          value: ""
