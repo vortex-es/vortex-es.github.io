@@ -89,7 +89,7 @@ prose:
           value: ""
       - name: "categories"
         field:
-          element:"hidden"
+          element: "hidden"
           value: "slideshow"
       - name: "tags"
         field:
@@ -97,7 +97,7 @@ prose:
           value: "slideshow"
       - name: "featured-img"
         field:
-          element:"hidden"
+          element: "hidden"
           value: "true"
       - name: "featured-img"
         field:
