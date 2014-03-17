@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-10-11 11:48:19
 layout: blog
 slug: topography-and-roughness-vector-maps-new-free-feature-in-vortex-interface

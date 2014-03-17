@@ -1,5 +1,4 @@
 ---
-comments: true
 layout: gil-faq
 slug: in-10-simple-words-how-does-vortex-work
 title: In "10" simple words, how does Vortex work?

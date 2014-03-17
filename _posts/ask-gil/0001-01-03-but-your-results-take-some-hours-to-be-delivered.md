@@ -1,5 +1,4 @@
 ---
-comments: true
 layout: gil-faq
 slug: but-your-results-take-some-hours-to-be-delivered
 title: But your results take some hours to be delivered...

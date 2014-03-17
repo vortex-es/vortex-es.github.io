@@ -1,5 +1,4 @@
 ---
-comments: true
 layout: gil-faq
 slug: at-which-height-are-vortex-series-computed
 title: At which height are Vortex SERIES computed?

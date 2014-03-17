@@ -1,5 +1,4 @@
 ---
-comments: true
 layout: gil-faq
 slug: how-far-is-your-time-series-nearest-calculation-node-away-from-my-mast
 title: How far is your time series nearest calculation node away from my mast?

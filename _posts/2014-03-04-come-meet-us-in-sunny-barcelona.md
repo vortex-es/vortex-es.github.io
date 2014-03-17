@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2014-03-04 11:48:19
 layout: blog
 slug: come-meet-us-in-sunny-barcelona

@@ -1,5 +1,4 @@
 ---
-comments: true
 layout: gil-faq
 slug: should-i-send-you-my-local-measurements-to-calibrate-your-model
 title: Should I send you my local measurements to calibrate your model?

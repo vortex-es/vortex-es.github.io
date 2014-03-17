@@ -1,5 +1,4 @@
 ---
-comments: true
 layout: gil-faq
 slug: how-accurate-is-vortex
 title: How accurate is Vortex?

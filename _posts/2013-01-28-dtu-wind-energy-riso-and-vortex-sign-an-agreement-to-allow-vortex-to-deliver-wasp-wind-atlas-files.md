@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-01-28 11:48:19
 layout: blog
 slug: dtu-wind-energy-riso-and-vortex-sign-an-agreement-to-allow-vortex-to-deliver-wasp-wind-atlas-files

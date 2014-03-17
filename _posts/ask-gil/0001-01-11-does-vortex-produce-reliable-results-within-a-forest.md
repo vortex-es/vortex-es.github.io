@@ -1,5 +1,4 @@
 ---
-comments: true
 layout: gil-faq
 slug: does-vortex-produce-reliable-results-within-a-forest
 title: Does Vortex produce reliable results within a forest?

@@ -1,5 +1,4 @@
 ---
-comments: true
 date: 2013-11-27 11:48:19
 layout: blog
 slug: results-of-validation-of-vortex-in-india

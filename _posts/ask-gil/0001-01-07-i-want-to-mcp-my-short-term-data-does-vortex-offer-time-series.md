@@ -1,5 +1,4 @@
 ---
-comments: true
 layout: gil-faq
 slug: i-want-to-mcp-my-short-term data-does-vortex-offer-time-series
 title: I want to MCP my short-term data. Does Vortex offer time series?
