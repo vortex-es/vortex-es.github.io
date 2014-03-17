@@ -37,7 +37,7 @@ keywords: wind and site, farm, development, decisions, measuring
 					<li class="list-group-item">MAP starting at 900 €</li>
 					<li class="list-group-item">MAST starting at 650 €</li>
 					<li class="list-group-item">FARM 1900 €</li>
-					<li class="list-group-item">SERIES startomg at 650 €</li>
+					<li class="list-group-item">SERIES starting at 650 €</li>
 					<li class="list-group-item">ICING starting at 900 €</li>
 					<li class="list-group-item">FORECAST, <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>contact us</a></li>
 				</ul>
