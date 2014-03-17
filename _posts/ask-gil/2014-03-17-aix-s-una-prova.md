@@ -1,6 +1,6 @@
 ---
 categories: "ask-gil"
-published: false
+published: true
 title: Això és una prova
 layout: "gil-faq"
 author: gil
