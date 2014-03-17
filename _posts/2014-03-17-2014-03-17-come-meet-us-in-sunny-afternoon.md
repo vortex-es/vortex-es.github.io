@@ -1,6 +1,6 @@
 ---
 categories: "no-cita"
-published: false
+published: true
 title: "Vine'ns a veure"
 layout: blog
 author: vortex
