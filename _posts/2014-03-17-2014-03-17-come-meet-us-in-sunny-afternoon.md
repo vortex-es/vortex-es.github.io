@@ -4,6 +4,8 @@ published: false
 title: "Vine'ns a veure"
 layout: blog
 author: vortex
+meta: "Vine'ns a veure"
+keywords: "vine'ns, a, veure"
 ---
 
 ## A New Post
