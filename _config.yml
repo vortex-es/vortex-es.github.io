@@ -47,7 +47,7 @@ prose:
         field:
           element: "text"
           label: "slug"
-          value: ""
+          value:
       - name: "categories"
         field:
           element: "hidden"
@@ -105,7 +105,7 @@ prose:
         field:
           element: "text"
           label: "slug"
-          value: ""
+          value:
       - name: "categories"
         field:
           element: "hidden"
