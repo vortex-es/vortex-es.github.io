@@ -1,6 +1,6 @@
 ---
 categories: "ask-gil"
-published: false
+published: true
 title: "0001-01-12-prova-de-ask-gil"
 layout: "gil-faq"
 author: gil
