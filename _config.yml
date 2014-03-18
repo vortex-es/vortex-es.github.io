@@ -43,11 +43,6 @@ prose:
             - name: "blog"
               value: "blog"
               selected: "blog"
-      - name: "slug"
-        field:
-          element: "text"
-          label: "slug"
-          value:
       - name: "categories"
         field:
           element: "hidden"
@@ -101,11 +96,6 @@ prose:
             - name: "gil-faq"
               value: "gil-faq"
               selected: "gil-faq"
-      - name: "slug"
-        field:
-          element: "text"
-          label: "slug"
-          value:
       - name: "categories"
         field:
           element: "hidden"
