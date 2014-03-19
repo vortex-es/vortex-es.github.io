@@ -52,11 +52,11 @@ keywords: wind and site, farm, development, decisions, measuring
 
 		</div>
 		<div class="col-sm-6 col-md-4 pricing">
-			<div class="panel panel-default">
+			<div class="panel panel-info">
 				<div class="panel-heading"><h3 class="text-center">Subscriptions</h3></div>
 				<div class="panel-body text-center">
-				<p class="lead" style="font-size:40px"><strong>-->
-				<!--Flat rate S3 2.100 €/month
+				<p class="lead" style="font-size:40px"><!--<strong>
+				Flat rate S3 2.100 €/month
 				<br/>Flat rate S2 3.000 €/month
 				<br/>Flat rate S1 5.900 €/month
 				</strong></p> -->
