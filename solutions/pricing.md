@@ -55,11 +55,12 @@ keywords: wind and site, farm, development, decisions, measuring
 			<div class="panel panel-info">
 				<div class="panel-heading"><h3 class="text-center">Subscriptions</h3></div>
 				<div class="panel-body text-center">
-				<!--<p class="lead" style="font-size:40px"><strong>
-				Flat rate S3 2.100 €/month
+				<p class="lead" style="font-size:40px"><strong>
+				Cost-effective flat-rates
+				<!--Flat rate S3 2.100 €/month
 				<br/>Flat rate S2 3.000 €/month
-				<br/>Flat rate S1 5.900 €/month
-				</strong></p> -->
+				<br/>Flat rate S1 5.900 €/month-->
+				</strong></p> 
 				</div>
 				<ul class="list-group list-group-flush text-center">
 					<li class="list-group-item"><i class="icon-ok text-default"></i> Unlimited sequential runs of any Vortex product</li>
