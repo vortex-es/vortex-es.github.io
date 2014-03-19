@@ -13,7 +13,7 @@ keywords: wind and site, farm, development, decisions, measuring
 			<div class="panel panel-info">
 				<div class="panel-heading"><h3 class="text-center">Interface</h3></div>
 				<div class="panel-body text-center">
-				<p class="lead" style="font-size:40px"><strong>Free</strong></p>
+				<p class="lead" style="font-size:40px"><strong>Free-of-cost</strong></p>
 				</div>
 				<ul class="list-group list-group-flush text-center">
 					<li class="list-group-item"><i class="icon-ok text-info"></i> Full access to a 9-km resolution global wind resource map</li>
@@ -31,9 +31,10 @@ keywords: wind and site, farm, development, decisions, measuring
 			<div class="panel panel-info">
 				<div class="panel-heading"><h3 class="text-center">Pay per run</h3></div>
 				<div class="panel-body text-center">
-				<p class="lead" style="font-size:40px"><strong>Access via Vortex Interface</strong></p>
+				<p class="lead" style="font-size:40px"><strong>Fast access for casual users</strong></p>
 				</div>
 				<ul class="list-group list-group-flush">
+					<li class="list-group-item">Access via Vortex Interface</li>
 					<li class="list-group-item">MAP starting at 900 €</li>
 					<li class="list-group-item">MAST starting at 650 €</li>
 					<li class="list-group-item">FARM 1900 €</li>
