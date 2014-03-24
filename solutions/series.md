@@ -27,5 +27,5 @@ When local measurements are already available and long-term extrapolations are r
 - Updated monthly at no cost.
 - Long-Term Consistency Analysis (download sample report).
 - Free 6 months samples since Jan 1, 2001.
-- Remodeling (enhaced MCP). Check EWEA 2014 presentation
+- Remodeling (enhaced MCP). Technical details <a href="../docs/EWEA2014_Atortosa.pdf">here</a> (Tortosa et al. 2014)
 - TXT files for WindPro, WindFarmer, Windographer...
