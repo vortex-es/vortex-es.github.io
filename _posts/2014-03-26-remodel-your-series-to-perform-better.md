@@ -1,6 +1,6 @@
 ---
 categories: "no-cita"
-published: true
+published: false
 title: Remodel your SERIES to perform better
 layout: blog
 author: vortex
