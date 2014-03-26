@@ -43,6 +43,12 @@ prose:
             - name: "blog"
               value: "blog"
               selected: "blog"
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          placeholder:"aaa-mm-dd"
+          value: ""
       - name: "categories"
         field:
           element: "hidden"
