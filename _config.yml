@@ -46,7 +46,7 @@ prose:
       - name: "date"
         field:
           element: "text"
-          label: "Date"
+          label: "date"
           placeholder:"aaa-mm-dd"
           value: ""
       - name: "categories"
