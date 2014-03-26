@@ -4,6 +4,11 @@ published: false
 title: Remodel your SERIES to perform better
 layout: blog
 author: vortex
+"featured-img-url": Remodeling performance
+"featured-img-alt": Remodeling performance
+meta: Enhance your SERIES with Vortex remodel
+keywords: "vortex, series, long-term, remodel"
+excerpt: Vortex remodeling
 ---
 
 ## One step beyond current long-term extrapolation methods.
