@@ -6,7 +6,7 @@ layout: blog
 author: vortex
 ---
 
-## One step beyond current long-term extrapolation methods
+## One step beyond current long-term extrapolation methods.
 
 We are very pleased to introduce Vortex _Remodeling_, a completely free feature to enhance your [SERIES](../solutions/series.html) performance.
 
