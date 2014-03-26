@@ -47,7 +47,7 @@ prose:
         field:
           element: "text"
           label: "date"
-          help: "aaa-mm-dd"
+          help: "aaa-mm-dd hh-mm-ss"
           value: ""
       - name: "categories"
         field:
