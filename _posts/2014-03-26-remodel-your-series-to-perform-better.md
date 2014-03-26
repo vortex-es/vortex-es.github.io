@@ -1,5 +1,9 @@
 ---
-categories: "no-cita"
+date: 2014-03-14 11:48:19
+layout: blog
+slug: remodel-your-series-to-perform-better
+title: Remodel your series to perform better
+categories: [infraestructura, general, no-cita]
 title: Remodel your SERIES to perform better
 layout: blog
 author: vortex
