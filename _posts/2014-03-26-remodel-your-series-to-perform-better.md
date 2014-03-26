@@ -1,18 +1,23 @@
 ---
-date: 2014-03-14 11:48:19
+categories: 
+  - infraestructura
+  - general
+  - "no-cita"
+date: {}
 layout: blog
-slug: remodel-your-series-to-perform-better
-title: Remodel your series to perform better
-categories: [infraestructura, general, no-cita]
+slug: "remodel-your-series-to-perform-better"
 title: Remodel your SERIES to perform better
-featured-img-url: remodel-vortex-mcp.jpg
-featured-img-alt: "Remodel your Vortex Series"
-tags:
+"featured-img-url": "remodel-vortex-mcp.jpg"
+"featured-img-alt": Remodel your Vortex Series
+tags: null
 meta: Enhance your SERIES with Vortex remodel
 excerpt: "We are very pleased to introduce Vortex Remodeling, a completely free feature to enhance your SERIES performance"
 author: vortex
 keywords: "vortex, series, long-term, remodel"
+published: true
 ---
+
+#Remodel your SERIES to perform better
 
 ## One step beyond current long-term extrapolation methods.
 
