@@ -1,4 +1,5 @@
 ---
+categories: "no-cita"
 title: Remodel your SERIES to perform better
 layout: blog
 author: vortex
@@ -7,6 +8,7 @@ author: vortex
 meta: Enhance your SERIES with Vortex remodel
 keywords: "vortex, series, long-term, remodel"
 excerpt: Vortex remodeling
+published: true
 ---
 
 ## One step beyond current long-term extrapolation methods.
