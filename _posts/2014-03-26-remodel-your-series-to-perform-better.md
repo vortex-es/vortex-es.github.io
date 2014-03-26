@@ -3,7 +3,7 @@ categories:
   - infraestructura
   - general
   - "no-cita"
-date: {}
+date: 2014-03-26 11:48:19
 layout: blog
 slug: "remodel-your-series-to-perform-better"
 title: Remodel your SERIES to perform better
