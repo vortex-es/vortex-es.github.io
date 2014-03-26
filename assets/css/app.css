@@ -650,6 +650,9 @@ width: 90px!important;
   max-width: 150px;
   margin-right: 10px;
 }
+img.featured-img {
+  margin: .5em;
+}
 
 /*-----------------------------------------------------------------------------------*/
 /* - CSS Animations
