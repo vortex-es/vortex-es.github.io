@@ -3,8 +3,8 @@ categories: "no-cita"
 title: Remodel your SERIES to perform better
 layout: blog
 author: vortex
-"featured-img-url": ""
-"featured-img-alt": ""
+"featured-img-url": assets/img/petals.jpg
+"featured-img-alt": Vortex remodeling
 meta: Enhance your SERIES with Vortex remodel
 keywords: "vortex, series, long-term, remodel"
 excerpt: "We are very pleased to introduce Vortex Remodeling, a completely free feature to enhance your SERIES performance"
