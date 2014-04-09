@@ -542,6 +542,9 @@ overflow: hidden;
 .card .card-content {
   padding-left: 10%;
 }
+.card-content-resources {
+  padding-left: 0!important;
+}
 
 a.next-ten {
     display: block;

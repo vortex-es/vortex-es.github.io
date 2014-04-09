@@ -1,0 +1,38 @@
+---
+layout: default
+class: gil-index
+slug: blog
+---
+
+<main class="ox-masthead" id="content" role="main">
+
+  <div class="container">
+
+  {% include nav-about-us.html %} 
+
+    <div class="body-content blog">        
+
+      <div class="row">
+        <div class="col-sm-12 col-lg-12 blog-list">
+          {% assign cardCount = 0 %}
+
+            {% for post in site.categories.resources %}      
+              {% include resources-card.html %}
+              {% assign cardCount = cardCount | plus: 1 %}      
+            {% endfor %}
+
+            {% if cardCount > 10 %}
+              {% assign firstThree = true %}
+              <div class="clearfix"></div>
+              {% include next-ten-ten.html %}
+            {% endif %}
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</main>
