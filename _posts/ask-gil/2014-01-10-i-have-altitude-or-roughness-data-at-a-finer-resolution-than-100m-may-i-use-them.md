@@ -9,10 +9,6 @@ meta: I have altitude or roughness data at a finer resolution than 100m. May I u
 excerpt: No, sorry. One of Vortex’s main aims is to provide our customers with fast results.
 author: gil
 keywords: vortex, company, experience, independence, collaborative
-sitemap:
-  lastmod: 2014-03-05
-  priority: 0.7
-  changefreq: monthly
 ---
 
 #I have altitude or roughness data at a finer resolution than 100m. May I use them?
