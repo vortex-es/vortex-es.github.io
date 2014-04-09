@@ -1,0 +1,44 @@
+---
+layout: default
+class: gil-article
+slug: blog
+---
+
+{% assign author = site.authors[page.author] %}
+
+<main class="vx-masthead" id="content" role="main">
+
+  <div class="container">
+
+    <div class="body-content blog">        
+
+      <ul class="breadcrumb">
+        <li><a href="{{ site.base_url }}/">Home</a></li>
+        <li><a href="{{ site.base_url }}/resources">Resources</a></li>
+        <li class="active">{{page.title}}</li>
+      </ul>
+      
+      <div class="row">
+        <div class="col-sm-12 col-lg-12 blog-list">
+          <article class="article" role="main">
+            {% include social.html %}
+            {% if page.featured-img-url %}
+            <p class="pull-right hidden-xs hidden-sm"><img class="img-thumbnail featured-img" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}}" title="{{page.featured-img-alt}}"{% endif %}></p>
+            {% endif %}
+            <h1>{{page.title}}</h1>
+            <p class='continue-link'><a href='{{site.baseurl}}/assets/docs/{{page.docs-url}}'>Download <span class="icon-download-alt"></span></a></p>
+            {% if page.featured-img-url %}
+            <p class="hidden-md hidden-lg text-center"><img class="img-thumbnail featured-img" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}} featured-img" title="{{page.featured-img-alt}}"{% endif %}></p>
+            {% endif %}
+            {{content}}
+          </article>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</main>
