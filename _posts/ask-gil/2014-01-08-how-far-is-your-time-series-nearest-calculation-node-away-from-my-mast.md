@@ -9,10 +9,6 @@ meta: How far is your time series nearest calculation node away from my mast?
 excerpt: Since SERIES (like all Vortex products) are computed on demand
 author: gil
 keywords: vortex, company, experience, independence, collaborative
-sitemap:
-  lastmod: 2014-03-05
-  priority: 0.7
-  changefreq: monthly
 ---
 
 #How far is your time series nearest calculation node away from my mast?

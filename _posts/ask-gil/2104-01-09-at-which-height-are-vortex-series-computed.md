@@ -9,10 +9,6 @@ meta: At which height are Vortex SERIES computed?
 excerpt: Vortex SERIES are delivered at 80m a.g.l. but this information is hiden in purpose since they are a Mesoscale product of 3km-resolution
 author: gil
 keywords: vortex, company, experience, independence, collaborative
-sitemap:
-  lastmod: 2014-03-05
-  priority: 0.7
-  changefreq: monthly
 ---
 
 #At which height are Vortex SERIES computed?

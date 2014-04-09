@@ -9,10 +9,6 @@ meta: Does Vortex produce reliable results within a forest?
 excerpt: Vortex MAST results have been compared fairly successfully against user measurements taken inside or near a forest after certain precautions have been taken
 author: gil
 keywords: vortex, company, experience, independence, collaborative
-sitemap:
-  lastmod: 2014-03-05
-  priority: 0.7
-  changefreq: monthly
 ---
 
 #Does Vortex produce reliable results within a forest?
