@@ -5,8 +5,8 @@
 	<div class="card-content card-content-resources">
 		{% if page.class == 'blog-index' %}<h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | date: "%b %d" }}</time></h4>{% endif %}
 		 {% if post.featured-img-url %}
-            <p class="text-center"><img class="img-thumbnail" src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}" {% if post.featured-img-alt != %}alt="{{post.featured-img-alt}} featured-img" title="{{post.featured-img-alt}}"{% endif %}>
+            <p class="text-center"><a href='{{site.baseurl}}/assets/docs/{{post.docs-url}}' title="click here tot download {{post.title}}"><img class="img-thumbnail" src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}" {% if post.featured-img-alt != %}alt="{{post.featured-img-alt}} featured-img"{% endif %}></a></p>
          {% endif %}
-         <p class='continue-link'><a href='{{site.baseurl}}/assets/docs/{{post.docs-url}}'>Download <span class="icon-download-alt"></span></a></p>
+         <p class='continue-link'><a href='{{site.baseurl}}/assets/docs/{{post.docs-url}} title="click here tot download {{post.title}}"'>Download <span class="icon-download-alt"></span></a></p>
 	</div>
 </div>
