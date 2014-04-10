@@ -528,7 +528,7 @@ overflow: hidden;
 }
 
 .card.card-gil{
-  background: rgba(0,60,76,.1);
+  background: rgba(0,60,76,.05);
 }
 
 .card .card-title {
