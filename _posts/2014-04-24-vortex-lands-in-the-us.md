@@ -24,13 +24,13 @@ We are very pleased to announce that Vortex FdC Inc, fully owned subsidiary of V
 "North America is a priority market for us. By incorporating Ed to the Vortex team, we expect to face this challenge and better meet the service quality that our American customers deserve"  Pep Moreno (Vortex CEO)
 For further information, please contact
 
-Ed Montero
+Ed Montero<br>
 Vortex FdC Inc
 
-1101 Brickell Avenue
-Southtower/8th Floor
+1101 Brickell Avenue<br>
+Southtower/8th Floor<br>
 Miami, Florida 33131
 
-(+1) 305 424 1681
+(+1) 305 424 1681<br>
 ed.montero@vortexfdc.com
 
