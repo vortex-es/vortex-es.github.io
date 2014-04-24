@@ -1,16 +1,23 @@
 ---
-categories: "no-cita"
-published: false
-title: Vortex lands in the US
+categories: 
+  - infraestructura
+  - general
+  - "no-cita"
+date: "2014-04-24 14:59:00"
 layout: blog
-author: vortex
-date: "014-04-24"
-keywords: Vortex lands in the US
-excerpt: Vortex lands in the US
-meta: Vortex lands in the US
+slug: "vortex-lands-in-the-us"
+title: Vortex lands in the US
+"featured-img-url": "vortex-lands-in-us.jpg"
 "featured-img-alt": Vortex lands in the US
-"featured-img-url": Vortex lands in the US
+tags: null
+meta: Vortex lands in the US
+excerpt: "We are very pleased to announce that Vortex FdC Inc, fully owned subsidiary of Vortex SL, has recently started operations in Miami FL"
+author: vortex
+keywords: "vortex, US, company, industry"
+published: true
 ---
+
+#Vortex lands in the US
 
 We are very pleased to announce that Vortex FdC Inc, fully owned subsidiary of Vortex SL, has recently started operations in Miami FL, headed by Mr. Ed Montero. Ed has more than 15 years of experience in the wind industry in international environment in a global leading OEM.
 
@@ -26,4 +33,4 @@ Miami, Florida 33131
 
 (+1) 305 424 1681
 ed.montero@vortexfdc.com
-![Vortex.lans.in.the.US](/assets/img/canyon246932f.jpg)
+
