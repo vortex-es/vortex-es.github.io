@@ -7,7 +7,7 @@ date: "2014-04-24 14:59:00"
 layout: blog
 slug: "vortex-lands-in-the-us"
 title: Vortex lands in the US
-"featured-img-url": "vortex-lands-in-us.jpg"
+"featured-img-url": "vortex-lans-in-us.jpg"
 "featured-img-alt": Vortex lands in the US
 tags: null
 meta: Vortex lands in the US
