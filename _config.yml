@@ -52,7 +52,7 @@ prose:
       - name: "categories"
         field:
           element: "hidden"
-          value: "no-cita"
+          value: "general"
       - name: "featured-img-url"
         field:
           element: "text"
