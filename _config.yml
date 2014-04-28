@@ -43,6 +43,8 @@ prose:
             - name: "blog"
               value: "blog"
               selected: "blog"
+            - name: "default"
+              value: "default"
       - name: "date"
         field:
           element: "text"
