@@ -1,6 +1,6 @@
 ---
 categories: general
-published: false
+published: true
 title: Prova amb la categoria canviada
 layout: blog
 author: vortex
