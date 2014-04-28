@@ -4,6 +4,7 @@ published: true
 title: No val per a res
 layout: blog
 author: vortex
+date: "2014-04-28"
 ---
 
 ## A New Post
