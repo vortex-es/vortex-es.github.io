@@ -1,0 +1,11 @@
+---
+categories: general
+published: false
+title: Prova amb la categoria canviada
+layout: blog
+author: vortex
+---
+
+## A New Post
+![Books](/assets/img/books.png)
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
