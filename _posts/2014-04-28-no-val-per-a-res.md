@@ -1,6 +1,6 @@
 ---
 categories: "no-cita"
-published: false
+published: true
 title: No val per a res
 layout: blog
 author: vortex
