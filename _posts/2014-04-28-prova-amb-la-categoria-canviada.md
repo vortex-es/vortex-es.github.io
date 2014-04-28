@@ -4,6 +4,7 @@ published: false
 title: Prova amb la categoria canviada
 layout: blog
 author: vortex
+excerpt: Aquesta és la prova
 ---
 
 ## A New Post
