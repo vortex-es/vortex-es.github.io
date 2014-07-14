@@ -1,5 +1,5 @@
 name:             'Vortex'
-url:              'http://www.vortex.es'
+url:              'http://www.vortexfdc.com'
 markdown:         rdiscount
 pygments:         true
 
@@ -43,6 +43,8 @@ prose:
             - name: "blog"
               value: "blog"
               selected: "blog"
+            - name: "default"
+              value: "default"
       - name: "date"
         field:
           element: "text"
@@ -52,7 +54,7 @@ prose:
       - name: "categories"
         field:
           element: "hidden"
-          value: "no-cita"
+          value: "general"
       - name: "featured-img-url"
         field:
           element: "text"
