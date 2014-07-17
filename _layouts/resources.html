@@ -23,12 +23,12 @@ slug: blog
           <article class="article" role="main">
             {% include social.html %}
             {% if page.featured-img-url %}
-            <p class="pull-right hidden-xs hidden-sm ox_animate_when_almost_visible ox_left-to-right"><a href='{{site.baseurl}}/assets/docs/{{page.docs-url}}' title="click here tot download {{page.title}}"><img class="img-thumbnail featured-img" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}}"{% endif %}></a></p>
+            <p class="pull-right hidden-xs hidden-sm ox_animate_when_almost_visible ox_left-to-right"><a href='{{site.baseurl}}/assets/docs/{{page.docs-url}}'><img class="img-thumbnail featured-img" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}}"{% endif %}></a></p>
             {% endif %}
             <h1>{{page.title}}</h1>
             <p class='continue-link'><a href='{{site.baseurl}}/assets/docs/{{page.docs-url}}'>Download <span class="icon-download-alt"></span></a></p>
             {% if page.featured-img-url %}
-            <p class="hidden-md hidden-lg text-center ox_animate_when_almost_visible ox_bottom-to-top"><a href='{{site.baseurl}}/assets/docs/{{page.docs-url}}' title="click here tot download {{page.title}}"><img class="img-thumbnail featured-img" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}} featured-img"{% endif %}></a></p>
+            <p class="hidden-md hidden-lg text-center ox_animate_when_almost_visible ox_bottom-to-top"><a href='{{site.baseurl}}/assets/docs/{{page.docs-url}}'><img class="img-thumbnail featured-img" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}} featured-img"{% endif %}></a></p>
             {% endif %}
             {{content}}
           </article>
