@@ -5,7 +5,7 @@ title: "Philippines Wind Map"
 categories: resources
 featured-img-url: philippines-wind-map.png
 featured-img-alt: Philippines Wind Map
-docs-url: philippines_wrm.pdf
+docs-url: vortex_3km_philippines_wind_map_resource.pdf
 tags:
 meta: "Philippines Wind Map"
 excerpt: 
