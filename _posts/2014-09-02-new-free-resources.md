@@ -7,8 +7,8 @@ date: "2014-09-2 14:59:00"
 layout: blog
 slug: "vortex-wind-maps-free-available"
 title: Wind Maps Freely Available
-"featured-img-url": "mongolia-wind-map.png"
-"featured-img-alt": Vortex 3km Mongolia Wind Map
+"featured-img-url": "wind-maps-news.png"
+"featured-img-alt": New Free Wind Maps Available 
 tags: null
 meta: Vortex New Free Resources
 excerpt: "Vortex has worked in the last months to prepare prospecting maps of countries where the wind industry is being developed"
