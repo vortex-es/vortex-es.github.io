@@ -1,14 +1,23 @@
 ---
-categories: general
-published: false
-title: New Free Resources
+categories: 
+  - infraestructura
+  - general
+  - "no-cita"
+date: "2014-09-2 14:59:00"
 layout: blog
+slug: "vortex-wind-maps-free-available"
+title: Wind Maps Freely Available
+"featured-img-url": "mongolia-wind-map.png"
+"featured-img-alt": Vortex 3km Mongolia Wind Map
+tags: null
+meta: Vortex New Free Resources
+excerpt: "Vortex has worked in the last months to prepare prospecting maps of countries where the wind industry is being developed"
 author: vortex
+keywords: "vortex, wind map, resources, free"
+published: true
 ---
 
 ## Wind Maps Freely Available
-
-![mongolia-wind-map.png](/_posts/mongolia-wind-map.png)
 
 Vortex has worked in the last months to prepare prospecting maps of countries where the wind industry is being developed.
 
