@@ -5,7 +5,7 @@ title: "Sample of Vortex Consistency Report"
 categories: resources
 featured-img-url: consistency-report-sample.png
 featured-img-alt: Consistency Report Sample
-docs-url: report-consistency.pdf
+docs-url: report_consistency.pdf
 tags:
 meta: "Sample of Vortex Consistency Report"
 excerpt: 
