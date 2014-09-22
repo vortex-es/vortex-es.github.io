@@ -1,7 +1,7 @@
 name:             'Vortex'
 url:              'http://www.vortexfdc.com'
 markdown:         rdiscount
-pygments:         true
+highlighter:      pygments
 
 baseurl:
 permalink:        /:title
