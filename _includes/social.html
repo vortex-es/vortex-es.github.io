@@ -28,7 +28,7 @@ $(window).load(function(){
       var url = $(this).parent().attr('data-url');
       var title = $(this).parent().attr('data-title');
 
-      // $(this).find('.inframe').attr('src','http://www.linkedin.com/shareArticle?mini=true&url=http://www.vortex.es' + url + '&title=' + title + '&summary=' + excerpt + '&source=http://www.vortex.es');
+      /* $(this).find('.inframe').attr('src','http://www.linkedin.com/shareArticle?mini=true&url=http://www.vortex.es' + url + '&title=' + title + '&summary=' + excerpt + '&source=http://www.vortex.es'); */
 
       $(this).find('.fbframe').attr('src','https://www.facebook.com/plugins/like.php?href=vortex.es' + url + '&layout=button_count&show_faces=false&width=450&action=like&font&amp;colorscheme=light&amp;height=25&amp;xfbml=true;');
 
@@ -38,7 +38,7 @@ $(window).load(function(){
 
     }else{
 
-      // $('.inframe').attr('src','http://www.linkedin.com/shareArticle?mini=true&url=http://www.vortex.es{{page.url | replace:"'","\'" | uri_escape}}&title={{page.title | replace:"'","\'" | uri_escape}}&summary={{page.excerpt | replace:"'","\'" | uri_escape}}&source=http://www.vortex.es');
+      /* $('.inframe').attr('src','http://www.linkedin.com/shareArticle?mini=true&url=http://www.vortex.es{{page.url | replace:"'","\'" | uri_escape}}&title={{page.title | replace:"'","\'" | uri_escape}}&summary={{page.excerpt | replace:"'","\'" | uri_escape}}&source=http://www.vortex.es'); */
 
       $('.fbframe').attr('src','https://www.facebook.com/plugins/like.php?href=vortex.es{{page.url | replace:"'","\'" | uri_escape}}&layout=button_count&show_faces=false&width=450&action=like&font&amp;colorscheme=light&amp;height=25&amp;xfbml=true;');
 
