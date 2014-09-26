@@ -24,4 +24,4 @@ Vortex Power FORECAST service opens a window on energy productions from next hou
 
 Vortex Wind FORECAST service is the result of more than 20 years experience with manufacturers maintenance teams. Based on their requests, an extremely easy-to-use interface has been designed to fulfill O&M, always urgent, needs.
 
-<li class="get-started"> new! </li>
+<b> NEW! </b> Check Vortex FORECAST accuracy on-line against <a href="http://www.sotaventogalicia.com/en" target="_blank">Sotavento</a> real-time measurements. Simply, <a mailto:info@vortex.es>contact us</a> to get access and log into your Vortex <a href="http://interface.vortex.es" target="_blank">account</a> as usual.
