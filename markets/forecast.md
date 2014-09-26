@@ -24,3 +24,4 @@ Vortex Power FORECAST service opens a window on energy productions from next hou
 
 Vortex Wind FORECAST service is the result of more than 20 years experience with manufacturers maintenance teams. Based on their requests, an extremely easy-to-use interface has been designed to fulfill O&M, always urgent, needs.
 
+<li class="get-started"> new! </li>
