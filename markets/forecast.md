@@ -8,7 +8,7 @@ keywords: forecast, service, energy, management, imbalance
 ---
 
 <blockquote>
-    <p>A smart combination of several forecasts performs better than the best of its members.</p>
+    <p>><i>A smart combination of several forecasts performs better than the best of its members.</i></p>
     <footer>&mdash; <cite>EWEA Wind Power Forecasting Workshop. Rotterdam 2013</cite></footer>
 </blockquote>
 
