@@ -16,7 +16,7 @@ $('a.next-ten').bind('click',function(e){
     e.preventDefault();
     cardCount -= 10;
     var $nodisplay = $('.card.nodisplay');
-    // get rid of the nodisplay class for the next ten elements
+      /* get rid of the nodisplay class for the next ten elements */
 
     $.each($nodisplay,function(i,el){
         if (i < 10) {
@@ -24,7 +24,7 @@ $('a.next-ten').bind('click',function(e){
         }
     });
     
-    // detect if there is more to load, if not hide next-ten button
+    /* detect if there is more to load, if not hide next-ten button */
     if (cardCount <= 0) {
         $('a.next-ten').addClass('nodisplay');
     } else if (cardCount >= 10) {
