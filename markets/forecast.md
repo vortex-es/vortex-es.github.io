@@ -22,10 +22,6 @@ keywords: forecast, service, energy, management, imbalance
     <b> NEW! </b> Check FORECAST accuracy against <a href="http://www.sotaventogalicia.com/en" target="_blank">Sotavento</a> real-time measurements, on-line. Simply <a href="mailto:info@vortex.es">contact us</a> to get access and log into Vortex as usual.
 </div>
 
-#Power <a href=../solutions/forecast>FORECAST</a>, wind-to-win
+#Power & Wind <a href=../solutions/forecast>FORECAST</a>, wind-to-win
 
-Vortex Power FORECAST service opens a window on energy productions from next hour to next days. Delivered securely and automatically, its performance can be checked in a constantly update online validation exercise. 
-
-#Wind <a href=../solutions/forecast>FORECAST</a>, simplify your O&M decisions
-
-Vortex Wind FORECAST service is the result of more than 20 years experience with manufacturers maintenance teams. Based on their requests, an extremely easy-to-use interface has been designed to fulfill O&M, always urgent, needs.
+Power FORECAST service opens a window on energy productions from next hour to next days. Delivered securely and automatically, its performance can be checked in a constantly update online validation exercise. Wind FORECAST service is the result of more than 20 years experience with manufacturers maintenance teams. Based on their requests, an extremely easy-to-use interface has been designed to fulfill O&M, always urgent, needs.
