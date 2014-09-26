@@ -16,6 +16,10 @@ keywords: forecast, service, energy, management, imbalance
 <p> With FORECAST, Vortex enters the very competitive forecast market with a new, fresh approach: making use of our massive cluster (in charge of heavy Wind & Site calculations delivered every day) and a extremely interactive, easy-to-use users Interface.</p>
 <p> Vortex FORECAST is based on a 3rd generation Forecast approach: while pioneer prediction schemes (based on downscale-modeling) were outperformed by simpler second generation ones (based on statistical training only), Vortex approach takes the best of the two worlds introducing a new combined scheme that has demonstrated to improve forecast quality.</p>
 
+<div class="well well-sm ox_animate_when_almost_visible ox_bottom-to-top">
+    <b> NEW! </b> Check Vortex FORECAST accuracy on-line against <a href="http://www.sotaventogalicia.com/en" target="_blank">Sotavento</a> real-time measurements. Simply, <a mailto:info@vortex.es>contact us</a> to get access and log into your Vortex <a href="http://interface.vortex.es" target="_blank">account</a> as usual.
+</div>
+
 ##Power FORECAST, wind-to-win
 
 Vortex Power FORECAST service opens a window on energy productions from next hour to next days. Delivered securely and automatically, its performance can be checked in a constantly update online validation exercise. 
@@ -23,7 +27,3 @@ Vortex Power FORECAST service opens a window on energy productions from next hou
 ##Wind FORECAST, simplify your O&M decisions
 
 Vortex Wind FORECAST service is the result of more than 20 years experience with manufacturers maintenance teams. Based on their requests, an extremely easy-to-use interface has been designed to fulfill O&M, always urgent, needs.
-
-<blockquote>
-    <b> NEW! </b> Check Vortex FORECAST accuracy on-line against <a href="http://www.sotaventogalicia.com/en" target="_blank">Sotavento</a> real-time measurements. Simply, <a mailto:info@vortex.es>contact us</a> to get access and log into your Vortex <a href="http://interface.vortex.es" target="_blank">account</a> as usual.
-</blockquote>
