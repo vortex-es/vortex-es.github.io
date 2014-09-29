@@ -19,7 +19,7 @@ keywords: forecast, service, energy, management, imbalance
 <p> Vortex FORECAST is based on a 3rd generation Forecast approach: while pioneer prediction schemes (based on downscale-modeling) were outperformed by simpler second generation ones (based on statistical training only), Vortex approach takes the best of the two worlds introducing a new combined scheme that has demonstrated to improve forecast quality.</p>
 
 <div class="well well-sm ox_animate_when_almost_visible ox_bottom-to-top">
-    <b> NEW! </b> Check FORECAST accuracy against <a href="http://www.sotaventogalicia.com/en" target="_blank">Sotavento</a> real-time measurements, on-line. Simply <a href="mailto:info@vortex.es">contact us</a> to get access and log into Vortex as usual.
+    <b> NEW! </b> Check FORECAST accuracy against <a href="http://www.sotaventogalicia.com/en" target="_blank">Sotavento</a> real-time measurements, on-line. <a href="mailto:info@vortex.es">Contact us</a> to get access and log into Vortex your account as usual.
 </div>
 
 #Power & Wind <a href=../solutions/forecast>FORECAST</a>, wind-to-win
