@@ -12,6 +12,9 @@ author: vortex
 
 At Vortex, we want to be your forecast provider. Even if you already have one!
 
-Only a few months after its release, Vortex [FORECAST](../solutions/forecast.htm) is already forecasting more than 1000 MW in 15 countries. High accuracy, attractive prices, customizable delivery channels and flexible input requirements are just some of the factors behind this success.
+Only a few months after its release, Vortex [FORECAST](http://http://www.vortexfdc.com/solutions/forecast.html) is already forecasting more than 1000 MW in 15 countries. High accuracy, attractive prices, customizable delivery channels and flexible input requirements are just some of the factors behind this success.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+Now, you can easily check forecast accuracy for yourself by logging into Vortex Interface and comparing FORECAST Sample to real-time measurements from Sotavento wind farm, on-line.
+
+Please, contact us if you are interested in arranging a pilot to forecast your specific existing or planned projects.
+ 
