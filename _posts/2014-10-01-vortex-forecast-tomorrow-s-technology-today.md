@@ -17,7 +17,7 @@ keywords: "vortex, wind, forecast, accuracy"
 published: true
 ---
 
-## Check Vortex FORECAST accuracy. Online. 
+## Check FORECAST accuracy, online. 
 
 Only a few months after its release, Vortex [FORECAST](http://www.vortexfdc.com/solutions/forecast.html) is already forecasting more than 1000 MW in 15 countries. High accuracy, attractive prices, customizable delivery channels and flexible input requirements are just some of the factors behind this success.
 
