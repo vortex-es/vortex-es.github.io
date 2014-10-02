@@ -1,9 +1,20 @@
 ---
-categories: general
-published: false
-title: "Vortex FORECAST. Tomorrow's technology, today"
+categories: 
+  - infraestructura
+  - general
+  - "no-cita"
+date: "2014-10-2 14:59:00"
 layout: blog
+slug: "vortex-forecast-available"
+title: Vortex Forecast Tomorrow Technology, Today
+"featured-img-url": "vortex-forecast.png"
+"featured-img-alt": Vortex Forecast
+tags: null
+meta: Vortex Forecast
+excerpt: At Vortex, we want to be your forecast provider. Even if you already have one!
 author: vortex
+keywords: "vortex, wind, forecast"
+published: false
 ---
 
 ## Vortex FORECAST. Tomorrow's technology, today
