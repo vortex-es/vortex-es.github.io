@@ -14,7 +14,7 @@ meta: Vortex Forecast
 excerpt: At Vortex, we want to be your forecast provider. Even if you already have one!
 author: vortex
 keywords: "vortex, wind, forecast"
-published: false
+published: true
 ---
 
 ## Vortex FORECAST. Tomorrow's technology, today
