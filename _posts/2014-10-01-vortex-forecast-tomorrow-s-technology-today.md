@@ -6,7 +6,7 @@ categories:
 date: "2014-10-2 14:59:00"
 layout: blog
 slug: "vortex-forecast-available"
-title: Check Vortex FORECAST accuracy. Online.
+title: Check FORECAST accuracy, online.
 "featured-img-url": "vortex-forecast.png"
 "featured-img-alt": Vortex Forecast
 tags: null
