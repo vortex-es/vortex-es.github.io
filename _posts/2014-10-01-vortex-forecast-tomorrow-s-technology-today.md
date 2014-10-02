@@ -11,7 +11,7 @@ title: Check FORECAST accuracy, online.
 "featured-img-alt": Vortex Forecast
 tags: null
 meta: Vortex Forecast
-excerpt: Check Vortex FORECAST accuracy. Online.
+excerpt: Now, you can easily check our forecast accuracy for yourself by simply logging into Vortex Interface.
 author: vortex
 keywords: "vortex, wind, forecast, accuracy"
 published: true
