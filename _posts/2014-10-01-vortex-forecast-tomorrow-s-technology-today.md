@@ -6,26 +6,22 @@ categories:
 date: "2014-10-2 14:59:00"
 layout: blog
 slug: "vortex-forecast-available"
-title: Vortex Forecast. Tomorrow's technology, today
+title: Please, check FORECAST accuracy. Online.
 "featured-img-url": "vortex-forecast.png"
 "featured-img-alt": Vortex Forecast
 tags: null
 meta: Vortex Forecast
-excerpt: At Vortex, we want to be your forecast provider. Even if you already have one!
+excerpt: Please, check FORECAST accuracy. Online.
 author: vortex
 keywords: "vortex, wind, forecast"
 published: true
 ---
 
-## Vortex FORECAST. Tomorrow's technology, today
-
-"_A smart ensemble of several forecasts performs better than the best of its members_" EWEA Wind Power Forecasting Workshop, Rotterdam 2013.
-
-At Vortex, we want to be your forecast provider. Even if you already have one!
+## Please, check FORECAST accuracy. Online. 
 
 Only a few months after its release, Vortex [FORECAST](http://www.vortexfdc.com/solutions/forecast.html) is already forecasting more than 1000 MW in 15 countries. High accuracy, attractive prices, customizable delivery channels and flexible input requirements are just some of the factors behind this success.
 
-Now, you can easily check forecast accuracy for yourself by logging into Vortex Interface and comparing FORECAST Sample to real-time measurements from <a href="http://www.sotaventogalicia.com/en" target=blank>Sotavento</a> wind farm, on-line.
+Now, you can easily check our forecast accuracy for yourself by logging into Vortex Interface and comparing FORECAST Sample to real-time measurements from <a href="http://www.sotaventogalicia.com/en" target=blank>Sotavento</a> wind farm, online.
 
 Please, contact us if you are interested in arranging a pilot to forecast your specific existing or planned projects.
  
