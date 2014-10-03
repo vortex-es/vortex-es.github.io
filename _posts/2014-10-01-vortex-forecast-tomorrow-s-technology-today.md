@@ -6,7 +6,7 @@ categories:
 date: "2014-10-2 14:59:00"
 layout: blog
 slug: "vortex-forecast-available"
-title: Check our accuracy, online.
+title: Check our Accuracy, online.
 "featured-img-url": "vortex-forecast.png"
 "featured-img-alt": Vortex Forecast
 tags: null
@@ -17,7 +17,7 @@ keywords: "vortex, wind, forecast, accuracy"
 published: true
 ---
 
-## Check our accuracy, online. 
+## Check our Accuracy, online. 
 
 Only a few months after its release, Vortex [FORECAST](http://www.vortexfdc.com/solutions/forecast.html) is already forecasting more than 1000 MW in 15 countries. High accuracy, attractive prices, customizable delivery channels and flexible input requirements are just some of the factors behind this success.
 
