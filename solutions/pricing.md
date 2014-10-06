@@ -65,7 +65,7 @@ keywords: wind and site, farm, development, decisions, measuring
 				</div>
 				<ul class="list-group list-group-flush text-center">
 					<li class="list-group-item"><i class="icon-ok text-default"></i> Unlimited sequential runs of any Vortex product</li>
-					<li class="list-group-item"><i class="icon-ok text-default"></i> Minimum permanence 6 months. 10% discount for 1 year permanence.</li>
+					<li class="list-group-item"><i class="icon-ok text-default"></i> Minimum permanence 6 months. Progressive discounts for longer permanences.</li>
 					<li class="list-group-item"><i class="icon-ok text-default"></i> Guaranteed delivery times.</li>
 				</ul>
 				<div class="panel-footer">
