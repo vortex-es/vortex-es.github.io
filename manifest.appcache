@@ -1,0 +1,26 @@
+---
+---
+CACHE MANIFEST
+
+# rev {{ site.time }}
+
+CACHE:
+
+{{ site.base_url }}/assets/js/jquery.js
+{{ site.base_url }}/bootstrap/css/bootstrap.min.css
+{{ site.base_url }}/assets/font-awesome/css/font-awesome.min.css
+{{ site.base_url }}/assets/css/app.min.css
+{{ site.base_url }}/assets/ico/favicon-vortex-196.png
+{{ site.base_url }}/assets/ico/favicon-vortex-128.png
+{{ site.base_url }}/assets/ico/apple-touch-icon-144-precomposed.png
+{{ site.base_url }}/assets/ico/apple-touch-icon-114-precomposed.png
+{{ site.base_url }}/assets/ico/apple-touch-icon-72-precomposed.png
+{{ site.base_url }}/assets/ico/apple-touch-icon-57-precomposed.png
+
+{% for page in site.pages %}{% if page.url != '/manifest.appcache' and page.url != '/404.html' %}{{ site.url }}{{ page.url }}{% endif %}
+{% endfor %}
+
+NETWORK:
+*
+http://*
+https://*
