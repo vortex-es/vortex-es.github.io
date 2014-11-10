@@ -19,6 +19,8 @@ CACHE:
 
 {% for page in site.pages %}{% if page.url != '/manifest.appcache' and page.url != '/404.html' %}{{ site.url }}{{ page.url }}{% endif %}
 {% endfor %}
+{% for post in site.posts %}{% if post.url != '/manifest.appcache' and post.url != '/404.html' %}{{ site.url }}{{ post.url }}{% endif %}
+{% endfor %}
 
 NETWORK:
 *
