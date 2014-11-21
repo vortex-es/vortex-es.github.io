@@ -11,7 +11,7 @@ title: 2014 Low Wind Patterns in Turkey
 "featured-img-alt": 2014 Low Wind Patterns in Turkey
 tags: null
 meta: 2014  Low Wind Patterns Turkey
-excerpt: According to the last 30 years compared to the average wind speed, average wind speed of up to 30% reduction in 2014 were identified. 
+excerpt: Significant extremely low wind speed conditions have been detected across Turkey throughout 2014.
 author: vortex
 keywords: "vortex, wind patterns, anomaly, Turkey"
 published: true
