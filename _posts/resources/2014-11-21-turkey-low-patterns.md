@@ -12,4 +12,4 @@ excerpt:
 author: vortex
 keywords: 
 ---
-<p class='continue-link'><a href='/assets/docs/low_wind_turkey_TK.pdf'>Download (Turkish version)<span class="icon-download-alt"></span></a></p>
+<p class='continue-link'><a href='/assets/docs/low_wind_turkey_TK.pdf'>Download (Turkish version) <span class="icon-download-alt"></span></a></p>
