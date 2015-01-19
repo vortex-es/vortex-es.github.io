@@ -1,0 +1,37 @@
+{
+  "name": "appcache-nanny",
+  "version": "1.0.0",
+  "description": "Teaches the applicationCache douchebag some manners!",
+  "main": "appcache-nanny.js",
+  "scripts": {
+    "test": "node ./bin/test-browser.js",
+    "start": "node ./bin/dev-server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gr2m/appcache-nanny.git"
+  },
+  "keywords": [
+    "browser",
+    "appcache",
+    "offlinefirst"
+  ],
+  "author": "Gregor Martynus <gregor@martynus.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gr2m/appcache-nanny/issues"
+  },
+  "homepage": "https://github.com/gr2m/appcache-nanny",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "chai-as-promised": "^4.1.1",
+    "colors": "^1.0.3",
+    "hapi": "^8.1.0",
+    "mocha": "^2.1.0",
+    "moment": "^2.9.0",
+    "sauce-connect-launcher": "^0.9.3",
+    "selenium-standalone": "^2.44.0-4",
+    "wd": "^0.3.11"
+  },
+  "dependencies": {}
+}
