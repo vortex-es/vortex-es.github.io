@@ -20,6 +20,36 @@ if ( typeof window['vc_waypoints'] !== 'function' ) {
   }
 }
 </script>
+{% if page.class == 'gil-index' %}
+<script src="/bower_components/simple-jekyll-search/jekyll-search.js"></script>
+<script type="text/javascript">
+  SimpleJekyllSearch.init({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    dataSource: '/search.json',
+    searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+    noResultsText: 'No results found',
+    fuzzy: false,
+  })
+</script>
+<style type="text/css">
+  #search-demo-container {
+    max-width: 40em;
+    padding: 1em;
+    margin: 1em auto;
+    border: 1px solid lightgrey;
+  }
+  #search-input {
+    display: inline-block;
+    padding: .5em;
+    font-size: .8em;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+</style>
+{% endif %}
 <script src="/bower_components/appcache-autoupdate/appcache-nanny.min.js" async></script>
 <script>    
 Response.create({mode : 'src', prefix : 'src'});

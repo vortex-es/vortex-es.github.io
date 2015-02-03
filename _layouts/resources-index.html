@@ -13,7 +13,14 @@ slug: blog
     <div class="body-content blog">        
 
       <div class="row">
+
+        <div id="search-demo-container">
+          <input type="text" id="search-input" placeholder="search our entire base of resources...">
+          <ul id="results-container"></ul>
+        </div>
+
         <div class="col-sm-12 col-lg-12 blog-list">
+
           {% assign cardCount = 0 %}
 
             {% for post in site.categories.resources %}      
