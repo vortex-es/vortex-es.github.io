@@ -7,7 +7,7 @@ featured-img-url: 04-bg-slide-solar-512.jpg
 keywords: forecast, service, energy, management, imbalance
 ---
 
-<p class="lead">Sun radiation touches every site on earth but scattered by many diffusive agents. Vortex SOLAR helps you narrowing uncertainty on site-specific solar energy projects by means of a smart combination of satellite data and the power of well-stablished atmospheric models.</p>
+<p class="lead">Sun radiation touches every site on Earth but scattered by many diffusive agents. Vortex SOLAR helps you narrowing uncertainty on site-specific solar energy projects by means of a smart combination of satellite data and the power of well-stablished atmospheric models.</p>
 
 ##Unveiling regional resources for integrated development
 
