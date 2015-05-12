@@ -3,13 +3,14 @@ layout: markets
 slug: markets
 title: Solar
 subtitle: beam the information to your project
-featured-img-url: 04-bg-slide-solar-512.jpg
-keywords: forecast, service, energy, management, imbalance
+"featured-img-url": "04-bg-slide-solar-512.jpg"
+keywords: "forecast, service, energy, management, imbalance"
+published: true
 ---
 
 <p class="lead">Sun radiation touches every site on Earth but scattered by many diffusive agents. Vortex SOLAR helps you narrowing uncertainty on site-specific solar energy projects by means of a smart combination of satellite data and the power of well-stablished atmospheric models.</p>
 
-##Unveiling regional resources for integrated development
+##Why Vortex Solar?
 
 At preliminary stages, for effective sites resource pre-screening our Solar maps provide a complete regional assessment of available solar energy resources in a glance.
 
