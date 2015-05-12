@@ -8,8 +8,6 @@ keywords: "forecast, service, energy, management, imbalance"
 published: true
 ---
 
-<p class="lead">Sun radiation touches every site on Earth but scattered by many diffusive agents. Vortex SOLAR helps you narrowing uncertainty on site-specific solar energy projects by means of a smart combination of satellite data and the power of well-stablished atmospheric models.</p>
-
 <p class="lead">Why Vortex Solar?</p> Because besides satellite data, we use mesoscale models to build our accurate, cost-effective irradiance estimates
 
 <p class="lead">Why should that benefit me?</p> Models are our speciality enabling us to deliver global homogeneous estimates, with no gaps, at a very attractive price
