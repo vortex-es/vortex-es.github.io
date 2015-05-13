@@ -30,5 +30,3 @@ For further information, please click on the links below:
 <p>
 <li><a href=/assets/docs/low_wind_turkey_EN.pdf>English document</a>
 <li><a href=/assets/docs/low_wind_turkey_TK.pdf>Turkish document</a>
-
-
