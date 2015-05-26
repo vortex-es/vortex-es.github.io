@@ -2,7 +2,7 @@
 layout: solutions
 slug: solutions
 class: solutions-solution
-class2: wind-and-site
+class2: solar
 title: Pricing
 subtitle:
 keywords: wind and site, farm, development, decisions, measuring

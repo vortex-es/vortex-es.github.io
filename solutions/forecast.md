@@ -2,6 +2,7 @@
 layout: solutions
 slug: solutions
 class: solutions-solution
+class2: forecast
 title: FORECAST
 subtitle:
 keywords: 

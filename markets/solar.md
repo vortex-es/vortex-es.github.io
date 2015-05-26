@@ -3,16 +3,28 @@ layout: markets
 slug: markets
 title: Solar
 subtitle: beam the information to your project
-featured-img-url: 04-bg-slide-solar-512.jpg
-keywords: forecast, service, energy, management, imbalance
+"featured-img-url": "04-bg-slide-solar-512.png"
+keywords: "forecast, service, energy, management, imbalance"
+published: true
 ---
 
-<p class="lead">Sun radiation touches every site on earth but scattered by many diffusive agents. Vortex SOLAR helps you narrowing uncertainty on site-specific solar energy projects by means of a smart combination of satellite data and the power of well-stablished atmospheric models.</p>
 
-##Unveiling regional resources for integrated development
+###Why Vortex Solar?
 
-At preliminary stages, for effective sites resource pre-screening our Solar maps provide a complete regional assessment of available solar energy resources in a glance.
+Because besides satellite data, we use mesoscale models to build our accurate, cost-effective radiation estimates
 
-##Dynamic information for feasibility studies
+###Why should that benefit me?
 
-To feed yield estimation with  and without measurements Solar series spanned over several decades at high-resolution sampling, just to avoid unexpected surprises over the long-term bankability.
+Models are our speciality enabling us to deliver global homogeneous long-term estimates, with no gaps, at a very attractive price
+
+###Why does modeling reduce prices?
+
+Modeling allows the entire process to be automated, cutting costs by keeping state-of-the-art accuracy levels
+
+###Check Vortex Solar accuracy for yourself:
+
+-<a href="mailto:patricia.puig@vortex.es?subject=Solar Validation">Request</a> our validation withe-paper including ?? comparisons against measurements in all continents
+
+-<a href="http://interface.vortex.es/signup" target="blank">Sign up</a> to get access to our free Interface with clickable long-term reports worldwide
+
+-Download an unlimited number of Solar <a href="/solutions/sSeries.html">SERIES</a> samples for a first-hand site-specific validation
