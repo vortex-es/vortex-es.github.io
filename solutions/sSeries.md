@@ -3,7 +3,8 @@ layout: solutions
 slug: solutions
 class: solutions-solution
 class2: solar
-title: SERIES
+title: SERIES 
+register: true
 subtitle:
 keywords:
 featured-img-url: vortex-solutions-sSeriesfoto.png
