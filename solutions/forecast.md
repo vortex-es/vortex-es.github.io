@@ -2,7 +2,9 @@
 layout: solutions
 slug: solutions
 class: solutions-solution
-title: FORECAST
+class2: forecast
+title: FORECAST 
+register: true
 subtitle:
 keywords: 
 featured-img-url: vortex-solutions-forecastfoto.png

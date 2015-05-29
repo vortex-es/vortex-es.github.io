@@ -2,26 +2,38 @@
 layout: solutions
 slug: solutions
 class: solutions-solution
-title: SERIES
-subtitle:
-keywords: 
+class2: solar
+title: SERIES 
 register: true
-featured-img-url: vortex-solutions-seriesfoto.jpg
-icon-url: vortex-solutions-series-icon-128.png
+subtitle:
+keywords:
+featured-img-url: vortex-solutions-sSeriesfoto.png
+icon-url: vortex-solutions-sSeries-icon-128.png
 ---
 
-<p class="lead">Vortex SERIES span more than two decades providing reliable.</p>
+<p class="lead">Vortex Solar SERIES span more than two decades backwards providing homogeneous and accurate long-term irradiance time-series, anywhere.</p>
 
 ##When to use SERIES?
 
-When time evolution is required for your analysis and/or local, short-term measurements are available.
+When time evolution is required for your analysis and/or when local short-term measurements are available.
 
 ###Technical details:
 
 - Any location world-wide, both on and near-shore.
+- Hourly GHI, DNI & DIF, temperature & wind speed. All in one single package.
+- Monthly averages included at no cost.
 - 3 km resolution, centered on the selected point.
-- 20+ year-long, hourly GHI, DNI & DIF records.
-- Selectable time zone to match measurements timestamp.
+- 20+ year-long. 5 day-old.
+- No gaps (thanks to mixed satellite-modeling technology).
 - Updated monthly at no cost.
 - Site-adapted to your local measurements at no cost.
-- Output formats compatible with ??…
+- Unlimited 6-month samples.
+- Selectable time zone to match measurements timestamp.
+
+###Accuracy validation:
+
+<a href="mailto:patricia.puig@vortex.es?subject=Solar Validation">Request</a> our validation withe-paper including ?? comparisons against measurements in all continent.
+
+
+Following Vortex "Don't just take our word for it, check for yourself!" philosophy, download an unlimited number of 6-month samples for a first-hand site-specific validation against your measurements.
+
