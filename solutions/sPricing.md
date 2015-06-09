@@ -77,28 +77,3 @@ keywords: wind and site, farm, development, decisions, measuring
 		</div>
 	</div>
 </div>
-
-<!-- ##Forecast
-
-<div class="row">
-	<div class="row">
-		<div class="col-sm-6 col-md-4 pricing">
-			<div class="panel panel-default">
-				<div class="panel-heading"><h3 class="text-center">Wind Forecast</h3></div>
-				<div class="panel-footer">
-					<a class="btn btn-lg btn-block btn-default" href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact sales'>Contact sales</a>
-				</div>
-			</div>
-
-		</div>
-		<div class="col-sm-6 col-md-4 pricing">
-			<div class="panel panel-default">
-				<div class="panel-heading"><h3 class="text-center">Power forecast</h3></div>
-				<div class="panel-footer">
-					<a class="btn btn-lg btn-block btn-default" href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact sales'>Contact sales</a>
-				</div>
-			</div>
-
-		</div>
-	</div>
-</div> -->

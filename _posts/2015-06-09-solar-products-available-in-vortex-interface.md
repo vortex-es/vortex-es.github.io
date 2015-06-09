@@ -4,12 +4,12 @@ categories:
   - general
   - "no-cita"
 published: true
-title: Vortex Solar Solutions Available in Interface
+title: Solar Products Available in Vortex Interface
 layout: blog
-slug: "vortex-solar-solutions-available-interface"
+slug: "solar-products-available-in-vortex-interface"
 author: vortex
 date: "2015-06-09 11:59:00"
-meta: Vortex Solar Solutions Available in Interface
+meta: Solar Products Available in Vortex Interface
 keywords: "vortex, solutions, solar, interface"
 excerpt: "Vortex Solar has been active in the rearguard for a while and today we are very pleased to announce that our cost-effective radiation products are available for automatic launch and download through Vortex Interface."
 ---
