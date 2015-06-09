@@ -1,10 +1,11 @@
 ---
 categories: general
-published: false
+published: true
 title: Vortex Solar Solutions Available in Interface
 layout: blog
 author: vortex
 ---
+
 
 Vortex [Solar](http://www.vortexfdc.com/markets/solar.html) has been active in the rearguard for a while and today we are very pleased to announce that our cost-effective radiation products are available for automatic launch and download through Vortex [Interface](http://interface.vortexfdc.com).
 
