@@ -7,6 +7,8 @@ published: true
 title: Solar Products Available in Vortex Interface
 layout: blog
 slug: "solar-products-available-in-vortex-interface"
+"featured-img-url": "2015-6 Vortex Solar.png"
+"featured-img-alt": Solar Products Available in Vortex Interface
 author: vortex
 date: "2015-06-09 11:59:00"
 meta: Solar Products Available in Vortex Interface
