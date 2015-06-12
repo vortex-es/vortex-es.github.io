@@ -22,4 +22,4 @@ excerpt: "Vortex Solar has been active in the rearguard for a while and today we
 
 Vortex [Solar](http://www.vortexfdc.com/markets/solar.html) has been active in the rearguard for a while, and today we are very pleased to announce that our cost-effective radiation products are available for automatic launch and download through Vortex [Interface](http://interface.vortexfdc.com).
 
-Solar [solutions](http://www.vortexfdc.com/solutions/solar-index.html) offer the same ease-of-use you have come to expect from Vortex, combined with state-of-the-art accuracy standards. Please feel free to request our validation white-paper, including comparisons against measurements across all continents, to Vortex Solar Director, Patricia (patricia.puig@vortex.es).
+Solar [solutions](http://www.vortexfdc.com/solutions/solar-index.html) offer the same ease-of-use you have come to expect from Vortex, combined with state-of-the-art accuracy standards. Please feel free to request our validation white-paper, including comparisons against measurements across all continents, to Vortex Solar Director: Patricia (patricia.puig@vortex.es).
