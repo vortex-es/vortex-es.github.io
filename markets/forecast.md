@@ -12,7 +12,7 @@ keywords: forecast, service, energy, management, imbalance
     <footer>&mdash; <cite>EWEA Wind Power Forecasting Workshop. Rotterdam 2013</cite></footer>
 </blockquote>
 
-<p> Vortex <a href=../solutions/forecast>FORECAST</a> uses an combination of up to 36 different algorithm in an attempt to deliver the best forecast current technology can provide. Even if you already have a forecast provider, Vortex atractive prices make FORECAST a perfect complement to increase your predictions performance.</p>
+<p> Vortex <a href=../solutions/forecast>FORECAST</a> uses an combination of up to 36 different algorithm in an attempt to deliver the best forecast current technology can provide. Even if you already have a forecast provider, Vortex atractive prices make <a href=../solutions/forecast>FORECAST</a> a perfect complement to increase your predictions performance.</p>
 
 <!--
 <p> With FORECAST, Vortex enters the very competitive forecast market with a new, fresh approach: making use of our massive cluster (in charge of heavy Wind & Site calculations delivered every day) and a extremely interactive, easy-to-use users Interface.</p>
