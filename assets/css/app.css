@@ -444,7 +444,7 @@ border-collapse: collapse;
 
 .footer-bg {
   background:rgba(0,60,76,1);
-   padding:1em 1em 0;
+   padding:1em 1em 2em 1em;
    color:#BFCBCF;
 }
 .footer-bg hr, hr {
