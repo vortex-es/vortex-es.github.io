@@ -23,7 +23,7 @@ Modeling allows the entire process to be automated, cutting costs by keeping sta
 
 ###Check Vortex Solar accuracy for yourself:
 
--<a href="mailto:patricia.puig@vortex.es?subject=Solar Validation">Request</a> our validation withe-paper including 59 comparisons against measurements in all continents
+-<a href="mailto:patricia.puig@vortex.es?subject=Solar Validation">Request</a> our validation withe-paper including comparisons against measurements in all continents
 
 -<a href="http://interface.vortex.es/signup" target="blank">Sign up</a> to get access to our free Interface with clickable long-term reports worldwide
 
