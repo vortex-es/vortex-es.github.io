@@ -1,6 +1,6 @@
 ---
 layout: resources
-slug: wind-anomalies-morocco
+slug: wind-anomalies-uk-ireland
 title: "2014 Wind Anomalies in UK and Ireland"
 categories: resources
 featured-img-url: uk-ireland-anomaly.png
