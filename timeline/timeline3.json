@@ -1,0 +1,31 @@
+{
+    "title": {
+        "media": {
+          "url": "/assets/img/pep-moreno-vortex-timeline.jpg", 
+          "caption": "Pep Moreno at European Wind Energy Association.", 
+          "credit": "flickr/<a href='https://www.flickr.com/photos/ewea/6430534449/'>6430534449</a>"
+        }, 
+        "text": {
+          "headline": "Vortex Online Wind Modeling for Professionals. By Professional<br/> 2005 - 2015", 
+          "text": "<p>Vortex started its technology development in 2005 by former Wind&Site engineers (with more than 20 years of experience, then), atmospheric physicists and computer experts in a unusual collaborative team of experienced professionals with active researchers.</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "/assets/img/cambodia-wind-map.png", 
+          "caption": "Vortex Foundation.", 
+          "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+        }, 
+        "start_date": {
+          "month": "9", 
+          "day": "19", 
+          "year": "2005"
+        }, 
+        "text": {
+          "headline": "Vorex Foundation", 
+          "text": "<p>Born in Barcelona on September 19t, 2005, Vortex started its technology development by former Wind&Site engineers (with more than 20 years of experience, then), atmospheric physicists and computer experts in a unusual collaborative team of experienced professionals with active researchers</p>"
+        }
+      }
+    ]
+}

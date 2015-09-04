@@ -1,0 +1,23 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html manifest="{{ site.url }}/manifest.appcache" lang="en">
+  <head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    {% include header-timeline.html %}
+    <!-- Place anything custom after this. -->
+  </head>
+  <body class="vx-{{ page.slug }} {{ page.class }}">
+    
+      
+    {{ content }}
+
+    {% include contentinfo.html %}
+
+
+    {% include footer.html %}
+
+  </body>
+</html>
