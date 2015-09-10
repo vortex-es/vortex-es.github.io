@@ -1,0 +1,84 @@
+html {
+  font-family: Helvetica, Arial;
+  background: {color};
+}
+body {
+  margin: 0;
+}
+
+[data-iscached="0"] .if-iscached,
+[data-iscached="1"] .unless-iscached,
+[data-hasupdate="0"] .if-hasupdate,
+[data-hasupdate="1"] .unless-hasupdate,
+[data-isautoupdating="0"] .if-isautoupdating,
+[data-isautoupdating="1"] .unless-isautoupdating,
+[data-haslogs="0"] .if-haslogs,
+[data-haslogs="1"] .unless-haslogs {
+  display: none;
+}
+header {
+  padding: 1em;
+  background: #eee;
+  border-bottom: 1px solid #ddd;
+}
+h1 small {
+  display: block;
+  font-weight: normal;
+  font-size: 0.5em;
+}
+small {
+  opacity: .5;
+}
+table {
+  width: 100%;
+}
+th {
+  text-align: left;
+  white-space: nowrap;
+  width: 1px;
+  padding-right: .5em;
+  min-width: 130px;
+}
+td, th {
+  border-top: 1px solid #000;
+  vertical-align: top;
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
+button {
+  border: 0;
+  padding: 1em;
+  margin: 0 0 1em;
+  background: #333;
+  color: #fff;
+  border-radius: 4px;
+}
+
+#logs p {
+  padding: 1em;
+  margin: 0;
+  border-bottom: 1px solid #ddd;
+}
+#logs + p {
+  padding: 1em;
+  margin: 0;
+}
+#logs strong {
+  font-size: .8em;
+  font-weight: normal;
+  border-radius: 4px;
+  padding: .2em .4em;
+  color: #fff;
+}
+#logs .command strong {
+  background: #333;
+}
+#logs .event strong {
+  background: #36F;
+}
+#logs .error strong {
+  background: #C00;
+}
+#logs .server strong {
+  background: #00B32D;
+}
