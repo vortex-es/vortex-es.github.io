@@ -1,35 +1,35 @@
 {
     "title": {
         "media": {
-          "url": "//www.flickr.com/photos/tm_10001/2310475988/", 
-          "caption": "Whitney Houston performing on her My Love is Your Love Tour in Hamburg.", 
-          "credit": "flickr/<a href='http://www.flickr.com/photos/tm_10001/'>tm_10001</a>"
+          "url": "/assets/img/timeline/logos.png", 
+          "caption": "Evolution of the Vortex logo since 2005", 
+          "credit": ""
         }, 
         "text": {
-          "headline": "Whitney Houston<br/> 1963 - 2012", 
-          "text": "<p>Houston's voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time. This is a look into the amazing heights she achieved and her personal struggles with substance abuse and a tumultuous marriage.</p>"
+          "headline": "Vortex<br/> 2005 - 2015", 
+          "text": "<p>Vortex is a little story of success. Today, 10 years after its foundation by two PhD in physics and a self-taught computer programmer, the company employs workers in three continents and serves users from 149 countries.</p>"
         }
     },
     "events": [
       {
         "media": {
-          "url": "{{ static_url }}/img/examples/houston/family.jpg", 
-          "caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.", 
-          "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+          "url": "/assets/img/timeline/Pep1.png", 
+          "caption": "Early 90’s. Pep Moreno installing a met. mast during a measurement campaign in Northern Spain.", 
+          "credit": ""
         }, 
         "start_date": {
           "month": "8", 
           "day": "9", 
-          "year": "1963"
+          "year": "2005"
         }, 
         "text": {
-          "headline": "A Musical Heritage", 
-          "text": "<p>Born in New Jersey on August 9th, 1963, Houston grew up surrounded by the music business. Her mother is gospel singer Cissy Houston and her cousins are Dee Dee and Dionne Warwick.</p>"
+          "headline": "A young company made up of old experts", 
+          "text": "<p>Vortex was born in Barcelona on September 19th 2005. However, its team’s background is much older: the accumulated experience in the wind industry of its members goes back 25 years ago.</p>"
         }
       }, 
       {
         "media": {
-          "url": "https://youtu.be/fSrO91XO1Ck", 
+          "url": "https://youtu0.be/fSrO91XO1Ck", 
           "caption": "", 
           "credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
         }, 
