@@ -29,7 +29,7 @@
       }, 
       {
         "media": {
-          "url": "/assets/img/timeline/David1.jpg", 
+          "url": "/assets/img/timeline/David.jpg", 
           "caption": "David Saez fixing the first Vortex cluster. Mid 2006", 
           "credit": ""
         }, 
@@ -44,7 +44,7 @@
        }, 
        {
         "media": {
-          "url": "/assets/img/timeline/Josep1.jpg", 
+          "url": "/assets/img/timeline/Josep.jpg", 
           "caption": "<a href='https://es.linkedin.com/in/pepmoreno' target='blank'>Josep Calbó</a> at the Universitat de Girona. Late 2006", 
           "credit": ""
         }, 
@@ -54,7 +54,7 @@
         }, 
         "text": {
           "headline": "Research that faces the real world", 
-          "text": "We love research: half of Vortex employees hold a PhD and we keep active links with several research institutes since our first collaboration with the University of Girona in 2006. However, the continuos feedback from our users makes us always keep it tight to the real world"
+          "text": "We love research: half of Vortex employees hold a PhD and we keep active links with several research institutes since our first collaboration with the University of Girona in 2006. However, the continuos feedback from our users makes us always keep research tight to the real world"
         }
       }, 
       {
@@ -69,22 +69,53 @@
         }, 
         "text": {
           "headline": "Complex modeling at one-click distance", 
-          "text": "From its first sketches in 2007, the philosophy of Vortex interface was clear: to reduce the complexity of the atmospherice modeling to intuitive user actions. From the beginning, user manual and courses were forbiden"
+          "text": "From its first sketches in 2007, the philosophy of Vortex interface was clear: to reduce the complexity of the atmospherice modeling to intuitive user actions. Since the beginning, user manual and courses were forbiden"
         }
       }, 
       {
         "media": {
-          "url": "/assets/img/timeline/Pau1.jpg", 
+          "url": "/assets/img/timeline/Pau.jpg", 
           "caption": "<a href='https://www.linkedin.com/pub/pau-casso/43/7a7/b75/en' target='blank'>Pau Casso</a> at Longs Peak after attending the 9th WRF Users' Workshop in Boulder, CO. July 2008", 
           "credit": ""
         }, 
         "start_date": {
-            "month": "7",
+          "month": "7",
           "year": "2008"
         }, 
         "text": {
           "headline": "A cloud (service) with solid foundations", 
           "text": "Vortex is not a large company but we are not at all alone: since our first contact with <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a> in 2006, our core technology relies on a collaborative code developed through the effort of a community of tenths of thousands of users"
+        }
+       }, 
+      {
+        "media": {
+          "url": "/assets/img/timeline/Gil.jpg", 
+          "caption": "<a href='https://be.linkedin.com/pub/gil-lizcano/4a/8b2/123' target='blank'>Gil Lizcano</a> at Vortex office in Brussels, Belgium. Mid 2010", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "6",
+          "year": "2009"
+        }, 
+        "text": {
+          "headline": "Natural born glocal", 
+          "text": "Wind does not understand about borders. Thus, Vort. Starting with the office in Brussels"
+        }
+       }, 
+      {
+        "media": {
+          "url": "/assets/img/timeline/Viena.jpg", 
+          "caption": "EWEA anual event at Viena, Austria. February 2013", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "4",
+            "day": "20",
+          "year": "2010"
+        }, 
+        "text": {
+          "headline": "Caravan to the Far East", 
+          "text": "EWEC 2010 in Warsaw, Poland, was going to be the first EWEA annual event  price"
         }
        }
     ]
