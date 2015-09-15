@@ -29,8 +29,8 @@
       }, 
      {
         "media": {
-          "url": "/assets/img/timeline/David1.jpg", 
-          "caption": "David Saez at the first Vortex cluster in its datacenter. Late 2006", 
+          "url": "/assets/img/timeline/David1.png", 
+          "caption": "David Saez fixing the first Vortex cluster. Late 2006", 
           "credit": ""
         }, 
         "start_date": {
@@ -38,7 +38,7 @@
         }, 
         "text": {
           "headline": "A simple, powerfull idea", 
-          "text": "Alingned with pioner Cloud Computing approaches, the foundational idea of the Vortex service is simple: remote modeling, on-line. As we liked to say that time, our aim is to : 'bring the power of a supercomputer to your fingerprints'"
+          "text": "Alingned with pioner Cloud Computing, the foundational approach of the Vortex service is simple: remote modeling, on-line. As we liked to say that time, our aim is to: 'bring the power of a supercomputer to your fingerprints'"
         }
        }, 
       {
