@@ -27,6 +27,20 @@
           "text": "<p>Vortex was born in Barcelona on September 19th 2005, but its team’s background is much older: the accumulated experience in the wind industry of its members goes back 25 years ago.</p>"
         }
       }, 
+     {
+        "media": {
+          "url": "/assets/img/timeline/David1.jpg", 
+          "caption": "David Saez at the first Vortex cluster in its datacenter. Late 2006", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "year": "2006"
+        }, 
+        "text": {
+          "headline": "A simple, powerfull idea", 
+          "text": "Alingned with pioner Cloud Computing approaches, the foundational idea of the Vortex service is simple: remote modeling, on-line. As we liked to say that time: \"let's bring the power of a supercomputer to your fingerprints\""
+        }
+       }, 
       {
         "media": {
           "url": "/assets/img/timeline/UdG.jpg", 
