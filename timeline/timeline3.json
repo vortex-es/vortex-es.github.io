@@ -29,7 +29,7 @@
       }, 
      {
         "media": {
-          "url": "/assets/img/timeline/David1.png", 
+          "url": "/assets/img/timeline/David1.jpg", 
           "caption": "David Saez fixing the first Vortex cluster. Mid 2006", 
           "credit": ""
         }, 
@@ -39,7 +39,7 @@
         }, 
         "text": {
           "headline": "A simple, powerfull idea", 
-          "text": "Alingned with pioner Cloud Computing, the foundational approach of the Vortex service is simple: remote modeling, on-line. As we liked to say that time, our aim is to: 'bring the power of a supercomputer to your fingerprints'"
+          "text": "Aligned with pioneer Cloud Computing trends, the foundational approach of the Vortex service was simple: remote modeling, on-line. As we liked to say that time, our aim was to: 'bring the power of a supercomputer to your fingerprints'"
         }
        }, 
       {
@@ -58,16 +58,17 @@
       }, 
       {
         "media": {
-          "url": "https://youtu.be/H7_sqdkaAfo", 
-          "caption": "The first Vortex cluster in its datacenter. Since the beginning, much more powerfull than our customers standard computing capabilities", 
+          "url": "/assets/img/timeline/Pau1.jpg", 
+          "caption": "<a href='https://www.linkedin.com/pub/pau-casso/43/7a7/b75/en' target='blank'>Pau Casso</a> trekking by the Longs Peak, after attending the 9th WRF Users' Workshop in Boulder, CO. July 2008", 
           "credit": ""
         }, 
         "start_date": {
-          "year": "2007"
+            "month": "7",
+          "year": "2008"
         }, 
         "text": {
-          "headline": "A simple, powerfull idea", 
-          "text": "Anticipating several years the current Cloud popularity, the foundational idea of the Vortex service is simple: remote computing, on-line"
+          "headline": "A cloud with solid foundations", 
+          "text": "Vortex is not a large company but we are not at all alone: since the beginning, our core technology is based on <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a>, a code developed through a collaborative effort of a community of tenths of thousands of users"
         }
        }
     ]
