@@ -7,7 +7,7 @@
         }, 
         "text": {
           "headline": "Vortex,<br/> 2005 - 2015", 
-          "text": "<p>Vortex is a little story of success: today, 10 years after its foundation by two PhD in Atmospheric Physics and a self-taught IT expert, the company has offices in three continents and serves users from 149 countries.</p>"
+          "text": "Vortex is a little story of success: today, 10 years after its foundation by two PhD in Atmospheric Physics and a self-taught IT expert, the company has offices in three continents and serves users from 149 countries"
         }
     },
     "events": [
@@ -24,7 +24,7 @@
         }, 
         "text": {
           "headline": "A young company made up of old experts", 
-          "text": "<p>Vortex was born in Barcelona on September 19th 2005, but its team’s background is much older: the accumulated experience in the wind industry of its members goes back 25 years ago.</p>"
+          "text": "Vortex was born in Barcelona on September 19th 2005, but its team’s background is much older: the accumulated experience in the wind industry of its members goes back 25 years ago"
         }
       }, 
      {
@@ -39,27 +39,28 @@
         }, 
         "text": {
           "headline": "A simple, powerfull idea", 
-          "text": "Aligned with pioneer Cloud Computing trends, the foundational approach of the Vortex service was simple: remote modeling, on-line. As we liked to say that time, our aim was to: 'bring the power of a supercomputer to your fingerprints'"
+          "text": "The foundational approach of the Vortex service was simple: remote modeling, on-line. As we liked to say that time, our aim was to: 'bring the power of a supercomputer to your fingerprints'"
         }
        }, 
       {
         "media": {
           "url": "/assets/img/timeline/UdG.jpg", 
-          "caption": "<a href='https://es.linkedin.com/in/pepmoreno' target='blank'>Josep Calbó</a> at the Universitat de Girona by 2006", 
+          "caption": "<a href='https://es.linkedin.com/in/pepmoreno' target='blank'>Josep Calbó</a> at the Universitat de Girona. Late 2006", 
           "credit": ""
         }, 
         "start_date": {
+          "month": "9",
           "year": "2006"
         }, 
         "text": {
-          "headline": "Support of the University", 
-          "text": "Thanks to Josep Calbó, Vortex co-founder and professor at the University of Girona, the later helped the company's growth by complementing its professional experience with academic know-how"
+          "headline": "Research that faces the real world", 
+          "text": "Half of Vortex employees hold a PhD, we love research. However, the continuos feedback from our users makes us always come back to the real world"
         }
       }, 
       {
         "media": {
           "url": "/assets/img/timeline/Pau1.jpg", 
-          "caption": "<a href='https://www.linkedin.com/pub/pau-casso/43/7a7/b75/en' target='blank'>Pau Casso</a> trekking by the Longs Peak, after attending the 9th WRF Users' Workshop in Boulder, CO. July 2008", 
+          "caption": "<a href='https://www.linkedin.com/pub/pau-casso/43/7a7/b75/en' target='blank'>Pau Casso</a> at Longs Peak after attending the 9th WRF Users' Workshop in Boulder, CO. July 2008", 
           "credit": ""
         }, 
         "start_date": {
@@ -67,8 +68,8 @@
           "year": "2008"
         }, 
         "text": {
-          "headline": "A cloud with solid foundations", 
-          "text": "Vortex is not a large company but we are not at all alone: since the beginning, our core technology is based on <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a>, a code developed through a collaborative effort of a community of tenths of thousands of users"
+          "headline": "A cloud (service) with solid foundations", 
+          "text": "Vortex is not a large company but we are not at all alone: since the beginning, our core technology relies on <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a>, a collaborative code developed through the effort of a community of tenths of thousands of users"
         }
        }
     ]
