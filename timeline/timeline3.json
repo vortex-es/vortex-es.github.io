@@ -2,12 +2,12 @@
     "title": {
         "media": {
           "url": "/assets/img/timeline/logos.png", 
-          "caption": "Evolution of the Vortex logo since 2005", 
+          "caption": "Evolution of the Vortex <a href='https://vimeo.com/15251580' target='blank'>logo</a> since 2005", 
           "credit": ""
         }, 
         "text": {
-          "headline": "Vortex,<br/> 2005 - 2015", 
-          "text": "Vortex is a little story of success: today, 10 years after its foundation by two PhD in Atmospheric Physics and a self-taught IT expert, the company has offices in three continents and serves users from 149 countries"
+          "headline": "Vortex<br/> 2005 - 2015", 
+          "text": "Vortex is a little story of success: today, 10 years after its foundation by two PhD in Atmospheric Physics and a self-taught IT expert, the company has offices in 3 continents and serves users from 149 countries"
         }
     },
     "events": [
@@ -27,7 +27,7 @@
           "text": "Vortex was born in Barcelona on September 19th 2005, but its team’s background is much older: the accumulated experience in the wind industry of its members goes back 25 years ago"
         }
       }, 
-     {
+      {
         "media": {
           "url": "/assets/img/timeline/David1.jpg", 
           "caption": "David Saez fixing the first Vortex cluster. Mid 2006", 
@@ -38,23 +38,38 @@
           "year": "2006"
         }, 
         "text": {
-          "headline": "A simple, powerfull idea", 
-          "text": "The foundational approach of the Vortex service was simple: remote modeling, on-line. As we liked to say that time, our aim was to: 'bring the power of a supercomputer to your fingerprints'"
+          "headline": "Just a simple, powerful idea", 
+          "text": "The foundational approach of the Vortex service was simple: remote atmospheric modeling, launched and delivered on-line. As we liked to say that time, our aim was to: 'bring the power of a supercomputer to your fingerprints'"
         }
        }, 
-      {
+       {
         "media": {
-          "url": "/assets/img/timeline/UdG.jpg", 
+          "url": "/assets/img/timeline/Josep1.jpg", 
           "caption": "<a href='https://es.linkedin.com/in/pepmoreno' target='blank'>Josep Calbó</a> at the Universitat de Girona. Late 2006", 
           "credit": ""
         }, 
         "start_date": {
-          "month": "9",
+          "month": "11",
           "year": "2006"
         }, 
         "text": {
           "headline": "Research that faces the real world", 
-          "text": "Half of Vortex employees hold a PhD, we love research. However, the continuos feedback from our users makes us always come back to the real world"
+          "text": "We love research: half of Vortex employees hold a PhD and we keep active links with several research institutes since our first collaboration with the University of Girona in 2006. However, the continuos feedback from our users makes us always keep it tight to the real world"
+        }
+      }, 
+      {
+        "media": {
+          "url": "/assets/img/timeline/interface.jpg", 
+          "caption": "One of the first drafts of the future Vortex interface. Early 2007", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "4",
+          "year": "2007"
+        }, 
+        "text": {
+          "headline": "Complex modeling at one-click distance", 
+          "text": "From its first sketches in 2007, the philosophy of Vortex interface was clear: to reduce the complexity of the atmospherice modeling. User actions should be intuitive and system reactions, fast. From the beginning, user manual and courses were forbiden"
         }
       }, 
       {
@@ -69,7 +84,7 @@
         }, 
         "text": {
           "headline": "A cloud (service) with solid foundations", 
-          "text": "Vortex is not a large company but we are not at all alone: since the beginning, our core technology relies on <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a>, a collaborative code developed through the effort of a community of tenths of thousands of users"
+          "text": "Vortex is not a large company but we are not at all alone: since our first contact with <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a> in 2006, our core technology relies on a collaborative code developed through the effort of a community of tenths of thousands of users"
         }
        }
     ]
