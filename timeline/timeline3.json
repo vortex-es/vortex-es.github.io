@@ -30,10 +30,11 @@
      {
         "media": {
           "url": "/assets/img/timeline/David1.png", 
-          "caption": "David Saez fixing the first Vortex cluster. Late 2006", 
+          "caption": "David Saez fixing the first Vortex cluster. Mid 2006", 
           "credit": ""
         }, 
         "start_date": {
+          "month": "6", 
           "year": "2006"
         }, 
         "text": {
