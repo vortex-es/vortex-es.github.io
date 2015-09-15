@@ -2,12 +2,12 @@
     "title": {
         "media": {
           "url": "/assets/img/timeline/logos.png", 
-          "caption": "Evolution of the Vortex logo since 2005", 
+          "caption": "Evolution of the Vortex <a href='https://vimeo.com/15251580' target='blank'>logo</a> since 2005", 
           "credit": ""
         }, 
         "text": {
-          "headline": "Vortex,<br/> 2005 - 2015", 
-          "text": "Vortex is a little story of success: today, 10 years after its foundation by two PhD in Atmospheric Physics and a self-taught IT expert, the company has offices in three continents and serves users from 149 countries"
+          "headline": "Vortex<br/> 2005 - 2015", 
+          "text": "Vortex is a little story of success: today, 10 years after its foundation by two PhD in Atmospheric Physics and a self-taught IT expert, the company has offices in 3 continents and serves users from 149 countries"
         }
     },
     "events": [
@@ -38,8 +38,8 @@
           "year": "2006"
         }, 
         "text": {
-          "headline": "A simple, powerful idea", 
-          "text": "The foundational approach of the Vortex service was simple: remote computing, launched and delivered on-line. As we liked to say that time, our aim was to: 'bring the power of a supercomputer to your fingerprints'"
+          "headline": "Just a simple, powerful idea", 
+          "text": "The foundational approach of the Vortex service was simple: remote atmospheric modeling, launched and delivered on-line. As we liked to say that time, our aim was to: 'bring the power of a supercomputer to your fingerprints'"
         }
        }, 
        {
@@ -54,13 +54,13 @@
         }, 
         "text": {
           "headline": "Research that faces the real world", 
-          "text": "We love research: half of Vortex employees hold a PhD and we keep active links with several research institutes since our first collaboration with the University of Girona in 2006. However, the continuos feedback from our users makes us always keep tight to the real world"
+          "text": "We love research: half of Vortex employees hold a PhD and we keep active links with several research institutes since our first collaboration with the University of Girona in 2006. However, the continuos feedback from our users makes us always keep it tight to the real world"
         }
       }, 
       {
         "media": {
           "url": "/assets/img/timeline/interface.jpg", 
-          "caption": "First drafts of the future Vortex interface. Early 2007", 
+          "caption": "One of the first drafts of the future Vortex interface. Early 2007", 
           "credit": ""
         }, 
         "start_date": {
@@ -69,7 +69,7 @@
         }, 
         "text": {
           "headline": "Complex modeling at one-click distance", 
-          "text": "From its first sketches in 2007, the philosophy of Vortex interfUser actions should be intuitive and system reactions  should be fast"
+          "text": "From its first sketches in 2007, the philosophy of Vortex interface was clear: to reduce the complexity of the atmospherice modeling. User actions should be intuitive and system reactions, fast. From the beginning, user manual and courses were forbiden"
         }
       }, 
       {
