@@ -30,16 +30,16 @@
       {
         "media": {
           "url": "/assets/img/timeline/David.jpg", 
-          "caption": "David Saez fixing the first Vortex cluster. Mid 2006", 
+          "caption": "David Saez at first Vortex cluster. Early 2006", 
           "credit": ""
         }, 
         "start_date": {
-          "month": "6", 
+          "month": "2", 
           "year": "2006"
         }, 
         "text": {
           "headline": "Just a simple, powerful idea", 
-          "text": "The foundational approach of the Vortex service was simple: remote atmospheric modeling, launched and delivered on-line. As we liked to say that time, our aim was to: 'bring the power of a supercomputer to your fingerprints'"
+          "text": "The foundational approach of the Vortex service was simple: remote atmospheric modeling, on-line. With the aim to 'bring the power of a supercomputer to your fingerprints' in mind, our first cluster was set up in 2006"
         }
        }, 
        {
@@ -54,7 +54,7 @@
         }, 
         "text": {
           "headline": "Research that faces the real world", 
-          "text": "We love research: half of Vortex employees hold a PhD and we keep active links with several research institutes since our first collaboration with the University of Girona in 2006. However, the continuos feedback from our users makes us always keep research tight to the real world"
+          "text": "We love research: half of Vortex employees hold a PhD and we keep active links with several research institutes since our first collaboration with the University of Girona in 2006. However, the continuos feedback from our users makes us always keep research tight to the real world 'imperfections'"
         }
       }, 
       {
@@ -69,7 +69,7 @@
         }, 
         "text": {
           "headline": "Complex modeling at one-click distance", 
-          "text": "From its first sketches in 2007, the philosophy of Vortex interface was clear: to reduce the complexity of the atmospherice modeling to intuitive user actions. Since the beginning, user manual and courses were forbiden"
+          "text": "From its first sketches in 2007, the philosophy of Vortex interface was clear: to reduce the complexity of the atmospherice modeling to intuitive user actions. Since the beginning, user manuals and courses were strictly forbiden"
         }
       }, 
       {
@@ -90,22 +90,36 @@
       {
         "media": {
           "url": "/assets/img/timeline/Gil.jpg", 
-          "caption": "<a href='https://be.linkedin.com/pub/gil-lizcano/4a/8b2/123' target='blank'>Gil Lizcano</a> at Vortex office in Brussels, Belgium. Mid 2010", 
+          "caption": "<a href='https://be.linkedin.com/pub/gil-lizcano/4a/8b2/123' target='blank'>Gil Lizcano</a> at Vortex office in Brussels, Belgium. Early 2009", 
           "credit": ""
         }, 
         "start_date": {
-          "month": "6",
+          "month": "3",
           "year": "2009"
         }, 
         "text": {
           "headline": "Natural born glocal", 
-          "text": "Wind does not understand about borders. Thus, Vort. Starting with the office in Brussels"
+          "text": "Wind does not understand about borders, so does Vortex team. Starting with the office in Brussels in "
         }
        }, 
       {
         "media": {
+          "url": "/assets/img/timeline/portfolio.jpg", 
+          "caption": "Original portfolio icons. Late 2009", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "10",
+          "year": "2009"
+        }, 
+        "text": {
+          "headline": "Caravan to <br/>the Far East", 
+          "text": "Original Vortex portfolio included just 3 products in 2009. growing"
+        }, 
+      {
+        "media": {
           "url": "/assets/img/timeline/Viena.jpg", 
-          "caption": "EWEA anual event at Viena, Austria. February 2013", 
+          "caption": "Vortex 'flags' planted at EWEA's annual event in Viena, Austria. February 2013", 
           "credit": ""
         }, 
         "start_date": {
@@ -115,7 +129,7 @@
         }, 
         "text": {
           "headline": "Caravan to <br/>the Far East", 
-          "text": "EWEC 2010 in Warsaw, Poland, was going to be the first EWEA annual event  price"
+          "text": "EWEC 2010 in Warsaw, Poland, was going to be our first EWEA annual event but the eruption of the Eyjafjallajökul volcano price"
         }
        }
     ]
