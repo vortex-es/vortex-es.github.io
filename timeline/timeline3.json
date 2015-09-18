@@ -24,13 +24,13 @@
         }, 
         "text": {
           "headline": "A young company made up of old experts", 
-          "text": "Vortex was born in Barcelona on September 19th 2005 but its team’s background is much older. The accumulated experience in the wind industry of its members goes back 25 years"
+          "text": "Vortex was born in Barcelona on 19 September 2005 but its team’s background is much older. The accumulated experience in the wind industry of its members goes back 25 years"
         }
       }, 
       {
         "media": {
           "url": "/assets/img/timeline/David.jpg", 
-          "caption": "David Saez at first Vortex cluster. Early 2006", 
+          "caption": "<href='http://www.ols.es' target='blank'>David Saez</a> at first Vortex computer cluster. Early 2006", 
           "credit": ""
         }, 
         "start_date": {
@@ -38,7 +38,7 @@
           "year": "2006"
         }, 
         "text": {
-          "headline": "Just a simple,<br/> powerful idea", 
+          "headline": "Just a simple, powerful idea", 
           "text": "The foundational approach of the Vortex service was simple: remote atmospheric modeling launched on-line. With the aim to '<i>bring the power of a supercomputer to your fingerprints</i>' in mind, our first computer cluster was set up in 2006"
         }
        }, 
@@ -53,7 +53,7 @@
           "year": "2006"
         }, 
         "text": {
-          "headline": "Research that faces<br/> the real world", 
+          "headline": "Research that faces the real world", 
           "text": "We love research: half of Vortex employees hold a PhD and we keep active links with several research institutes since our first collaboration with the University of Girona in 2006. However, the continuos feedback from our users makes us always keep research tight to real world 'imperfections'"
         }
       }, 
@@ -84,7 +84,7 @@
         }, 
         "text": {
           "headline": "A cloud (service) with solid foundations", 
-          "text": "Vortex is not a large company but we are not at all alone: since our first compilation of the <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a> model in 2006, our core technology relies on a collaborative code developed through the effort of a community of over 23,000 registered users"
+          "text": "Vortex is not a large company but we are not at all alone. Since our first compilation of the <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a> model in 2006, our core technology relies on a collaborative code developed through the effort of a community of over 23,000 registered users"
         }
        }, 
       {
@@ -99,22 +99,23 @@
         }, 
         "text": {
           "headline": "Natural born glocal", 
-          "text": "Wind does not understand about borders, so does Vortex team. Starting with the office in Brussels in "
+          "text": "Wind does not understand about borders, so does not Vortex team. By opening first satellite office in Brussels in 2009, vortex strengthens its presence in Europe"
         }
        }, 
       {
         "media": {
-          "url": "/assets/img/timeline/portfolio.jpg", 
-          "caption": "Original portfolio icons. Late 2009", 
-          "credit": ""
+          "url": "/assets/img/timeline/volcano.jpg", 
+          "caption": "Ash cloud of Eyjafjöll at sunset. April 2010", 
+          "credit": "http://skyscapes.info/2010-04-17_Eyjafjallajokull-lightning.html"
         }, 
         "start_date": {
-          "month": "10",
-          "year": "2009"
+          "month": "4",
+          "day": "14",
+          "year": "2010"
         }, 
         "text": {
-          "headline": "Caravan to <br/>the Far East", 
-          "text": "Original Vortex portfolio included just 3 products in 2009. growing"
+          "headline": "The Eyjafjallajökull eruption", 
+          "text": "The eruption of a Icelandic volcano on 14 April 2010 affected the economic, political and cultural activities in Europe and across the world. There was extensive air travel disruption caused by the closure of airspace over many countries affecting the travel arrangements of hundreds of thousands of people in Europe and elsewhere (<href='https://en.wikipedia.org/wiki/Effects_of_the_April_2010_Eyjafjallajökull_eruption' target='blank'>Wikipedia</a>)"
         }
       }, 
       {
