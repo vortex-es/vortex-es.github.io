@@ -14,7 +14,7 @@
       {
         "media": {
           "url": "/assets/img/timeline/Pep.png", 
-          "caption": "<a href='https://es.linkedin.com/in/pepmoreno' target='blank'>Pep Moreno</a> installing a met. mast during a measurement campaign in Northern Spain.<br/>Early 90’s", 
+          "caption": "<a href='https://es.linkedin.com/in/pepmoreno' target='blank'>Pep Moreno</a> installing a met. mast during a measurement campaign in Northern Spain. Early 90’s", 
           "credit": ""
         }, 
         "start_date": {
@@ -24,13 +24,13 @@
         }, 
         "text": {
           "headline": "A young company made up of old experts", 
-          "text": "Vortex was born in Barcelona on September 19th 2005, but its team’s background is much older: the accumulated experience in the wind industry of its members goes back 25 years ago"
+          "text": "Vortex was born in Barcelona on September 19th 2005 but its team’s background is much older: the accumulated experience in the wind industry of its members goes back 25 years ago"
         }
       }, 
       {
         "media": {
           "url": "/assets/img/timeline/David.jpg", 
-          "caption": "David Saez at first Vortex cluster.<br/>Early 2006", 
+          "caption": "David Saez at first Vortex cluster. Early 2006", 
           "credit": ""
         }, 
         "start_date": {
@@ -38,14 +38,14 @@
           "year": "2006"
         }, 
         "text": {
-          "headline": "Just a simple, powerful idea", 
-          "text": "The foundational approach of the Vortex service was simple: remote atmospheric modeling, on-line. With the aim to 'bring the power of a supercomputer to your fingerprints' in mind, our first cluster was set up in 2006"
+          "headline": "Just a simple,<br/> powerful idea", 
+          "text": "The foundational approach of the Vortex service was simple: remote atmospheric modeling, on-line. With the aim to 'bring the power of a supercomputer to your fingerprints' in mind, our first computer cluster was set up in 2006"
         }
        }, 
        {
         "media": {
           "url": "/assets/img/timeline/Josep.jpg", 
-          "caption": "Professor <a href='https://www.linkedin.com/profile/view?id=AAIAAAp4_X0B_OzGmoQAnyYB4VesEdvWpNxdoSQ&trk=nav_responsive_tab_profile_pic' target='blank'>Josep Calbó</a> returning from the Universitat de Girona with his, at that time 2 years old, daughter. Late 2006", 
+          "caption": "Professor <a href='http://www.researchgate.net/profile/Josep_Calbo' target='blank'>Josep Calbó</a> returning from the University of Girona with his, at that time 2 years old, daughter. Late 2006", 
           "credit": ""
         }, 
         "start_date": {
@@ -53,14 +53,14 @@
           "year": "2006"
         }, 
         "text": {
-          "headline": "Research that faces the real world", 
-          "text": "We love research: half of Vortex employees hold a PhD and we keep active links with several research institutes since our first collaboration with the Universitat de Girona in 2006. However, the continuos feedback from our users makes us always keep research tight to the real world 'imperfections'"
+          "headline": "Research that faces<br/> the real world", 
+          "text": "We love research: half of Vortex employees hold a PhD and we keep active links with several research institutes since our first collaboration with the University of Girona in 2006. However, the continuos feedback from our users makes us always keep research tight to real world 'imperfections'"
         }
       }, 
       {
         "media": {
           "url": "/assets/img/timeline/interface.jpg", 
-          "caption": "One of the first drafts of the future Vortex Interface.<br/>Early 2007", 
+          "caption": "One of the first drafts of Vortex Interface. Early 2007", 
           "credit": ""
         }, 
         "start_date": {
@@ -68,14 +68,14 @@
           "year": "2007"
         }, 
         "text": {
-          "headline": "Complex modeling at one-click distance", 
-          "text": "From its first sketches in 2007, the philosophy of Vortex Interface was to reduce the complexity of the atmospherice modeling to intuitive user website actions. Since the beginning, user manuals and courses were strictly forbiden"
+          "headline": "Complex modeling at<br/> one-click distance", 
+          "text": "From its first sketches in 2007, the philosophy of Vortex Interface was to reduce the complexity of the atmospherice modeling down to intuitive user website actions. Since the beginning, user manuals and courses were strictly forbiden"
         }
       }, 
       {
         "media": {
           "url": "/assets/img/timeline/Pau.jpg", 
-          "caption": "<a href='https://www.linkedin.com/pub/pau-casso/43/7a7/b75/en' target='blank'>Pau Casso</a> at Longs Peak (Colorado) after attending the 9th WRF Users' Workshop in Boulder, CO.<br/>July 2008", 
+          "caption": "<a href='https://www.linkedin.com/pub/pau-casso/43/7a7/b75/en' target='blank'>Pau Casso</a> at Longs Peak (Colorado, US) after attending the 9th WRF Users' Workshop in Boulder, CO. July 2008", 
           "credit": ""
         }, 
         "start_date": {
@@ -84,7 +84,7 @@
         }, 
         "text": {
           "headline": "A cloud (service) with solid foundations", 
-          "text": "Vortex is not a large company but we are not at all alone: since our first contact with <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a> in 2006, our core technology relies on a collaborative code developed through the effort of a community of tenths of thousands of users"
+          "text": "Vortex is not a large company but we are not at all alone: since our first compilation of the <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a> model in 2006, our core technology relies on a collaborative code developed through the effort of a community of over 23,000 registered users"
         }
        }, 
       {
