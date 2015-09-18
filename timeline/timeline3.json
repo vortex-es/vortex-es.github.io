@@ -2,12 +2,12 @@
     "title": {
         "media": {
           "url": "/assets/img/timeline/logos.png", 
-          "caption": "Evolution of the Vortex <a href='https://www.behance.net/gallery/1527273/Vortex-Visual-identity' target='blank'>logo</a> since 2005", 
+          "caption": "Evolution of the Vortex <a href='http://ummocrono.com/projects/vortex' target='blank'>logo</a> since 2005", 
           "credit": ""
         }, 
         "text": {
           "headline": "Vortex<br/> 2005 - 2015", 
-          "text": "Vortex is a little story of success: today, 10 years after its foundation by two PhD in Atmospheric Physics and a self-taught IT expert, the company has offices in 3 continents and serves users from 149 countries"
+          "text": "Vortex is a little story of success. Today, 10 years after its foundation by two PhD in Atmospheric Physics and a self-taught IT expert, the company has offices in 3 continents and serves users from 149 countries"
         }
     },
     "events": [
@@ -24,7 +24,7 @@
         }, 
         "text": {
           "headline": "A young company made up of old experts", 
-          "text": "Vortex was born in Barcelona on September 19th 2005 but its team’s background is much older: the accumulated experience in the wind industry of its members goes back 25 years ago"
+          "text": "Vortex was born in Barcelona on September 19th 2005 but its team’s background is much older. The accumulated experience in the wind industry of its members goes back 25 years"
         }
       }, 
       {
@@ -39,7 +39,7 @@
         }, 
         "text": {
           "headline": "Just a simple,<br/> powerful idea", 
-          "text": "The foundational approach of the Vortex service was simple: remote atmospheric modeling, on-line. With the aim to 'bring the power of a supercomputer to your fingerprints' in mind, our first computer cluster was set up in 2006"
+          "text": "The foundational approach of the Vortex service was simple: remote atmospheric modeling launched on-line. With the aim to '<i>bring the power of a supercomputer to your fingerprints</i>' in mind, our first computer cluster was set up in 2006"
         }
        }, 
        {
