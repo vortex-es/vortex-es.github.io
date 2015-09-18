@@ -121,7 +121,7 @@
       {
         "media": {
           "url": "/assets/img/timeline/Warsaw.jpg", 
-          "caption": "<a href='https://es.linkedin.com/pub/germán-delgado/1b/836/a8' target='blank'>German Delgado</a> receiving the '<i>Eyjafjallajökul</i>' award from Bruce Douglas during the EWEC conference dinner in Warsaw. May 2010", 
+          "caption": "<a href='https://es.linkedin.com/pub/germán-delgado/1b/836/a8' target='blank'>German Delgado</a> receiving the '<i>Eyjafjallajökul</i>' award from Bruce Douglas (EWEA's COO) during the EWEC conference dinner in Warsaw. May 2010", 
           "credit": ""
         }, 
         "start_date": {
@@ -131,7 +131,23 @@
         }, 
         "text": {
           "headline": "Caravan to the Far East", 
-          "text": "EWEC 2010 was going to be our first EWEA annual event but the eruption of the Eyjafjallajökul did not allow us to fly to Warsaw. No thinking twice, we drove up there in a motorhome. 2400 km traveled to Poland made us worthy of the prize (a bottle of vodka) to the participants driving from further"
+          "text": "EWEC 2010 was going to be our first EWEA annual event but the eruption of the Eyjafjallajökul did not allow us (and many others) to fly to Warsaw. No thinking twice, we drove up there in a motorhome. 2400 km traveled to Poland made us worthy of the prize (a bottle of vodka) to the participants driving from further"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Viena.jpg", 
+          "caption": "Vortex 'flags' planted at EWEA's annual event in Viena, Austria. February 2013", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "4",
+            "day": "20",
+          "year": "2010"
+        }, 
+        "text": {
+          "headline": "Caravan to <br/>the Far East", 
+          "text": "EWEC 2010 in Warsaw, Poland, was going to be our first EWEA annual event but the eruption of the Eyjafjallajökul volcano price"
         }
        },
       {
