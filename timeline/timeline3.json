@@ -105,7 +105,7 @@
       {
         "media": {
           "url": "/assets/img/timeline/volcano.jpg", 
-          "caption": "Ash cloud of Eyjafjöll at sunset. April 2010", 
+          "caption": "", 
           "credit": "http://skyscapes.info/2010-04-17_Eyjafjallajokull-lightning.html"
         }, 
         "start_date": {
@@ -115,9 +115,25 @@
         }, 
         "text": {
           "headline": "The Eyjafjallajökull eruption", 
-          "text": "The eruption of a Icelandic volcano on 14 April 2010 affected the economic, political and cultural activities in Europe and across the world. There was extensive air travel disruption caused by the closure of airspace over many countries affecting the travel arrangements of hundreds of thousands of people in Europe and elsewhere (<href='https://en.wikipedia.org/wiki/Effects_of_the_April_2010_Eyjafjallajökull_eruption' target='blank'>Wikipedia</a>)"
+          "text": "The eruption of a Icelandic volcano on 14 April 2010 affected the economic, political and cultural activities in Europe and across the world. There was extensive air travel disruption caused by the closure of airspace over many countries affecting the travel arrangements of hundreds of thousands of people in Europe and elsewhere (<a href='https://en.wikipedia.org/wiki/Effects_of_the_April_2010_Eyjafjallajökull_eruption' target='blank'>Wikipedia</a>)"
         }
       }, 
+      {
+        "media": {
+          "url": "/assets/img/timeline/Viena.jpg", 
+          "caption": "Vortex 'flags' planted at EWEA's annual event in Viena, Austria. February 2013", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "4",
+            "day": "20",
+          "year": "2010"
+        }, 
+        "text": {
+          "headline": "Caravan to <br/>the Far East", 
+          "text": "EWEC 2010 in Warsaw, Poland, was going to be our first EWEA annual event but the eruption of the Eyjafjallajökul volcano price"
+        }
+       },
       {
         "media": {
           "url": "/assets/img/timeline/Viena.jpg", 
