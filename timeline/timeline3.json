@@ -89,8 +89,8 @@
        }, 
       {
         "media": {
-          "url": "/assets/img/timeline/portfolio.png", 
-          "caption": "First Vortex portfolio icons (and their current versions). Late 2009", 
+          "url": "/assets/img/timeline/Gil.png", 
+          "caption": "<a href='https://be.linkedin.com/pub/gil-lizcano/4a/8b2/123' target='blank'>Gil Lizcano</a> during launch of first Vortex portfolio. Mid 2009", 
           "credit": ""
         }, 
         "start_date": {
@@ -99,13 +99,29 @@
         }, 
         "text": {
           "headline": "Growing slow but safe", 
-          "text": "Original Vortex portfolio in 2009 included only 3 products. Development and testing of new products is treated with great care within Vortex, leading us slowly to the current 10-products Wind & Site, Solar and Forecast portfolio"
+          "text": "Original Vortex service in 2009 included only 3 products, current Wind & Site, Solar and Forecast portfolio include 10. Development and test of new products has been treated with great care by Vortex R & D department to ensure robustness"
+        }
+       }, 
+      {
+        "media": {
+          "url": "/assets/img/timeline/volcano.jpg", 
+          "caption": "", 
+          "credit": "http://skyscapes.info/2010-04-17_Eyjafjallajokull-lightning.html"
+        }, 
+        "start_date": {
+          "month": "4",
+            "day": "14",
+          "year": "2010"
+        }, 
+        "text": {
+          "headline": "The eruption of the Eyjafjallajökul", 
+          "text": "The eruption of this Icelandic volcano on 14 April 2010 affected the economic, political and cultural activities in Europe and across the world. There was extensive air travel disruption caused by the closure of airspace over many countries affecting the travel arrangements of hundreds of thousands of people in Europe and elsewhere (<a href='https://en.wikipedia.org/wiki/Effects_of_the_April_2010_Eyjafjallajökull_eruption' target='blank'>Wikipedia</a>)"
         }
        }, 
       {
         "media": {
           "url": "/assets/img/timeline/Warsaw.jpg", 
-          "caption": "<a href='https://es.linkedin.com/pub/germán-delgado/1b/836/a8' target='blank'>German Delgado</a> receiving the '<i>Eyjafjallajökul</i>' award from Bruce Douglas (EWEA's COO) during the EWEC conference dinner in Warsaw. May 2010", 
+          "caption": "<a href='https://es.linkedin.com/pub/germán-delgado/1b/836/a8' target='blank'>German Delgado</a> receiving the '<i>Eyjafjallajökul</i>' award from EWEA's COO, Bruce Douglas, during the conference dinner in Warsaw. May 2010", 
           "credit": ""
         }, 
         "start_date": {
@@ -115,7 +131,7 @@
         }, 
         "text": {
           "headline": "Caravan to the East", 
-          "text": "EWEC 2010 was going to be our first EWEA annual event as exhibitors but the <a href='https://en.wikipedia.org/wiki/Effects_of_the_April_2010_Eyjafjallajökull_eruption' target='blank'>eruption of the Icelandic volcano Eyjafjallajökul</a> on 14 April 2010 did not allow us (and many others) to fly to Warsaw. Without thinking twice, we drove up there in a caravan. 2,400 km traveled to Poland made us worthy of the prize (a bottle of vodka) to the participants driving from further"
+          "text": "EWEC 2010 was going to be our first EWEA annual event as exhibitors but the eruption of the Eyjafjallajökul did not allow us (and many others) to fly to Warsaw. We drove up there in a motorhome instead. 2,400 km traveled to Poland made us worthy of the prize (a bottle of vodka) to the participants driving from further"
         }
        },
       {
