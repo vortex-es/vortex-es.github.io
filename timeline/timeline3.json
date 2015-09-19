@@ -30,7 +30,7 @@
       {
         "media": {
           "url": "/assets/img/timeline/David.jpg", 
-          "caption": "<href='http://www.ols.es' target='blank'>David Saez</a> at first Vortex computer cluster. Early 2006", 
+          "caption": "<a href='http://www.ols.es' target='blank'>David Saez</a> at first Vortex computer cluster. Early 2006", 
           "credit": ""
         }, 
         "start_date": {
@@ -84,12 +84,12 @@
         }, 
         "text": {
           "headline": "A cloud (service) with solid foundations", 
-          "text": "Vortex is not a large company but we are not at all alone. Since our first compilation of the <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a> model in 2006, our core technology relies on a collaborative code developed through the effort of a community of over 23,000 registered users"
+          "text": "Vortex is not a large company but we are not at all alone. Since our first compilation of the <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a> model in 2006, Vortex core technology relies on a collaborative code developed through the effort of a community of over 23,000 registered users"
         }
        }, 
       {
         "media": {
-          "url": "/assets/img/timeline/Gil.png", 
+          "url": "/assets/img/timeline/Gil.jpg", 
           "caption": "<a href='https://be.linkedin.com/pub/gil-lizcano/4a/8b2/123' target='blank'>Gil Lizcano</a> during launch of first Vortex portfolio. Mid 2009", 
           "credit": ""
         }, 
@@ -121,12 +121,12 @@
       {
         "media": {
           "url": "/assets/img/timeline/Warsaw.jpg", 
-          "caption": "<a href='https://es.linkedin.com/pub/germán-delgado/1b/836/a8' target='blank'>German Delgado</a> receiving the '<i>Eyjafjallajökul</i>' award from EWEA's COO, Bruce Douglas, during the conference dinner in Warsaw. May 2010", 
+          "caption": "<a href='https://es.linkedin.com/pub/germán-delgado/1b/836/a8' target='blank'>German Delgado</a> receiving the '<i>Eyjafjallajökul</i>' award from EWEA's COO, Bruce Douglas, during the conference dinner in Warsaw. 22 April 2010", 
           "credit": ""
         }, 
         "start_date": {
           "month": "4",
-            "day": "20",
+            "day": "22",
           "year": "2010"
         }, 
         "text": {
@@ -151,33 +151,32 @@
        },
       {
         "media": {
-          "url": "/assets/img/timeline/Gil.jpg", 
-          "caption": "<a href='https://be.linkedin.com/pub/gil-lizcano/4a/8b2/123' target='blank'>Gil Lizcano</a> at Vortex office in Brussels. Early 2011", 
+          "url": "/assets/img/timeline/Brussels.jpg", 
+          "caption": "First Vortex satellite office in Brussels. Late 2011", 
           "credit": ""
         }, 
         "start_date": {
-          "month": "3",
+          "month": "11",
           "year": "2011"
         }, 
         "text": {
           "headline": "Natural born glocal", 
-          "text": "Wind does not understand about borders, so does not Vortex team. By opening first satellite office in Brussels in 2011, vortex strengthens its presence in Europe"
+          "text": "Wind does not understand about borders, so does not Vortex team. By opening first satellite office in Brussels in 2011, Vortex strengthens its presence in Europe"
         }
        },
       {
         "media": {
           "url": "/assets/img/timeline/Elies.jpg", 
-          "caption": "<a href='http://www.ecampmany.com' target='blank'>Elies Campmany</a> celebrating the launch of Run #10,000. February 2013", 
+          "caption": "<a href='http://www.ecampmany.com' target='blank'>Elies Campmany</a> celebrating the launch of Run #10,000. February 2012", 
           "credit": ""
         }, 
         "start_date": {
-          "month": "6",
-            "day": "21",
+          "month": "2",
           "year": "2012"
         }, 
         "text": {
           "headline": "Run #10,000", 
-          "text": "Vortex computer cluster never sleeps. When a Korean user launched the Run #10,000 in 2012 we could not imagine that so soon (September 2015) number #63,000 was going to be reached"
+          "text": "Vortex computer cluster never sleeps. When a Korean user launched  Run #10,000 in 2012 we could not imagine that at the end of 2015 we were going to reach 65,000"
         }
        },
       {
