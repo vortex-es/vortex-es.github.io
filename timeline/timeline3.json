@@ -182,7 +182,22 @@
       {
         "media": {
           "url": "/assets/img/timeline/Viena.jpg", 
-          "caption": "Vortex flags planted at EWEA's annual event in Viena, Austria. February 2013", 
+          "caption": "Vortex flags planted at EWEA's annual event in Viena. Late 2012", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "10",
+          "year": "2012"
+        }, 
+        "text": {
+          "headline": "Looking ahead ", 
+          "text": "e<a href='http://www.specs-fp7.eu' target='blank'>SPECS</a>"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Viena.jpg", 
+          "caption": "Vortex flags planted at EWEA's annual event in Viena. February 2013", 
           "credit": ""
         }, 
         "start_date": {
@@ -192,7 +207,7 @@
         }, 
         "text": {
           "headline": "At the heart of European wind industry", 
-          "text": "Vortex has been involved with European wind R & D initiatives since its foundation. Chairing EWEA's conferences or workshops or being involved in the very first TPWind are a couple of examples"
+          "text": "Vortex has been involved with European wind R & D initiatives since its foundation. Chairing EWEA's conferences or workshops or being involved in the<a href='http://www.windplatform.eu' target='blank'>TPWind</a> since 2010, are a couple of examples"
         }
        }
     ]
