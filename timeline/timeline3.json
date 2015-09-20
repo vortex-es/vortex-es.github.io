@@ -145,8 +145,8 @@
           "year": "2010"
         }, 
         "text": {
-          "headline": "患难识知己<br/> <sub>* a friend in need is a friend indeed</sub>", 
-          "text": "Starting in China in 2010, expansion of Vortex to Asia has been based on collaborations with local partners. With offices in India and Turkey, they are now our gate to the Far East"
+          "headline": "患难识知己<sup>*</sup>", 
+          "text": "Starting in China in 2010, expansion of Vortex to Asia has been based on collaborations with local partners. With offices in India and Turkey, they are now our gate to the Far East<br/> <sub>* A friend in need is a friend indeed</sub>"
         }
        },
       {
@@ -220,7 +220,7 @@
       {
         "media": {
           "url": "/assets/img/timeline/Ed.jpg", 
-          "caption": "Vortex flags planted at EWEA's annual event in Viena. February 2013", 
+          "caption": "Ed Montero at US Vortex office in Miami. April 2014", 
           "credit": ""
         }, 
         "start_date": {
@@ -228,9 +228,14 @@
           "year": "2014"
         }, 
         "text": {
+<<<<<<< HEAD
           "headline": "The home of the brave and the free<br/> <sub>", 
           "text": "Vortex has been involved with European wind R & D initiatives since its foundation. Chairing EWEA's conference sessions and workshops or being involved in the<a href='http://www.windplatform.eu' target='blank'>TPWind</a> since 2010, are a couple of examples"
 >>>>>>> 2cab829cac65265d697cd55b8175f003b4374e0c
+=======
+          "headline": "The land of the free and the home of the brave", 
+          "text": "US Vortex office in Miami was inaugurated in April 2014"
+>>>>>>> 6d2b8e960aeecabe46b4935533f23b946ed03922
         }
        }
     ]
