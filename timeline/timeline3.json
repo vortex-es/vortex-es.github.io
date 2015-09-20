@@ -192,7 +192,11 @@
         }, 
         "text": {
           "headline": "At the heart of European wind industry", 
+<<<<<<< HEAD
           "text": "Vortex has been involved with European wind R & D initiatives since its foundation. Chairing EWEA's conferences or workshops or being involved in the very first TPWind are a couple of examples"
+=======
+          "text": "Vortex has been involved with European wind R & D initiatives since its foundation. Chairing EWEA's conferences or workshops or being involved in the<a href='http://www.windplatform.eu' target='blank'>TPWind</a> since 2010, are a couple of examples"
+>>>>>>> parent of 2cab829... timeline
         }
        }
     ]
