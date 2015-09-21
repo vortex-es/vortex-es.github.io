@@ -84,7 +84,7 @@
         }, 
         "text": {
           "headline": "A cloud (service) with solid foundations", 
-          "text": "Vortex is not a large company but we are not at all alone. Since our first compilation of the <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a> model in 2006, Vortex core technology relies on a collaborative code developed through the effort of a community of over 23,000 registered users"
+          "text": "Vortex is not a large-sized company but we are not at all alone. Since our first compilation of the <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a> model in 2006, Vortex core technology relies on a collaborative code developed through the effort of a community of over 23,000 registered users"
         }
        }, 
       {
@@ -115,7 +115,7 @@
         }, 
         "text": {
           "headline": "The eruption of the Eyjafjallajökul", 
-          "text": "The ashes expelled by this Icelandic volcano on 14 April 2010 affected the activities of the population in Europe and across the world. There was extensive air travel disruption caused by the closure of airspace over many countries affecting the travel arrangements of hundreds of thousands of people (<a href='https://en.wikipedia.org/wiki/Effects_of_the_April_2010_Eyjafjallajökull_eruption' target='blank'>Wikipedia</a>)"
+          "text": "The ashes expelled by this Icelandic volcano on 14 April 2010 affected the activities of the population in Europe and across the world. There was extensive air travel disruption caused by the closure of airspace over many countries affecting the travel arrangements of hundreds of thousands of people... (source: <a href='https://en.wikipedia.org/wiki/Effects_of_the_April_2010_Eyjafjallajökull_eruption' target='blank'>Wikipedia</a>)"
         }
        }, 
       {
@@ -253,6 +253,22 @@
         "text": {
           "headline": "", 
           "text": "The future"
+        }
+       },
+      {
+        "media": {
+          "url": "https://youtu.be/BEHhqbvcd84", 
+          "caption": "", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "2",
+          "day": "23",
+          "year": "2015"
+        }, 
+        "text": {
+          "headline": "Modest contributions to the Common Good", 
+          "text": "In june 2015, Vortex joined the <a href='https://www.ecogood.org/en' target='blank'>ECG</a> movement, a modest contribution to the Common Good. Starting with Vortex workers Good, our corporate policy in this matter has made us being granted the <a href='http://w110.bcn.cat/portal/site/UsosDelTemps/menuitem.7e04b1462441477cf740f740a2ef8a0c/?vgnextoid=11ded9634264c410VgnVCM1000001947900aRCRD&vgnextfmt=formatDetall&vgnextchannel=e5cdfd7f29217310VgnVCM10000072fea8c0RCRD&lang=en_GB' target='blank'>Innovative Company in Conciliation and Time</a> Prize by Barcelona Council"
         }
        }
     ]
