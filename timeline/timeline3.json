@@ -192,22 +192,7 @@
         }, 
         "text": {
           "headline": "Collaborating with European wind industry research", 
-          "text": "Vortex has been involved with European wind R & D initiatives since its foundation. Chairing EWEA's conference sessions or being involved in the<a href='http://www.windplatform.eu' target='blank'>TPWind</a> since 2010 and the Seasonal-to-Decadal Climate Prediction <a href='http://www.specs-fp7.eu' target='blank'>SPECS</a> project in 2012, are a couple of examples"
-        }
-       },
-      {
-        "media": {
-          "url": "/assets/img/timeline/Patricia.jpg", 
-          "caption": "Patricia Puig . Late 2012", 
-          "credit": ""
-        }, 
-        "start_date": {
-          "month": "10",
-          "year": "2012"
-        }, 
-        "text": {
-          "headline": "Sunny and happy", 
-          "text": "Solar and prize"
+          "text": "Vortex has been involved with European wind R & D initiatives since its foundation. Chairing EWEA's annual event sessions or being involved in the <a href='http://www.windplatform.eu' target='blank'>TPWind</a> since 2010 and the Seasonal-to-Decadal Climate Prediction <a href='http://www.specs-fp7.eu' target='blank'>SPECS</a> project in 2012, are a couple of examples"
         }
        },
       {
@@ -243,16 +228,16 @@
       {
         "media": {
           "url": "/assets/img/timeline/Alex.jpg", 
-          "caption": "Alex Montornés", 
+          "caption": "Alex Montornés in ??. Late 2014", 
           "credit": ""
         }, 
         "start_date": {
-          "month": "4",
-          "year": "2015"
+          "month": "9",
+          "year": "2014"
         }, 
         "text": {
-          "headline": "", 
-          "text": "The future"
+          "headline": "Citizens of the State-of-the-Art", 
+          "text": "In-house R & D is one of the aspects which Vortex invest more resources in. Advanced tests of WRF-LES, started in 2014, is one example. Trying to be always on the cutting-edge of our fields of specialization is the only way a small, agile company can survive"
         }
        },
       {
@@ -267,8 +252,23 @@
           "year": "2015"
         }, 
         "text": {
-          "headline": "Modest contributions to the Common Good", 
-          "text": "In june 2015, Vortex joined the <a href='https://www.ecogood.org/en' target='blank'>ECG</a> movement, a modest contribution to the Common Good. Starting with Vortex workers Good, our corporate policy in this matter has made us being granted the <a href='http://w110.bcn.cat/portal/site/UsosDelTemps/menuitem.7e04b1462441477cf740f740a2ef8a0c/?vgnextoid=11ded9634264c410VgnVCM1000001947900aRCRD&vgnextfmt=formatDetall&vgnextchannel=e5cdfd7f29217310VgnVCM10000072fea8c0RCRD&lang=en_GB' target='blank'>Innovative Company in Conciliation and Time</a> Prize by Barcelona Council"
+          "headline": "Vortex (modest) contributions to the Common Good", 
+          "text": "During summer 2015, our company joined the <a href='https://www.ecogood.org/en' target='blank'>ECG</a> movement, an organisation devoted to the change of the Economical paradigm in benefit of the Common Good. Before, the 23 February, Vortex Director of Hapiness received the <a href='http://w110.bcn.cat/portal/site/UsosDelTemps/menuitem.7e04b1462441477cf740f740a2ef8a0c/?vgnextoid=11ded9634264c410VgnVCM1000001947900aRCRD&vgnextfmt=formatDetall&vgnextchannel=e5cdfd7f29217310VgnVCM10000072fea8c0RCRD&lang=en_GB' target='blank'>Innovative Company in Conciliation and Time</a> Prize awarding our corporate policy regarding Vortex employees Good"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Barcelona.jpg", 
+          "caption": "Part of the Vortex team in Munich. June 2015", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "6",
+          "year": "2015"
+        }, 
+        "text": {
+          "headline": "A sunny future ahead", 
+          "text": "June 2015, Munich. Debut of Vortex Solar service in the major industry event of the sector in Europe. We expect this new line of products to provide us as many challenges in the future as all Vortex activity in last exciting 10 years"
         }
        }
     ]
