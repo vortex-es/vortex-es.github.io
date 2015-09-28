@@ -281,8 +281,23 @@
           "year": "2015"
         }, 
         "text": {
-          "headline": "Towards a sunny future", 
-          "text": "June 2015, Intersolar Munich: debut of Vortex Solar service in the major industry event of the sector in Europe. New challenges for the future as previous ones have been in these last exciting 10 years"
+          "headline": "Here comes the Sun", 
+          "text": "June 2015, Intersolar Munich: debut of Vortex Solar service in the major industry event of the sector in Europe. Our first excursion outside the Wind field but based on the same modeling know-how and professional expertise approach used until now"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Anniversary.jpg", 
+          "caption": "Part of the Vortex team walking by the seashore during 10th anniversary stage. Empuries, September 2015", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "9",
+          "year": "2015"
+        }, 
+        "text": {
+          "headline": "Towards a challenging future", 
+          "text": "In September 2015 we celebrated Vortex 10th birthday in the delicious coast corner were the ancient Greeks first landed in our country. A encouraging meeting to charge energy for the next 10 challenging years"
         }
        }
     ]
