@@ -7,74 +7,14 @@ keywords: online, wind, modeling, forecast, solar, offshore
 
 <main class="vx-masthead" id="content" role="main">
 
-	<!-- Carousel
-	================================================== -->
-	<div id="myCarouselHomeVortex" class="carousel slide carousel-vortex-home">
-	<!-- Indicators -->
-		<ol class="carousel-indicators">
-		{% assign count = '-1' %}
-			{% for post in site.tags.slideshow limit:5 %}
-				{% if post.tags contains 'slideshow' %}
-					{% capture count %}{{ count | plus: '1' }}{% endcapture %}
-					{% if count == '0' %}
-					<li data-target="#myCarouselHomeVortex" data-slide-to="{{ count }}" class="active">
-					{% else if %}
-					<li data-target="#myCarouselHomeVortex" data-slide-to="{{ count }}">
-					{% endif %}
-					</li>
-				{% endif %}
-			{% endfor %}
-		</ol>
-		<div class="carousel-inner">
-			{% assign count = '0' %}
-			{% for post in site.tags.slideshow limit:5 %}
-			{% if post.tags contains 'slideshow' %}
-				{% capture count %}{{ count | plus: '1' }}{% endcapture %}
-				{% if count == '1' %}
-				<div class="item active">
-				{% else if %}
-				<div class="item">
-				{% endif %}
-					{% if post.featured-img-url %}
-					<div class="container">
-						<img src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}" data-src641="{{site.baseurl}}/assets/img/{{post.featured-img-url-768}}" data-src961="{{site.baseurl}}/assets/img/{{post.featured-img-url}}" data-src1025="{{site.baseurl}}/assets/img/{{post.featured-img-url-1280}}">
-						{% if post.title == 'Vortex' %}
-						<div class="carousel-caption">
-							<h1>
-								<strong>{{ post.title }}</strong>: {{ post.subtitle }}
-							</h1>
-							<h4>{{ post.excerpt }}</h4>
-						</div>
-						{% else if %}
-						<div class="carousel-caption">
-							<a href="{{site.baseurl}}/markets/{{ post.url }}.html">
-							<h1>
-								<strong>{{ post.title }}</strong>, {{ post.subtitle }}
-							</h1>
-							<h4>{{ post.excerpt }}</h4>
-							</a>
-						</div>
-						{% endif %}
-			         </div>	
-					
-					{% else if %}
-					<div class="container">
-						<div class="carousel-caption">
-							<a href="{{site.baseurl}}/markets/{{ post.url }}.html">
-							<h1>
-								<strong>{{ post.title }}</strong>, {{ post.subtitle }}
-							</h1>
-							<h4>{{ post.excerpt }}</h4>
-							</a>
-						</div>					
-					{% endif %}
-				</div>
-			{% endif %}
-			{% endfor %}
-		</div>
-	<a class="left carousel-control" href="#myCarouselHomeVortex" data-slide="prev"></a>
-	<a class="right carousel-control" href="#myCarouselHomeVortex" data-slide="next"></a>
-	</div><!-- /.carousel -->
+
+	<section id="timelineTenAnniversary" class="hidden-xs hiddem-sm">
+		<div class="container">
+			<div class="body-content timeline-ten-anniversary" id="timeline-embed">
+	      		</div>
+    			<hr />
+	    	</div>
+       </section>
 
 	<!-- iconMarkets
 	================================================== -->
@@ -101,31 +41,6 @@ keywords: online, wind, modeling, forecast, solar, offshore
 		</div>
 
 	</div>
-
-	<!-- timelineTenAnniversary
-	================================================== -->
-
-	<section id="timelineTenAnniversary" class="hidden-xs hiddem-sm">
-
-		<div class="container">
-
-		<hr />
-
-		<h2 class="text-center">Vortex Ten Anniversary</h2>
-
-		<hr />
-	      
-	      <div class="body-content timeline-ten-anniversary" id="timeline-embed">
-
-	      	
-
-	      </div>
-
-    	<hr />
-
-	    </div>
-
-    </section>
 
 	<div class="container">
 
