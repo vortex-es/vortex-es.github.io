@@ -264,6 +264,11 @@ body.solutions-solution .page-header {
   animation-direction: alternate;
 }
 
+/* -------- timelineTenAnnyversary ---- */
+ #timelineTenAnniversary {
+  margin-bottom: 2em;
+ }
+
 p.vortex-icon.title-icon a {
   text-transform: uppercase;
   font-size: 30px;
