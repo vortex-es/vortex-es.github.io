@@ -1,8 +1,7 @@
 ---
 layout: resources
 slug: evaluation-of-wrf-for-icing-events
-title: Evaluation of WRF mesoscale model for icing events characterization:
-Some insights on model performance
+title: Evaluation of WRF mesoscale model for icing events characterization: Some insights on model performance
 categories: resources
 featured-img-url: evaluation-of-wrf-for-icing-events.png
 featured-img-alt: evaluation of wrf for icing events
