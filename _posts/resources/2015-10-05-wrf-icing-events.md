@@ -6,7 +6,7 @@ Some insights on model performance
 categories: resources
 featured-img-url: evaluation-of-wrf-for-icing-events.png
 featured-img-alt: evaluation of wrf for icing events
-docs-url: http://www.internationalsustainableenergy.com/6000/iser-magazine/past-issues/issue-2-2012/modelling-the-freeze/
+docs-url: winterwind_2012.pdf
 tags:
 meta: evaluation of wrf for icing events
 excerpt: Development of windpower markets in extreme cold climates enhances
