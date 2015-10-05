@@ -12,6 +12,6 @@ meta: evaluation of wrf for icing events
 excerpt: Development of windpower markets in extreme cold climates enhances
 the need of site-specific environment conditions information.
 author: vortex
-keywords: 
+keywords: wrf
 ---
 Development of windpower markets in extreme cold climates enhances the need of site-specific environment conditions information.
