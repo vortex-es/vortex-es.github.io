@@ -23,7 +23,7 @@
           "year": "2005"
         }, 
         "text": {
-          "headline": "A young company of old experts", 
+          "headline": "A young company<br/> of old experts", 
           "text": "Vortex was established in Barcelona on September 19, 2005 but its team’s track record goes much further back, having accumulated 25 years of experience in wind industry"
         }
       }, 
@@ -38,7 +38,7 @@
           "year": "2006"
         }, 
         "text": {
-          "headline": "It all started with a simple, powerful idea", 
+          "headline": "It all started with a simple,<br/> powerful idea", 
           "text": "The foundational approach of the Vortex service was simple: remote atmospheric modeling launched on-line. Our first computer cluster was set up in 2006 with the aim to '<i>bring the power of a supercomputer to your fingerprints</i>'"
         }
        }, 
@@ -137,7 +137,7 @@
       {
         "media": {
           "url": "/assets/img/timeline/Jordi.jpg", 
-          "caption": "<a href='https://es.linkedin.com/pub/jordi-ferrer/1/5b4/165' target='blank'>Jordi Ferrer</a>, Managing and Financial Director (left), and Pep Moreno at Vortex's partners offices in Beijing. Late 2010", 
+          "caption": "<a href='https://es.linkedin.com/pub/jordi-ferrer/1/5b4/165' target='blank'>Jordi Ferrer</a>, Managing and Financial Director (bottom), and Pep Moreno at Vortex's partners offices in Beijing. Late 2010", 
           "credit": ""
         }, 
         "start_date": {
@@ -205,7 +205,7 @@
           "year": "2013"
         }, 
         "text": {
-          "headline": "At the heart European wind industry research", 
+          "headline": "At the heart of European wind industry research", 
           "text": "Chairing EWEA's annual event sessions and collaborating with <a href='http://www.vindenergi.dtu.dk/english' target='blank'>DTU</a> or <a href='http://www.windplatform.eu' target='blank'>TPWind</a>, are just a few examples of Vortex's unwavering commitment with European wind industry R & D initiatives"
         }
        },
@@ -297,7 +297,7 @@
         }, 
         "text": {
           "headline": "Next step, the future", 
-          "text": "In September 2015 we celebrated Vortex's anniversary in a delightful corner of Catalonia where ancient Greeks first landed on our shores. A meeting to recharge the batteries (using renewable energy of course!) for the next 10 challenging years ahead"
+          "text": "In September 2015 we celebrated Vortex's anniversary in a delightful corner where ancient Greeks first landed on our shores. A meeting to recharge the batteries (using renewable energy of course!) for the next 10 challenging years ahead"
         }
        }
     ]
