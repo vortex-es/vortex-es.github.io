@@ -9,7 +9,7 @@ keywords: online, wind, modeling, forecast, solar, offshore
 
 	<!-- Carousel
 	================================================== -->
-	<div id="myCarouselHomeVortex" class="carousel slide carousel-vortex-home">
+	<div id="myCarouselHomeVortex" class="carousel slide carousel-vortex-home hidden-md hidden-lg">
 	<!-- Indicators -->
 		<ol class="carousel-indicators">
 		{% assign count = '-1' %}
@@ -76,57 +76,33 @@ keywords: online, wind, modeling, forecast, solar, offshore
 	<a class="right carousel-control" href="#myCarouselHomeVortex" data-slide="next"></a>
 	</div><!-- /.carousel -->
 
-	<!-- iconMarkets
-	================================================== -->
+	<section id="timelineTenAnniversary" class="hidden-xs hiddem-sm">
+			<div class="body-content timeline-ten-anniversary" id="timeline-embed">
+				
+			</div>
+   </section>
 
 	<div id="marketsIconHome" class="jumbotron jumbotron-white jumbotron-no-margin full-width cl-effect-3">
-
 		<div class="container">
-
 	  		<div class="row">
 	  			<div class="col-md-3 col-sm-6">
-			    	<h1 class="title-icon text-center"><a href="{{ site.base_url }}/markets/wind-and-site.html">Wind & Site</a></h1>
+	  				<p class="text-center hidden-xs hiddem-sm"><a href="{{ site.base_url }}/markets/wind-and-site.html"><img src="{{ site.base_url }}/assets/img/02-bg-slide-wind-and-site-320.jpg"></a></p>
+	  				<h1 class="title-icon text-center"><a href="{{ site.base_url }}/markets/wind-and-site.html">Wind & Site</a></h1>
 				</div>
 				<div class="col-md-3 col-sm-6">
-				    <h1 class="title-icon text-center"><a href="{{ site.base_url }}/markets/forecast.html">Forecast</a></h1>
+	  				<p class="text-center hidden-xs hiddem-sm"><a href="{{ site.base_url }}/markets/forecast.html"><img src="{{ site.base_url }}/assets/img/03-bg-slide-forecast-320.jpg"></a></p>
+			    	<h1 class="title-icon text-center"><a href="{{ site.base_url }}/markets/forecast.html">Forecast</a></h1>
 				</div>
 				<div class="col-md-3 col-sm-6">
+	  				<p class="text-center hidden-xs hiddem-sm"><a href="{{ site.base_url }}/markets/solar.html"><img src="{{ site.base_url }}/assets/img/04-bg-slide-solar-320.jpg"></a></p>
 					<h1 class="title-icon text-center"><a href="{{ site.base_url }}/markets/solar.html">Solar</a></h1>
 				</div>
 				<div class="col-md-3 col-sm-6">
+	  				<p class="text-center hidden-xs hiddem-sm"><a href="{{ site.base_url }}/markets/offshore.html"><img src="{{ site.base_url }}/assets/img/05-bg-slide-offshore-320.jpg"></a></p>
 					<h1 class="title-icon text-center"><a href="{{ site.base_url }}/markets/offshore.html">Offshore</a></h1>
 				</div>
 			</div>
-
 		</div>
-
-	</div>
-
-	<div class="container">
-
-		<div class="body-content">
-
-			<section id="thoughts">
-				<div class="row">
-				{% for post in site.categories.general limit:3 %}
-					<div class="col-sm-4 col-md-4">
-						<div class="recent-news ox_animate_when_almost_visible ox_top-to-bottom">
-							<a href="{{site.baseurl}}{{post.url}}"><h3>{{ post.title }}</h3></a>
-							<h5><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | date: "%b %d" }}</time></h5>
-							<!-- <h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4> -->
-							<hr />
-							{% if post.featured-img-url %}
-            				<p class="pull-left hidden-xs thoughts-thumbnail"><img src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}" {% if post.featured-img-alt != %} alt="{{post.featured-img-alt}}" title="{{post.featured-img-alt}}" {% endif %}></p>
-            				{% endif %}
-							<p>{{ post.excerpt }}</p>
-						</div>												
-					</div>
-				{% endfor %}
-				</div>
-			</section>
-
-		</div>
-
 	</div>
 
 </main>
