@@ -35,22 +35,6 @@
       	padding-top: 50px;
       }
     </style>
-<link rel="stylesheet" href="{{ site.base_url }}/timeline/css/font.knightlab.css">
-<link rel="stylesheet" href="{{ site.base_url }}/timeline/css/timeline.css">
-<script src="{{ site.base_url }}/timeline/js/timeline-min.js"></script>
-
-  <script>
-    $(document).ready(function(){
-        var embed = document.getElementById('timeline-embed');
-        embed.style.height = getComputedStyle(document.body).height;
-        window.timeline = new VCO.Timeline('timeline-embed', '{{ site.base_url }}/timeline/timeline3.json', { skinny_size: 650 });
-        window.addEventListener('resize', function() {
-          var embed = document.getElementById('timeline-embed');
-          embed.style.height = getComputedStyle(document.body).height;
-          timeline.updateDisplay();
-        })
-      });
-  </script>
 <!-- Favicons -->
 				<link rel="shortcut icon" sizes="196x196" href="{{ site.base_url }}/assets/ico/favicon-vortex-196.png">
 				<link rel="shortcut icon" sizes="128x128" href="{{ site.base_url }}/assets/ico/favicon-vortex-128.png">
