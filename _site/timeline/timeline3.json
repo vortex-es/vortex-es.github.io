@@ -1,0 +1,304 @@
+{
+    "title": {
+        "media": {
+          "url": "/assets/img/timeline/logos.png", 
+          "caption": "Evolution of the Vortex <a href='http://ummocrono.com/projects/vortex' target='blank'>logo</a> since 2005", 
+          "credit": ""
+        }, 
+        "text": {
+          "headline": "Vortex<br/> 2005 - 2015", 
+          "text": "Vortex is a little story of success. Today, 10 years after it was founded by two doctors of Atmospheric Physics and a self-taught IT expert, the company operates across 3 continents and serves users from 150 countries"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "/assets/img/timeline/Pep.png", 
+          "caption": "<a href='https://es.linkedin.com/in/pepmoreno' target='blank'>Pep Moreno</a>, Vortex CEO, installing a met. mast during a measurement campaign in Northern Spain. Early 90’s", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "9", 
+          "day": "19", 
+          "year": "2005"
+        }, 
+        "text": {
+          "headline": "A young company<br/> of old experts", 
+          "text": "Vortex was established in Barcelona on September 19, 2005 but its team’s track record goes much further back, having accumulated 25 years of experience in the wind industry"
+        }
+      }, 
+      {
+        "media": {
+          "url": "/assets/img/timeline/David.jpg", 
+          "caption": "This could be David Saez, IT Director, at first Vortex's computer cluster in early 2006 (unfortunately, there are not photos from that time)", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "2", 
+          "year": "2006"
+        }, 
+        "text": {
+          "headline": "It all started with a simple,<br/> powerful idea", 
+          "text": "The foundational approach of the Vortex service was simple: remote atmospheric modeling, on-line. Our first computer cluster was set up in 2006 with the aim to '<i>bringing the power of a supercomputer to your fingerprints</i>'"
+        }
+       }, 
+       {
+        "media": {
+          "url": "/assets/img/timeline/Josep.jpg", 
+          "caption": "Professor <a href='http://www.researchgate.net/profile/Josep_Calbo' target='blank'>Josep Calbó</a>, Scientific Advisor, returning from the University of Girona with his two-year old daughter. Late 2006", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "11",
+          "year": "2006"
+        }, 
+        "text": {
+          "headline": "Research in the real world", 
+          "text": "We love research. Half of Vortex’s employees hold a PhD and we have close ties with several research institutes since our first collaboration with the University of Girona in 2006. Meanwhile, continuous feedback from our users helps shape our research, making sure we always keep real world 'imperfections' at the forefront of our minds"
+        }
+      }, 
+      {
+        "media": {
+          "url": "/assets/img/timeline/interface.jpg", 
+          "caption": "One of the first drafts of the Vortex Interface. Early 2007", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "4",
+          "year": "2007"
+        }, 
+        "text": {
+          "headline": "Complex modeling,<br/> just one-click away", 
+          "text": "From its first design in 2007, the philosophy behind the Vortex Interface was to pare down the complexity of atmospheric modeling to just a few intuitive website user actions. Since the beginning, user manuals and courses were strictly forbidden"
+        }
+      }, 
+      {
+        "media": {
+          "url": "/assets/img/timeline/Pau.jpg", 
+          "caption": "<a href='https://www.linkedin.com/pub/pau-casso/43/7a7/b75/en' target='blank'>Pau Casso</a>, Technical Director, at Longs Peak (Colorado) after attending the 9th WRF Users' Workshop in Boulder. July 2008", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "7",
+          "year": "2008"
+        }, 
+        "text": {
+          "headline": "A cloud (service) with solid foundations", 
+          "text": "Vortex is not a large company but we are not at all alone. Since our first compilation of the <a href='http://www.wrf-model.org/index.php' target='blank'>WRF</a> model, Vortex's core technology has relied on a collaborative code developed through the efforts of a community of over 23,000 registered users"
+        }
+       }, 
+      {
+        "media": {
+          "url": "/assets/img/timeline/Gil.jpg", 
+          "caption": "<a href='https://be.linkedin.com/pub/gil-lizcano/4a/8b2/123' target='blank'>Gil Lizcano</a>, R&D Director (center), at University of Oxford. Mid 2009", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "9",
+          "year": "2009"
+        }, 
+        "text": {
+          "headline": "Growing slowly but surely", 
+          "text": "At the time we closed our first sale in 2009, the original Vortex portfolio included only 3 products. Our current Wind & Site, Forecast, Solar and Offshore portfolios comprise 10 products. Development and testing of new products has been treated with great care by Vortex’s R&D department to ensure service robustness"
+        }
+       }, 
+      {
+        "media": {
+          "url": "/assets/img/timeline/volcano.jpg", 
+          "caption": "", 
+          "credit": "http://skyscapes.info/2010-04-17_Eyjafjallajokull-lightning.html"
+        }, 
+        "start_date": {
+          "month": "4",
+            "day": "14",
+          "year": "2010"
+        }, 
+        "text": {
+          "headline": "Eruption of the Eyjafjallajökul", 
+          "text": "Ashes expelled by this Icelandic volcano on April 2010 affected activities across Europe. There was extensive air travel disruption caused by the closure of airspace... (source: <a href='https://en.wikipedia.org/wiki/Effects_of_the_April_2010_Eyjafjallajökull_eruption' target='blank'>Wikipedia</a>)"
+        }
+       }, 
+      {
+        "media": {
+          "url": "/assets/img/timeline/Warsaw.jpg", 
+          "caption": "Receiving the '<i>Eyjafjallajökul</i>' award from EWEA's COO, Bruce Douglas, during the conference dinner in Warsaw. April 22, 2010", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "4",
+            "day": "22",
+          "year": "2010"
+        }, 
+        "text": {
+          "headline": "Caravan to the East", 
+          "text": "EWEC 2010 in Warsaw was going to be our first EWEA annual event as exhibitors but the eruption of the Eyjafjallajökul stopped us from flying. Without thinking twice, we drove up there in a motorhome. Thanks to our 2,400 km trip to Poland, we were given a prize (a bottle of vodka) for being the participants who had driven the furthest to the event!"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Jordi.jpg", 
+          "caption": "<a href='https://es.linkedin.com/pub/jordi-ferrer/1/5b4/165' target='blank'>Jordi Ferrer</a>, Managing and Financial Director (bottom), and Pep Moreno at Vortex's partners offices in Beijing. Late 2010", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "11",
+          "year": "2010"
+        }, 
+        "text": {
+          "headline": "患难识知己<sup>*</sup>", 
+          "text": "Starting in China in 2010, Vortex has expanded into Asia by collaborating with local partners. With offices also in India and Turkey, our partners are now our gateway to the East<br/> <sub>* A friend in need is a friend indeed</sub>"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/German.jpg", 
+          "caption": "<a href='https://es.linkedin.com/pub/germán-delgado/1b/836/a8' target='blank'>German Delgado</a>, Commercial Director, in Rio de Janeiro. Early 2011", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "3",
+          "year": "2011"
+        }, 
+        "text": {
+          "headline": "Emerging in the Emergents", 
+          "text": "Beyond European shores, Brazil, India, China and South Africa, among others, have been Vortex’s priority targets since as early as 2011"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Brussels.jpg", 
+          "caption": "First Vortex office in Brussels. Late 2011", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "11",
+          "year": "2011"
+        }, 
+        "text": {
+          "headline": "Natural born glocal", 
+          "text": "Wind is not limited by borders, and neither is Vortex. By opening our first satellite office in Brussels in 2011, we bolstered our presence in Europe"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Elies.jpg", 
+          "caption": "<a href='http://es.linkedin.com/in/campmany' target='blank'>Elies Campmany</a>, at the Vortex computer cluster in Barcelona. Early 2012", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "2",
+          "year": "2012"
+        }, 
+        "text": {
+          "headline": "Run #10,000", 
+          "text": "The Vortex computer cluster never sleeps. In the middle of (our) night in 2012, a Korean user launched Run #10,000. Three years on, Run #63,000 was completed last summer"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Viena.jpg", 
+          "caption": "Vortex flags erected at EWEA's annual event in Vienna. February 2013", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "2",
+          "year": "2013"
+        }, 
+        "text": {
+          "headline": "At the heart of European wind industry research", 
+          "text": "Chairing EWEA's annual event sessions and collaborating with <a href='http://www.vindenergi.dtu.dk/english' target='blank'>DTU</a> or <a href='http://www.windplatform.eu' target='blank'>TPWind</a>, are just a few examples of Vortex's unwavering commitment with European wind industry R&D initiatives"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Abel.jpg", 
+          "caption": "Abel Tortosa, Forecast Director (left), at EWEA's Wind Power Forecasting workshop in Rotterdam. December 2013", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "12",
+          "year": "2013"
+        }, 
+        "text": {
+          "headline": "Looking ahead and beyond", 
+          "text": "While Wind & Site products refer only to the past, extending Vortex modeling service to the future was a natural step. Vortex’s Forecasting service was launched in 2013 and is not restricted to the short-term but looks beyond through the seasonal-to-decadal climate prediction <a href='http://www.specs-fp7.eu' target='blank'>SPECS</a> project"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Ed.jpg", 
+          "caption": "Ed Montero, Manager Director Vortex FdC inc., in Miami. April 2014", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "4",
+          "year": "2014"
+        }, 
+        "text": {
+          "headline": "The land of the free and the home of the brave", 
+          "text": "Our presence in the US dates back to AWEA's annual event in Dallas but did not become permanent until we opened a new Vortex office in Florida in April 2014"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Alex.jpg", 
+          "caption": "<a href='http://www.researchgate.net/profile/Alex_Montornes_Torrecillas' target='blank'>Alex Montornés</a> at the University of Barcelona. Late 2014", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "9",
+          "year": "2014"
+        }, 
+        "text": {
+          "headline": "Citizens of the State-of-the-Art", 
+          "text": "In-house R&D is one of the areas in which Vortex invests most resources. Advanced testing of WRF-LES since 2014 is one example. Striving to always be at the cutting-edge of our fields of specialization is the only way a small, agile company can survive"
+        }
+       },
+      {
+        "media": {
+          "url": "https://youtu.be/BEHhqbvcd84", 
+          "caption": "", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "2",
+          "day": "23",
+          "year": "2015"
+        }, 
+        "text": {
+          "headline": "Vortex's modest contributions to the Common Good", 
+          "text": "During summer 2015, our company joined the <a href='https://www.ecogood.org/en' target='blank'>ECG</a> movement, an organisation devoted to shifting the economical paradigm to the benefit of the Common Good. Earlier this year, our Director of Happiness received the <a href='http://w110.bcn.cat/portal/site/UsosDelTemps/menuitem.7e04b1462441477cf740f740a2ef8a0c/?vgnextoid=11ded9634264c410VgnVCM1000001947900aRCRD&vgnextfmt=formatDetall&vgnextchannel=e5cdfd7f29217310VgnVCM10000072fea8c0RCRD&lang=en_GB' target='blank'>Innovative Company in Conciliation and Time</a> Prize from Barcelona City Council in recognition of our corporate policy towards the well-being of our own employees"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Patricia.jpg", 
+          "caption": "<a href='https://es.linkedin.com/in/puigalcoriza/en' target='blank'>Patricia Puig</a>, Vortex Solar (and Happiness) Director, at her orange trees field. June 2015", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "6",
+          "year": "2015"
+        }, 
+        "text": {
+          "headline": "Here comes the Sun", 
+          "text": "June 2015, Intersolar Munich: debut of the Vortex Solar service at the solar sector’s largest trade fair in the world. Our first excursion outside the wind industry but with the same solid foundations used until now"
+        }
+       },
+      {
+        "media": {
+          "url": "/assets/img/timeline/Empuries.jpg", 
+          "caption": "The Vortex team walking along the coast in Empuries, September 2015", 
+          "credit": ""
+        }, 
+        "start_date": {
+          "month": "9",
+          "year": "2015"
+        }, 
+        "text": {
+          "headline": "Next step, the future", 
+          "text": "In September 2015 we celebrated Vortex's anniversary in a delightful corner where ancient Greeks first landed on our shores. A meeting to recharge the batteries (using renewable energy of course!) for the next 10 challenging years ahead"
+        }
+       }
+    ]
+}
