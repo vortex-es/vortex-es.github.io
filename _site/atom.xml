@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://www.vortexfdc.com/atom.xml" rel="self"/>
  <link href="http://www.vortexfdc.com/"/>
- <updated>2015-11-10T14:56:42+01:00</updated>
+ <updated>2015-11-10T16:05:29+01:00</updated>
  <id>http://www.vortexfdc.com</id>
  <author>
    <name></name>
@@ -22,6 +22,15 @@
 &lt;p&gt;Vortex SERIES are delivered at any height between 50 and 150m a.g.l. However, be aware than SERIES are a Mesoscale product of 3km-resolution, thus not directly comparable against actual measurements at a particular point and height but designed for MCP (correlation) purposes only.&lt;/p&gt;
 
 &lt;p&gt;If you intend to compare modeling results against actual measurements you should simulate the atmosphere down to the Microscale. Our Microscale products MAST &amp;amp; FARM do contain modeling effects down to the 100m resolution and, depending on the terrain, many phenomena may occur between the 3km and 100m scales.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2015 (first half) Wind Anomalies in South Africa</title>
+   <link href="http://www.vortexfdc.com/wind-anomalies-south-africa"/>
+   <updated>2015-10-26T00:00:00+01:00</updated>
+   <id>http://www.vortexfdc.com/wind-anomalies-south-africa</id>
+   <content type="html">
 </content>
  </entry>
  
