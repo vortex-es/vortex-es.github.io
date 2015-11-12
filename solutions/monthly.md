@@ -11,11 +11,11 @@ featured-img-url: vortex-solutions-monthlyfoto.jpg
 icon-url: vortex-solutions-monthly-icon-128.png
 ---
 
-<p class="lead">Are you meeting production expectations? How much did your wind farm over/underproduce last year? how much can be explained by wind resource inter-annual variability? INSIGHT will help you answering these questions by putting your site-specific data in context against wind and production long-term anomalies analysis.</p>
+<p class="lead">Are you meeting production expectations? How much did your wind farm over/under produce last year or month? How much can be explained by wind resource inter-annual variability? INSIGHT will help you answer these questions by putting your site-specific data in context compared to long-term wind and production anomalies analysis.</p>
 
 ##When to use INSIGHT?
 
-When you need a external measure of the climate variability to analyze the performance of your wind farm.
+When you need a external measure of climate variability to analyze the performance of your wind farm.
 
 ###Technical details:
 
