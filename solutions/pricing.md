@@ -20,7 +20,7 @@ keywords: wind and site, farm, development, decisions, measuring
 					<li class="list-group-item"><i class="icon-ok text-info"></i> Full access to a global wind resource map</li>
 					<li class="list-group-item"><i class="icon-ok text-info"></i> One-click away direction roses</li>
 					<li class="list-group-item"><i class="icon-ok text-info"></i> 6-month time-series for correlate purposes</li>
-					<li class="list-group-item"><i class="icon-ok text-info"></i> Global access to Topography and Roughness maps</li>
+					<li class="list-group-item"><i class="icon-ok text-info"></i> Downloadable Topography and Roughness maps</li>
 				</ul>
 				<div class="panel-footer">
 				<a href='http://interface.vortex.es/signup' class='btn btn-lg btn-block btn-info' title='Please, sign up'><span class='icon-signin icon-white'></span> Get started</a>
@@ -37,13 +37,11 @@ keywords: wind and site, farm, development, decisions, measuring
 				<ul class="list-group list-group-flush">
 					<li class="list-group-item">Access via Vortex Interface</li>
 					<li class="list-group-item">MAPS: 900 €</li>
-					<li class="list-group-item">MAST: starting at 650 €</li>
+					<li class="list-group-item">MAST: 650+ €</li>
 					<li class="list-group-item">FARM: 1900 €</li>
-					<li class="list-group-item">SERIES: starting at 650 €</li>
+					<li class="list-group-item">SERIES: 650+ €</li>
 					<li class="list-group-item">ICING: 900 €</li>
-<!--
-					<li class="list-group-item">FORECAST, <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>contact us</a></li>
--->
+					<li class="list-group-item">INSIGHT: contact us for a volume-basis pricing (up to 180 €)</li>
 				</ul>
 				<ul class="list-group list-group-flush text-center">
 					<li class="list-group-item"><i class="icon-ok text-info"></i> Progressive discounts apply for packages of 3 or more Runs in a row. <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a> if interested</li>
