@@ -9,7 +9,7 @@ When you need a external measure of climate variability to analyze the performan
 - Any region world-wide, both on and off-shore.
 - Monthly updated reports of last running 12 month.
 - Available variables: mean wind, temperature and production.
-- Customized to your site-specific measurements by means of proprietary <a href="../docs/EWEA2014_Atortosa.pdf" target="_blank">Remodeling</a> algorithms.
+- Customized to your site-specific measurements by means of proprietary [Remodeling](/docs/EWEA2014_Atortosa.pdf) algorithms.
 - Long-term (20-year) reference baseline.
 - Based on cutting-edge climatology technologies.
 - 1-Season ahead forecast (coming soon)
