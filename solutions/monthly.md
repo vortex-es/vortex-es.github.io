@@ -11,5 +11,4 @@ featured-img-url: vortex-solutions-monthlyfoto.jpg
 icon-url: vortex-solutions-monthly-icon-128.png
 ---
 
-{% capture my-include %}{% include solutions-insight.md %}{% endcapture %}
-{{ my-include | markdownify }}
+{% include solutions-insight.html %}
