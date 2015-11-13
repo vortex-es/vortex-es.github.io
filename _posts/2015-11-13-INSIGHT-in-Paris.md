@@ -8,7 +8,7 @@ layout: blog
 slug: "INSIGHT-in-Paris"
 title: We'll always have Paris...
 "featured-img-url": Paris.jpg
-"featured-img-alt": Le basier de l’Hôtel de Ville, Robert Doisneau
+"featured-img-alt": Le basier de Hotel de Ville, Robert Doisneau
 tags: null
 meta: INSIGHT in Paris
 excerpt: Meet us at EWEA's event and discover our new product: INSIGHT
