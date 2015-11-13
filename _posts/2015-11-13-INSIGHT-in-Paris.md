@@ -5,7 +5,7 @@ categories:
   - "no-cita"
 date: "2015-11-13  9:00:00"
 layout: blog
-slug: “INSIGHT-in-Paris”
+slug: "INSIGHT-in-Paris"
 title: We'll always have Paris...
 "featured-img-url": Paris.jpg
 "featured-img-alt": Le basier de l’Hôtel de Ville, Robert Doisneau
