@@ -13,7 +13,7 @@ tags: null
 meta: INSIGHT in Paris
 excerpt: Meet us at EWEA's event and discover our new product: INSIGHT
 author: vortex
-keywords: "vortex, INSIGHT, anomaly, Paris”
+keywords: "vortex, INSIGHT, anomaly, Paris"
 published: true
 ---
 
