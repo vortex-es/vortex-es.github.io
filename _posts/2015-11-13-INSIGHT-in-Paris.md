@@ -3,7 +3,7 @@ categories:
   - infraestructura
   - general
   - "no-cita"
-date: "2015-11-13  9:00:00"
+date: "2015-11-13 09:00:00"
 layout: blog
 slug: "INSIGHT-in-Paris"
 title: We'll always have Paris...
