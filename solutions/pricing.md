@@ -41,7 +41,7 @@ keywords: wind and site, farm, development, decisions, measuring
 					<li class="list-group-item">FARM: 1900 €</li>
 					<li class="list-group-item">SERIES: 650+ €</li>
 					<li class="list-group-item">ICING: 900 €</li>
-					<li class="list-group-item">INSIGHT: contact us for a volume-basis pricing (up to 180 €)</li>
+					<li class="list-group-item">INSIGHT: <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a> for a volume-basis pricing (down to 180 €)</li>
 				</ul>
 				<ul class="list-group list-group-flush text-center">
 					<li class="list-group-item"><i class="icon-ok text-info"></i> Progressive discounts apply for packages of 3 or more Runs in a row. <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a> if interested</li>
