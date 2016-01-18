@@ -6,7 +6,7 @@ categories:
 date: "2016-01-18 11:59:00"
 layout: blog
 slug: "vortex-new-position"
-title: Vortex Business Developer Full-time Position
+title: Vortex Business. Developer Full-time Position
 "featured-img-url": "Viena.jpg"
 "featured-img-alt": Vortex
 tags: null
