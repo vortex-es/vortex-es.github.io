@@ -10,8 +10,8 @@ title: Vortex Business Developer Full-time Position
 "featured-img-url": "vortex-about-us-icon-128.png"
 "featured-img-alt": Vortex
 tags: null
-meta: Vortex Business Developer Full-time position
-excerpt: Vortex and NIWE will provide electricity generation forecasts down to a fifteen minute resolution up to 10 days ahead
+meta: Vortex Business Developer. Full-time position
+excerpt: Vortex is a world-leader mesoscale wind & solar resource information provider, offering an Online Platform that facilitates fast, robust and global downscaling resource assessment and packaging of the output information according to the renewable industry standards and requirements.
 author: vortex
 keywords: "vortex, position, developer, business"
 published: true
@@ -20,8 +20,6 @@ published: true
 
 ## Vortex Business Developer Full-time position
 
-Vortex is a world-leader mesoscale wind & solar resource information provider, offering an Online Platform that facilitates fast, robust and global downscaling resource assessment and packaging of the output information according to the renewable industry standards and requirements.
-
-The company has experienced a fast international growing during the last years and now we are willing to strengthen the sales department in order to efficiently attend new market opportunities.
+The candidate will join the commercial department of a highly technical oriented company and will develop the activity in an informal straightforward sales environment. The work will imply dealing with sales tasks as: elaborating market research reports and marketing materials, organization and participation in International trade shows, establishment and development of professional relationships with customers, developing new business strategies based on the interaction with the market, setting up business meetings with target companies and raising new sales opportunities through “cold” actions and “hunting” sales strategies.
 
 For further information, please read this <a href=/assets/docs/BusinessDeveloper.pdf>document</a>
