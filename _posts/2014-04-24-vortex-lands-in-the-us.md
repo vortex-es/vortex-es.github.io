@@ -17,7 +17,7 @@ keywords: "vortex, US, company, industry"
 published: true
 ---
 
-#Vortex lands in the US
+# Vortex lands in the US
 
 We are very pleased to announce that Vortex FdC Inc, fully owned subsidiary of Vortex SL, has recently started operations in Miami FL, headed by Mr. Ed Montero. Ed has more than 15 years of experience in the wind industry in international environment in a global leading OEM.
 

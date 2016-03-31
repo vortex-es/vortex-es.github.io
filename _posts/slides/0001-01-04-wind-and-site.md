@@ -14,6 +14,6 @@ author: vortex
 keywords: Wind, farm, development, challenging, process, critical decissions, cost-effectively, help
 ---
 
-#Wind & Site, one-click away
+# Wind & Site, one-click away
 
 Wind farm development is a challenging process where critical decisions have to be taken. Vortex Wind & Site Solutions help you taking some of them via our web-based interface.

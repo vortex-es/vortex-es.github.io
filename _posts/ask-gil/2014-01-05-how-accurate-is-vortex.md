@@ -11,7 +11,7 @@ author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---
 
-#How accurate is Vortex?
+# How accurate is Vortex?
 
 Current Vortex system accuracy values are presented here. These values change periodically thanks to the feedback of our users, who compare Vortex simulation results against their good-quality data.
 

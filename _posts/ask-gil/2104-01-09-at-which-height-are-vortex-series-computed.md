@@ -12,7 +12,7 @@ keywords: "vortex, company, experience, independence, collaborative"
 published: true
 ---
 
-#At which height are Vortex SERIES computed?
+# At which height are Vortex SERIES computed?
 
 Vortex SERIES are delivered at any height between 50 and 150m a.g.l. However, be aware than SERIES are a Mesoscale product of 3km-resolution, thus not directly comparable against actual measurements at a particular point and height but designed for MCP (correlation) purposes only.
 

@@ -13,11 +13,11 @@ icon-url: vortex-solutions-sSeries-icon-128.png
 
 <p class="lead">Vortex Solar SERIES span more than two decades backwards providing homogeneous and accurate long-term irradiance time-series, anywhere.</p>
 
-##When to use SERIES?
+## When to use SERIES?
 
 When time evolution is required for your analysis and/or when local short-term measurements are available.
 
-###Technical details:
+### Technical details:
 
 - Any location world-wide, both on and near-shore.
 - Hourly GHI, DNI & DIF, temperature & wind speed. All in one single package.
@@ -32,7 +32,7 @@ When time evolution is required for your analysis and/or when local short-term m
 
 
 <!--
-###Accuracy validation:
+### Accuracy validation:
 <<<<<<< HEAD
 
 

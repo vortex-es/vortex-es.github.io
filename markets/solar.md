@@ -9,19 +9,19 @@ published: true
 ---
 
 
-###Why Vortex Solar?
+### Why Vortex Solar?
 
 Because besides satellite data, we use mesoscale models to build our accurate, cost-effective radiation estimates
 
-###Why should that benefit me?
+### Why should that benefit me?
 
 Models are our speciality enabling us to deliver global homogeneous long-term estimates, with no gaps, at a very attractive price
 
-###Why does modeling reduce prices?
+### Why does modeling reduce prices?
 
 Modeling allows the entire process to be automated, cutting costs by keeping state-of-the-art accuracy levels
 
-###Check Vortex Solar accuracy for yourself:
+### Check Vortex Solar accuracy for yourself:
 
 <!--
 -<a href="mailto:patricia.puig@vortex.es?subject=Solar Validation">Request</a> our validation withe-paper including comparisons against measurements in all continents

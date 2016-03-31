@@ -13,11 +13,11 @@ icon-url: vortex-solutions-farm-icon-128.png
 
 <p class="lead">Probably the most complete modeling product on the market: long-term statistics within an area plus high-resolution temperature, mean wind, extreme wind (Vref) and turbulence maps.</p>
 
-##When to use FARM?
+## When to use FARM?
 
 When the wind farm area is already selected but not yet the turbine locations or their class.
 
-##Technical details:
+## Technical details:
 
 - Fully selectable areas in size, location and orientation.
 - Up to 100 m resolution.

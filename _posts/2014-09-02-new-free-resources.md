@@ -17,7 +17,7 @@ keywords: "vortex, wind map, resources, free"
 published: true
 ---
 
-## Wind Maps Freely Available
+##   Wind Maps Freely Available
 
 Vortex has worked in the last months to prepare prospecting maps of countries where the wind industry is being developed.
 

@@ -14,7 +14,7 @@ With first-hand experience of the wind industry, we have created the tools we wo
 
 They could also help you.
 
-##Some of our costumers
+## Some of our costumers
 
 <div class="row">
 	<div class="col-xs-6 col-md-2 col-sm-2">

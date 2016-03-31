@@ -12,7 +12,7 @@ author: vortex
 keywords: topography, roughness, vector, maps, new, free, feature, vortex, interface
 ---
 
-#Topography and roughness vector maps new free feature in vortex interface
+# Topography and roughness vector maps new free feature in vortex interface
 
 In addition to the world wind 9-km resolution map and 6-month time series for corporate users available in  [VORTEX interface](http://vortex.us2.list-manage.com/track/click?u=0bf80c7042a06b8b5c7117de7&id=b167ef570f&e=d0ef871ed3), we have now launched a new topography and roughness vector maps service. Just enter the central coordinates and map area you are interested in to receive detailed, up-to-date topography and roughness vector maps straight to your desktop. To our knowledge, Vortex is the first free dispatcher of vector-formatted roughness data specifically designed for the wind industry.
 

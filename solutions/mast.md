@@ -13,11 +13,11 @@ icon-url: vortex-solutions-mast-icon-128.png
 
 <p class="lead">Vortex MAST has been designed to help you in the important decision of placing a real met. mast on the field. For a small fraction of the price of a real mast, Vortex MAST will give you a fairly accurate clue as to which may be the best of several candidate sites.</p>
 
-##When to use MAST?
+## When to use MAST?
 
 Just before the decission of installing a real met. mast must be taken.
 
-###Technical details:
+### Technical details:
 
 - Any location world-wide, both on and off-shore.
 - Computed at 100 m resolution.

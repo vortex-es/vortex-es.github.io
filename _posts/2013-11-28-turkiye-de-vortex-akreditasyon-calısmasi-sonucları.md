@@ -12,7 +12,7 @@ author: vortex
 keywords: results, validation, vortex, india
 ---
 
-#Türkiye'de Vortex Akreditasyon Çalışması Sonuçları
+# Türkiye'de Vortex Akreditasyon Çalışması Sonuçları
 
 
 [VORTEX](http://www.vortex.es/?utm_source=Vortex+users&utm_campaign=513bda2abd-Turkish_Validation10_24_2013&utm_medium=email&utm_term=0_76f80cadf1-513bda2abd-)'in belli başlı hedeflerinden biri, sizlere rüzgar enerjisi alanında her zaman için en hassas ve güncel bilgileri sunmak olmuştur. Bu hedef doğrultusunda sürekli olarak teknolojimizi geliştirip, elde ettiğimiz verileri rüzgar enerjisi sektörünün önde gelen kuruluşlarına onaylatıyoruz.

@@ -13,11 +13,11 @@ icon-url: vortex-solutions-series-icon-128.png
 
 <p class="lead">Once you have enough local measurements at your potential wind farm site it is time for the serious decisions: MCP for long-term extrapolation is one of them. Vortex Series will provide you the best correlation for most of your sites but this is for you to check: previously to any purchase, download 6-months for free.</p>
 
-##When to use SERIES?
+## When to use SERIES?
 
 When local measurements are already available and long-term extrapolations are required.
 
-###Technical details:
+### Technical details:
 
 - Any location world-wide, both on and off-shore.
 - 3 km resolution, centered on the selected point.
