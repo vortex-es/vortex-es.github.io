@@ -11,7 +11,7 @@ author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---
 
-#I have altitude or roughness data at a finer resolution than 100m. May I use them?
+# I have altitude or roughness data at a finer resolution than 100m. May I use them?
 
 No, sorry. One of Vortex’s main aims is to provide our customers with fast results. This is only possible by automating the calculation process. Accepting your own surface data as an input for the simulation would imply a certain degree of manual work (revisions, corrections, etc.) that would slow down the whole proces.
 

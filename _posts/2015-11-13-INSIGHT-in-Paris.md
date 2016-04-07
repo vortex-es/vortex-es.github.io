@@ -17,7 +17,7 @@ keywords: "vortex, INSIGHT, anomaly, Paris"
 published: true
 ---
 
-## We'll always have Paris...
+##   We'll always have Paris...
 
 Vortex's ultimate tool for windfarm performance analysis, INSIGHT, will be unveiled during EWEA's annual event in Paris next week. If are attending the exhibition, please come and visit us at booth J08 where we will be happy to personally introduce you to our latest development.
  

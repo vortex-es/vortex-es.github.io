@@ -18,7 +18,7 @@ excerpt: "Vortex Solar has been active in the rearguard for a while and today we
 
 
 
-##Solar Products Available in Vortex Interface
+##  Solar Products Available in Vortex Interface
 
 Vortex [Solar](http://www.vortexfdc.com/markets/solar.html) has been active in the rearguard for a while, and today we are very pleased to announce that our cost-effective radiation products are available for automatic launch and download through Vortex [Interface](http://interface.vortexfdc.com).
 

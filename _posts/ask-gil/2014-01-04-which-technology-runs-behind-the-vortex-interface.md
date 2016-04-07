@@ -11,7 +11,7 @@ author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---
 
-#Which technology runs behind the Vortex interface?
+# Which technology runs behind the Vortex interface?
 
 Vortex’s system core, WRF, is a sophisticated code that has been effectively employed to describe the physics and dynamics of atmospheric circulations with a significant degree of realism at a wide range of scales. WRF is neither a microscale nor large-scale model, but is a one-in-all.
 

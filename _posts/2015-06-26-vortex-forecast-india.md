@@ -18,7 +18,7 @@ published: true
 ---
 
 
-## Vortex FORECAST helps India’s wind industry to forecast wind farms.
+##   Vortex FORECAST helps India’s wind industry to forecast wind farms.
 
 Vortex and NIWE will provide electricity generation forecasts down to a fifteen minute resolution up to 10 days ahead; with bulletins being revised every three hours to provide accurate predictions that enhance grid stability and energy security.
 

@@ -17,9 +17,9 @@ keywords: "vortex, series, long-term, remodel"
 published: true
 ---
 
-#Remodel your SERIES to perform better
+# Remodel your SERIES to perform better
 
-## One step beyond current long-term extrapolation methods.
+##   One step beyond current long-term extrapolation methods.
 
 We are very pleased to introduce Vortex _Remodeling_, a completely free feature to enhance your [SERIES](../solutions/series.html) performance.
 
@@ -27,7 +27,7 @@ _Remodeling_ points beyond current MCP algorithms that are mostly lineal and use
 
 Remodeling was recently introduced by Abel Tortosa, Vortex Forecasting Director, during the Resource Assesment track at EWEA 2014 Conference in Barcelona. Further details [here](../docs/EWEA2014_Atortosa.pdf).
 
-## A graphical assistant at your service.
+##   A graphical assistant at your service.
 
 Remodeling comes also with a complete remodeling of Vortex Interface for SERIES. As you may have already noticed, when selecting a computed SERIES in Vortex Interface a new, flexible graphical window replaces the standard navigation map.
 

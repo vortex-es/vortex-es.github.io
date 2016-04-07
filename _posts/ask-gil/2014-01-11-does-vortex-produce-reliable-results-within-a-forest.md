@@ -11,7 +11,7 @@ author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---
 
-#Does Vortex produce reliable results within a forest?
+# Does Vortex produce reliable results within a forest?
 
 Vortex MAST results have been compared fairly successfully against user measurements taken inside or near a forest after certain precautions have been taken:
 

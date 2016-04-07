@@ -17,7 +17,7 @@ keywords: "vortex, wind patterns, anomaly, Turkey"
 published: true
 ---
 
-## 2014 Low Wind Patterns in Turkey
+##   2014 Low Wind Patterns in Turkey
 
 Significant extremely low wind speed conditions have been detected across Turkey
 throughout 2014, according to feedbacks and questions received from several VORTEX clients, and based on measurements from different wind mast sites.

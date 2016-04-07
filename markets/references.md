@@ -14,7 +14,7 @@ With first-hand experience of the wind industry, we have created the tools we wo
 
 They could also help you.
 
-##Some of our costumers
+## Some of our costumers
 
 <div class="row">
 	<div class="col-xs-6 col-md-2 col-sm-2">
@@ -75,7 +75,7 @@ They could also help you.
 		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/cube-vortex-160x160.jpg"/>
 	</div>
 	<div class="col-xs-6 col-md-2 col-sm-2">
-		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/alston-vortex-160x160.jpg"/>
+		<p class="text-center"><a href="" rel="external"><img src="{{ site.base_url }}/assets/img/ge-vortex-160x160.jpg"/>
 	</div>
 </div>
 

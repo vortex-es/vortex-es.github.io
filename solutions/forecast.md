@@ -21,7 +21,7 @@ Vortex predictions includes Wind (speed and direction), Power production and oth
     <b> NEW! </b> Check our accuracy against <a href="http://www.sotaventogalicia.com/en" target="_blank">Sotavento</a> real-time measurements, on-line. Simply, log in as usual and open FORECAST Sample.
 </div>
 
-###Some of the distinguishing characteristics of our service are:
+### Some of the distinguishing characteristics of our service are:
 
 - Fast project setup, less than a business week for a standard project and 24 to 48 hours for
 projects without measured data.

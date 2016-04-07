@@ -11,7 +11,7 @@ author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---
 
-#How far is your time series nearest calculation node away from my mast?
+# How far is your time series nearest calculation node away from my mast?
 
 Since SERIES (like all Vortex products) are computed on demand, their calculation domain is centered on your selected point of interest so "distance to nearest calculation node" is always 0.
 

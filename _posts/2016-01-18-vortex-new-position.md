@@ -18,7 +18,7 @@ published: true
 ---
 
 
-## Vortex Business Developer Full-time position
+##   Vortex Business Developer Full-time position
 
 The candidate will join the commercial department of a highly technical oriented company and will develop the activity in an informal straightforward sales environment. The work will imply dealing with sales tasks as: elaborating market research reports and marketing materials, organization and participation in International trade shows, establishment and development of professional relationships with customers, developing new business strategies based on the interaction with the market, setting up business meetings with target companies and raising new sales opportunities through “cold” actions and “hunting” sales strategies.
 

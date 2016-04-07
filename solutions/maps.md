@@ -13,11 +13,11 @@ icon-url: vortex-solutions-maps-icon-128.png
 
 <p class="lead">Thanks to Vortex exclusive WAsP Wind Atlas export feature, MAPS can be refined to any resolution making them the ultimate tool for prospecting purposes.</p>
 
-##When to use MAPS?
+## When to use MAPS?
 
 When a large unknown area is explored, well before any measurement are available.
 
-###Technical details:
+### Technical details:
 
 - Any region world-wide, both on and off-shore.
 - Fully selectable areas in size and location.

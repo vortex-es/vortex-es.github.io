@@ -12,10 +12,10 @@ author: vortex
 keywords: results, validation, vortex, india
 ---
 
-#DTU Wind Energy (Risø) and Vortex sign an agreement  to allow Vortex to deliver WAsP Wind Atlas files
+# DTU Wind Energy (Risø) and Vortex sign an agreement  to allow Vortex to deliver WAsP Wind Atlas files
 
 
-##A direct shortcut into WAsP
+##  A direct shortcut into WAsP
 
 We are very pleased to announce that Vortex and DTU Wind Energy (formerly Risø National Laboratory), the world's largest wind energy research institution, have signed an agreement to incorporate DTU's Wind Atlas technology into Vortex's modeling chain.
 
@@ -23,7 +23,7 @@ The aim of this agreement is to meet the demand of our users wishing to apply [W
 
 To make this task easier, results from Vortex mesoscale [MAPS](http://vortex.us2.list-manage.com/track/click?u=0bf80c7042a06b8b5c7117de7&id=71a91bfe41&e=d0ef871ed3) will be available in the WAsP Wind Atlas format (LIB files) as from today.
 
-##Not an obvious reformatting exercise
+##  Not an obvious reformatting exercise
 
 Exporting modeling results into Wind Atlas files is not a simple format transformation.
 

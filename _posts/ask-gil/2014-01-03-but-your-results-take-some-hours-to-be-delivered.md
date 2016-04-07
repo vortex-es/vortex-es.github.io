@@ -11,7 +11,7 @@ author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---
 
-#But your results take some hours to be delivered...
+# But your results take some hours to be delivered...
 
 Yes, this is due to the fact that calculations are non-linear, and non-linear computing is not immediate. Pre-calculating the whole world at high resolution using a non-linear model would require a huge amount of computing power and would also result in thousands of non-interesting areas being calculated.
 

@@ -1,6 +1,5 @@
 name:             'Vortex'
 url:              'http://www.vortexfdc.com'
-markdown:         rdiscount
 highlighter:      pygments
 
 baseurl:
