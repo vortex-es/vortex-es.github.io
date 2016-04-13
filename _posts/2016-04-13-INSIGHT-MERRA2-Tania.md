@@ -5,15 +5,15 @@ categories:
   - "no-cita"
 date: "2016-04-13 10:00:00"
 layout: blog
-slug: "INSIGHT-MERRA2-Tania"
+slug: "INSIGHT-MERRA2"
 title: "Is your wind farm underperforming?"
 "featured-img-url": vortex-solutions-monthlyfoto.jpg
-"featured-img-alt": INSIGHT
+"featured-img-alt": Vortex Insight
 tags: null
-meta: INSIGHT MERRA2 Tania
-excerpt: "The recurring underperformance debate"
+meta: INSIGHT MERRA2
+excerpt: "The recurring debate about underperformance"
 author: vortex
-keywords: "vortex, INSIGHT, MERRA2"
+keywords: "vortex, INSIGHT, anomaly, MERRA2"
 published: true
 ---
 
