@@ -11,7 +11,7 @@ title: "Is your wind farm underperforming?"
 "featured-img-alt": Vortex Insight
 tags: null
 meta: INSIGHT MERRA2
-excerpt: "The recurring debate about underperformance"
+excerpt: "Vortex INSIGHT has been designed to help in the recurring debate about underperformance. MERRA2 is coming! Vortex will be ready."
 author: vortex
 keywords: "vortex, INSIGHT, anomaly, MERRA2"
 published: true
@@ -19,7 +19,7 @@ published: true
 
 ##  Is your wind farm underperforming?
 
-A recurring debate among wind farm owners and manufacturers revolves around whether turbines were "underperforming" or if production expectations were "too high" and the actual wind resource lower than expected.
+A recurring debate among wind farm owners and manufacturers revolves around whether turbines were "underperforming" or if production expectations were "too high" and the actual wind resource lower than expected. Watch the video <a href="/assets/docs/insight.htm>here</a>.
 
 Vortex <a href="/solutions/monthly.html">INSIGHT</a> may help. By comparing recent months' data against 20-year series, INSIGHT is a site-specific Wind and Production Index specially designed to make the "underperformance" debate no longer an issue.
  
