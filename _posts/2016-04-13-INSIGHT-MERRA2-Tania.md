@@ -11,7 +11,7 @@ title: "Is your wind farm underperforming?"
 "featured-img-alt": INSIGHT
 tags: null
 meta: INSIGHT MERRA2 Tania
-excerpt: “The recurring underperformance debate”
+excerpt: "The recurring underperformance debate"
 author: vortex
 keywords: "vortex, INSIGHT, MERRA2"
 published: true
