@@ -5,8 +5,8 @@ categories:
   - "no-cita"
 date: "2016-04-13 10:00:00"
 layout: blog
-slug: "INSIGHT-MERRA2-Tania”
-title: “Is your wind farm underperforming?”
+slug: "INSIGHT-MERRA2-Tania"
+title: "Is your wind farm underperforming?"
 "featured-img-url": vortex-solutions-monthlyfoto.jpg
 "featured-img-alt": INSIGHT
 tags: null
