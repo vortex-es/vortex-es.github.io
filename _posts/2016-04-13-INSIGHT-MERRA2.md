@@ -11,7 +11,7 @@ title: "Is your wind farm underperforming?"
 "featured-img-alt": Vortex Insight
 tags: null
 meta: INSIGHT MERRA2
-excerpt: "Vortex INSIGHT has been designed to help in the recurring debate about underperformance."
+excerpt: "Vortex INSIGHT has been designed to help both wind farm owners and manufacturers in the recurring debate about underperformance."
 author: vortex
 keywords: "vortex, INSIGHT, anomaly, MERRA2"
 published: true
