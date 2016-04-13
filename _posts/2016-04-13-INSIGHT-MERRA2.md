@@ -28,5 +28,5 @@ By comparing recent months' data against 20-year series, INSIGHT is a site-speci
 <br>
 
 <p><small>
-<b>-Concerned about MERRA production being discontinued?</b> No worries, Vortex is already integrating the new interim NASA Reanalysis MERRA2 into our modeling chain. <b>-What happens to existing Vortex SERIES driven by MERRA?</b> They will still be available in your account, bounded by the end of life of MERRA production (Feb'16) <b>-Interested in migrating?</b> Benefit from a 50% discount on reruns of previous MERRA-based SERIES for a limited period (until Dec'16)
+<b>-Concerned about MERRA production being discontinued?</b> No worries, Vortex is already integrating the new interim NASA Reanalysis MERRA2 into our modeling chain. <b>-What happens to existing Vortex SERIES driven by MERRA?</b> They will still be available in your account, bounded by the end of life of MERRA production (Feb'16) <b>-Interested in migrating?</b> Benefit from a 50% discount on reruns of previous MERRA-SERIES for a limited period (until Dec'16)
 </small></p>
