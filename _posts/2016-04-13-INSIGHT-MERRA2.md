@@ -23,8 +23,7 @@ A recurring debate among wind farm owners and manufacturers revolves around whet
 
 Vortex <a href="/solutions/monthly.html">INSIGHT</a> may help. By comparing recent months' data against 20-year series, INSIGHT is a site-specific Wind and Production Index specially designed to make the "underperformance" debate no longer an issue.
 
-<small> 
-##  MERRA2 is coming!
+<small><b> MERRA2 is coming!</b>
 
 <b>-Concerned about MERRA production being discontinued?</b> No worries, Vortex is already integrating the new interim NASA Reanalysis MERRA2 into our modeling chain
 
