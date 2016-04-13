@@ -17,13 +17,13 @@ keywords: "vortex, INSIGHT, anomaly, MERRA2"
 published: true
 ---
 
-##   Is your wind farm underperforming?
+##  Is your wind farm underperforming?
 
 A recurring debate among wind farm owners and manufacturers revolves around whether turbines were "underperforming" or if production expectations were "too high" and the actual wind resource lower than expected.
 
 Vortex <a href="/solutions/monthly.html">INSIGHT</a> may help. By comparing recent months' data against 20-year series, INSIGHT is a site-specific Wind and Production Index specially designed to make the "underperformance" debate no longer an issue.
  
-##   MERRA2 is coming!
+##  MERRA2 is coming!
 
 <b>-Concerned about MERRA production being discontinued?</b> No worries, Vortex is already integrating the new interim NASA Reanalysis MERRA2 into our modeling chain
 
