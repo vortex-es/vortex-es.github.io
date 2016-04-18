@@ -23,7 +23,7 @@ When time evolution is required for your analysis and/or when local short-term m
 - Hourly GHI, DNI & DIF, temperature & wind speed. All in one single package.
 - Monthly averages included at no cost.
 - 3 km resolution, centered on the selected point.
-- 20+ year-long. 5 day-old.
+- 20+ year-long. 2 months and 5 days old.
 - No gaps (thanks to mixed satellite-modeling technology).
 - Updated monthly at no cost.
 - Site-adapted to your local measurements at no cost.
