@@ -25,7 +25,7 @@ When local measurements are already available and long-term extrapolations are r
 - Selectable source: NCEP, NASA and ECMWF.
 - Wind speed and direction, temperature & pressure.
 - Selectable time zone to match measurements timestamp.
-- Updated monthly at no cost.
+- Updated monthly at no cost (conditioned to Reanalysis availability).
 - Long-Term Consistency Analysis (<a href='mailto:info@vortex.es'>Contact us</a> to request a sample report).
 - Free 6 months samples since Jan 1, 2001.
 - Remodeling (enhaced MCP). Technical details <a href="../docs/EWEA2014_Atortosa.pdf" target="_blank">here</a> (Tortosa et al. 2014)
