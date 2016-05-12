@@ -37,7 +37,7 @@ keywords: solar, development, decisions, measuring
 					<li class="list-group-item">Access via Vortex Interface</li>
 					<li class="list-group-item">MAPS: 900 €</li>
 					<li class="list-group-item">SERIES: 600 €</li>
-					<li class="list-group-item">TMY: 900 €</li>
+					<li class="list-group-item">TMY: 300 €</li>
 				</ul>
 				<ul class="list-group list-group-flush text-center">
 					<li class="list-group-item"><i class="icon-ok text-info"></i> Progressive discounts apply for packages of 3 or more Runs in a row. <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a> if interested</li>
