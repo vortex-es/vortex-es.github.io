@@ -25,7 +25,7 @@ Before the decision of starting a development in clod-climate must be taken.
 - Maps of minimum temperature and maximum density.
 - 6 decreasing temperature thresholds.
 - Maps of days per year with temperatures below thresholds.
-- Maps of hours per year with icing rate above critical threshold.
-- Table wind speed and direction during icing periods.
+- Maps of hours per year with icing rate above critical threshold (100m-res. only).
+- Table wind speed and direction during icing periods (100m-res. only).
 - Based on 10 years simulations.
 - Exportable to Google Earth KML, ESRI grid and WAsP WRG.
