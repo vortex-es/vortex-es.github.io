@@ -3,7 +3,7 @@ layout: resources
 slug: wind-anomalies-argentina
 title: "2015 Wind Anomalies in Argentina"
 categories: resources
-featured-img-url: argentina-wind-anomaly.png
+featured-img-url: argentina-wind-map.png
 featured-img-alt: 2015 Wind Anomalies in Argentina
 docs-url: vortex_wind_anomalies_2015_argentina.pdf
 tags:
