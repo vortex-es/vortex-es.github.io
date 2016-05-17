@@ -11,9 +11,9 @@ featured-img-url: vortex-solutions-icingfoto.jpg
 icon-url: vortex-solutions-icing-icon-128.png
 ---
 
-<p class="lead">Vortex Icing will be of invaluable help when designing wind farms in cold climates. Do not leave it until it is too late to experience production losses due to ice accretion on blades. Vortex Icing provides a fairly reasonable estimate of the combined probability of frost and wind between critical thresholds.</p>
+<p class="lead">Vortex ICING will be of invaluable help when designing wind farms in cold climates. Do not leave it until it is too late to experience production losses due to ice accretion on blades. Vortex ICING provides a fairly reasonable estimate of the combined probability of frost and wind between critical thresholds.</p>
 
-## When to use Icing?
+## When to use ICING?
 
 Before the decision of starting a development in clod-climate must be taken.
 
