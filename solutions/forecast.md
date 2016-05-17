@@ -11,7 +11,7 @@ featured-img-url: vortex-solutions-forecastfoto.png
 icon-url: vortex-solutions-forecast-icon-128.png
 ---
 
-<p class="lead">Vortex forecast solution combines cutting edge modeling resources with a state-of-the-art statistical approach to provide a fast and reliable service oriented to the customer needs.</p>
+<p class="lead">Vortex FORECAST solution combines cutting edge modeling resources with a state-of-the-art statistical approach to provide a fast and reliable service oriented to the customer needs.</p>
 
 Vortex provides solutions for a wide spectrum of clients: energy traders, IPPs, system operators, etc., and needs, from wind farms with a large number of operating hours and high availability of data, to projects in (pre-)construction phase or expansion.
 
