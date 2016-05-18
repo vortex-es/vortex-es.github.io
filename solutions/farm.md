@@ -11,7 +11,7 @@ featured-img-url: vortex-solutions-farmfoto.jpg
 icon-url: vortex-solutions-farm-icon-128.png
 ---
 
-<p class="lead">Probably the most complete modeling product on the market: long-term statistics within an area plus high-resolution temperature, mean wind, extreme wind (Vref) and turbulence maps. </br> <font color="red">Now with the ability to be calibrated with measurements!</font></p>
+<p class="lead">Probably the most complete modeling product on the market: long-term statistics within an area plus high-resolution temperature, mean wind, extreme wind (Vref) and turbulence maps. </br> <b>Now with the ability to be calibrated with measurements!</b></p>
 
 ## When to use FARM?
 
