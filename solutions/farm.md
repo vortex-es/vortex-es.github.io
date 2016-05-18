@@ -31,9 +31,9 @@ When the wind farm area is already selected but not yet the turbine locations or
 - Sector-wise inflow angle and vertical shear.
 - Exportable to Google Earth KML, ESRI grid and WAsP WRG files for WindPro, WindFARMer, OpenWind....
 
-<div class="well well-sm ox_animate_when_almost_visible ox_bottom-to-top">
-  <b> NEW! Calibrate your WRG with measurements!</b></br>
+## NEW! Calibrate your WRG with measurements!
 
+<div class="well well-sm ox_animate_when_almost_visible ox_bottom-to-top">
   Satisfied with Vortex windfield patterns but concerned about deviations from your local measurements? We now offer you a free solution!</br>
   
   Vortex Remodeling technology has been extended to 3-D not only to extrapolate your measurements over time but also to interpolate them across space at sites where one or more meteorological masts are available.
