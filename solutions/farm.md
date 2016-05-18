@@ -37,6 +37,6 @@ When the wind farm area is already selected but not yet the turbine locations or
   Satisfied with Vortex windfield patterns but concerned about deviations from your local measurements? We now offer you a free solution!  Vortex Remodeling technology has been extended to 3-D not only to extrapolate your measurements over time but also to interpolate them across space at sites where one or more meteorological masts are available.
 </div>
 
-<div>
+<i>
    3D-Remodeling is the natural extension of (<a href="../docs/EWEA2014_Atortosa.pdf" target="_blank">Tortosa et al. 2014</a>) Remodeling technology developed for single-point time-extrapolations. 1D-Remodeling has proven utmost performance over more than 2000 applications all around the globe. Unlike other calibration methods based on simplified sector-wise distributions,3D-Remodeling takes particular care not to degrade the quality of the information that each source, model and observations, provides independently by mixing a spatial-temporal set of non-linear, multivariate algorithms that work exclusively in the time-series domain.</small>
-</div>
+</i>
