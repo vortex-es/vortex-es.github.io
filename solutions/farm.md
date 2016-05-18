@@ -11,7 +11,7 @@ featured-img-url: vortex-solutions-farmfoto.jpg
 icon-url: vortex-solutions-farm-icon-128.png
 ---
 
-<p class="lead">Probably the most complete modeling product on the market: long-term statistics within an area plus high-resolution temperature, mean wind, extreme wind (Vref) and turbulence maps.</p>
+<p class="lead">Probably the most complete modeling product on the market: long-term statistics within an area plus high-resolution temperature, mean wind, extreme wind (Vref) and turbulence maps. Now with the ability to be calibrated with measurements!</p>
 
 ## When to use FARM?
 
@@ -22,7 +22,8 @@ When the wind farm area is already selected but not yet the turbine locations or
 - Fully selectable areas in size, location and orientation.
 - Up to 100 m resolution.
 - Any height between 50 and 150 m.
-- Unlimited points within the selected area.
+- Unlimited met. mast measurement inputs for calibration purposes.
+- Unlimited turbine location outputs within the selected area.
 - Wind speed histograms with their Weibull fits.
 - 16 sectors wind direction rose.
 - 50 years extreme wind (Vref) via 30 years Gumbel fit.
