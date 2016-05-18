@@ -11,7 +11,7 @@ featured-img-url: vortex-solutions-farmfoto.jpg
 icon-url: vortex-solutions-farm-icon-128.png
 ---
 
-<p class="lead">Probably the most complete modeling product on the market: long-term statistics within an area plus high-resolution temperature, mean wind, extreme wind (Vref) and turbulence maps. </br> <b>Now with the ability to be calibrated with measurements!</b></p>
+<p class="lead">Probably the most complete modeling product on the market: long-term statistics within an area plus high-resolution temperature, mean wind, extreme wind (Vref) and turbulence maps. <b>Now with the ability to be calibrated with measurements!</b></p>
 
 ## When to use FARM?
 
@@ -31,7 +31,7 @@ When the wind farm area is already selected but not yet the turbine locations or
 - Sector-wise inflow angle and vertical shear.
 - Exportable to Google Earth KML, ESRI grid and WAsP WRG files for WindPro, WindFARMer, OpenWind....
 
-## <font color="red">NEW!</font> Calibrate your WRG with measurements!
+## <font color="red">NEW!</font> Calibrate your WRGs with measurements
 
 <div class="well well-sm ox_animate_when_almost_visible ox_bottom-to-top">
   Satisfied with Vortex windfield patterns but concerned about deviations from your local measurements? We now offer you a free solution!  Vortex Remodeling technology has been extended to 3-D not only to extrapolate your measurements over time but also to interpolate them across space at sites where one or more meteorological masts are available.
