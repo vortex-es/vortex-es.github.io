@@ -19,6 +19,8 @@ published: true
 
 ##  Calibrate your WRG with measurements
 
-Satisfied with Vortex windfield patterns but concerned about deviations from your local measurements? We now offer you a free solution! Vortex Remodeling technology has been extended to 3-D not only to extrapolate your measurements over time but also to interpolate them across space at sites where one or more meteorological masts are available.
+Satisfied with Vortex windfield patterns but concerned about deviations from your local measurements? We now offer you a free solution!
+
+Vortex Remodeling technology has been extended to 3-D not only to extrapolate your measurements over time but also to interpolate them across space at sites where one or more meteorological masts are available.
 
 Free-of-cost for new Runs!
