@@ -21,6 +21,6 @@ published: true
 
 Satisfied with Vortex windfield patterns but concerned about deviations from your local measurements? We now offer you a free solution!
 
-Vortex Remodeling technology has been extended to 3-D not only to extrapolate your measurements over time but also to interpolate them across space at sites where one or more meteorological masts are available.
+Vortex Remodeling technology has been extended to 3-D not only to extrapolate your measurements over time but also to interpolate them across space at sites where one or more meteorological masts are available within the area of a <a href="../solutions/farm.html">FARM</a>.
 
 Free-of-cost for new Runs!
