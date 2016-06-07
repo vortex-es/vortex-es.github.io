@@ -13,7 +13,7 @@ icon-url: vortex-solutions-sTMY-icon-128.png
 
 <p class="lead">Typical Meteorological Year</p>
 
-Vortex TMy has been designed by concatenation of the most rep- resentative months according to industry standards.
+Vortex TMy has been designed by concatenation of the most representative months according to industry standards.
 
 ## When to use TMY?
 
