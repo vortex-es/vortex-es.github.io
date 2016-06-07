@@ -11,7 +11,7 @@ featured-img-url: vortex-solutions-sSeriesfoto.png
 icon-url: vortex-solutions-sSeries-icon-128.png
 ---
 
-<p class="lead">Vortex Solar SERIES span look back more than two decades, providing homogeneous and accurate long-term irradiance time-series, anywhere. Combinable with your local measurements by means of proprietary ReModelling technology.</p>
+<p class="lead">Vortex Solar SERIES span look back more than two decades, providing homogeneous and accurate long-term irradiance time-series, anywhere. Site-adaptable to your local measurements by means of proprietary ReModelling technology.</p>
 
 ## When to use SERIES?
 
