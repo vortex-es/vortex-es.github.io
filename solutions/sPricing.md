@@ -18,7 +18,6 @@ keywords: solar, development, decisions, measuring
 				</div>
 				<ul class="list-group list-group-flush text-center">
 					<li class="list-group-item"><i class="icon-ok text-info"></i> Full access to a global irradiation map</li>
-					<li class="list-group-item"><i class="icon-ok text-info"></i> One-click away long-term site-specific summary reports</li>
 					<li class="list-group-item"><i class="icon-ok text-info"></i> 6-month time-series for correlate purposes</li>
 				</ul>
 				<div class="panel-footer">
@@ -54,17 +53,12 @@ keywords: solar, development, decisions, measuring
 				<div class="panel-heading"><h3 class="text-center">Subscriptions</h3></div>
 				<div class="panel-body text-center">
 				<p class="lead" style="font-size:40px"><strong>
-				Cost-effective flat-rates
-				<!--Flat rate S3 2.100 €/month
-				<br/>Flat rate S2 3.000 €/month
-				<br/>Flat rate S1 5.900 €/month-->
+				A cost-effective flat-rate
 				</strong></p> 
 				</div>
 				<ul class="list-group list-group-flush text-center">
-					<li class="list-group-item"><i class="icon-ok text-default"></i> Unlimited sequential runs of any Solar Vortex product</li>
-					<li class="list-group-item"><i class="icon-ok text-default"></i> Minimum permanence 6 months. Progressive discounts for longer permanences.</li>
-					<li class="list-group-item"><i class="icon-ok text-default"></i> Guaranteed delivery times.</li>
-				</ul>
+					<li class="list-group-item"><i class="icon-ok text-default"></i> Unlimited monthly repports and TMYs for 600 €/year</li>
+					<li class="list-group-item"><i class="icon-ok text-default"></i> Minimum 1-year access. Progressive discounts for longer permanences.</li>
 				<div class="panel-footer">
 					<a class="btn btn-lg btn-block btn-default" href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a>
 				</div>
