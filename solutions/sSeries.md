@@ -29,7 +29,7 @@ When trends over time are required for your analysis and/or when local short-ter
 - Site-adapted to your local measurements at no cost.
 - Unlimited 6-month samples.
 - Selectable time zone to match measurements timestamp.
-- Uncertainty: methodology & approach
+- Uncertainty repport included with each SERIES
 
 ### Accuracy validation:
 
