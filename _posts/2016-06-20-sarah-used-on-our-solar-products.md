@@ -7,7 +7,7 @@ date: "2016-06-20 00:00:00"
 layout: blog
 slug: “Welcome to the team, SARAH”
 title: "Welcome to the team, SARAH"
-"featured-img-url": sarah.png
+"featured-img-url": sarah.jpg
 "featured-img-alt": SARAH
 tags: null
 meta: Vortex Solar ingests SARAH and IODC
