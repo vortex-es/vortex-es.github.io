@@ -17,7 +17,7 @@ keywords: "vortex, radiation, solar, CM-SAF, SARAH, Meteosat, IODC"
 published: true
 ---
 
-##  Welcome to the team SARAH!
+##  Welcome to the team, SARAH!
 
 
 Time goes fast! At Vortex we have just celebrated the first anniversary of our Solar service and we have some exciting news for our users:
