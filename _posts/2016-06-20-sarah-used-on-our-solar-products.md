@@ -28,9 +28,3 @@ Time goes fast! At Vortex we have just celebrated the first anniversary of our S
        
 -A new €600 annual subscription, giving access to an unlimited number of monthly TMY files, is now available for all Vortex registered users.
 
-Please do not hesitate to <a href=mailto:info@vortex.es?subject=SARAH> contact us</a> if your require further information.
-
-
-
-
-
