@@ -2,7 +2,7 @@
 layout: resources
 slug: modelling-the-freeze
 title: Modelling the freeze
-categories: resources
+categories: [resources, technical-docs]
 featured-img-url: modelling-the-freeze.png
 featured-img-alt: Modelling the freeze
 docs-url: modelling_icing.htm
