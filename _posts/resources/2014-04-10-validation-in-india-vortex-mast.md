@@ -2,7 +2,7 @@
 layout: resources
 slug: validation-in-india-vortex-mast
 title: "Validation India: Vortex MAST"
-categories: resources
+categories: [resources, validations]
 featured-img-url: validation-in-india-vortex-mast.png
 featured-img-alt: "Validation India: Vortex MAST"
 docs-url: IndiaVORTEXvalidation.pdf
