@@ -2,7 +2,7 @@
 layout: resources
 slug: wind-anomalies-mexico
 title: "2015 Wind Anomalies in Mexico"
-categories: resources
+categories: [resources, anomaly-wind-maps]
 featured-img-url: mexico_anomaly_2015.png
 featured-img-alt: 2015 Wind Anomalies in Mexico
 docs-url: vortex_wind_anomalies_2015_mexico.pdf
