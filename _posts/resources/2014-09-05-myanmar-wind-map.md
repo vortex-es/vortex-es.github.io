@@ -2,7 +2,7 @@
 layout: resources
 slug: myanmar-wind-map
 title: "Myanmar Wind Map"
-categories: resources
+categories: [resources, wind-maps]
 featured-img-url: myanmar-wind-map.png
 featured-img-alt: Myanmar Wind Map
 docs-url: vortex_3km_myanmar_wind_map_resource.pdf
