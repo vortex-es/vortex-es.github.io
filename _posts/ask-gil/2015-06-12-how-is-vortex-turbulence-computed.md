@@ -1,7 +1,7 @@
 ---
 categories: "ask-gil"
 published: true
-title: "2015-06-12 How is Vortex turbulence computed?"
+title: "How is Vortex turbulence computed?"
 layout: "gil-faq"
 author: gil
 ---
