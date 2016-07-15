@@ -2,7 +2,7 @@
 layout: resources
 slug: brazil-solar-map
 title: "Brazil Solar Map"
-categories: resources
+categories: [resources, solar-maps]
 featured-img-url: brazil-solar-map.png
 featured-img-alt: Brazil Solar Map
 docs-url: vortex_brazil_solar_map_resource.pdf
