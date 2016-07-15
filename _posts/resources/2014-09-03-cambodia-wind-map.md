@@ -2,7 +2,7 @@
 layout: resources
 slug: cambodia-wind-map
 title: "Cambodia Wind Map"
-categories: resources
+categories: [resources, wind-map]
 featured-img-url: cambodia-wind-map.png
 featured-img-alt: Cambodia Wind Map
 docs-url: vortex_3km_cambodia_wind_map_resource.pdf
