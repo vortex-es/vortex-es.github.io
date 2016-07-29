@@ -2,7 +2,7 @@
 layout: resources
 slug: wind-anomalies-brazil-uruguay
 title: "2014 Wind Anomalies in Brazil and Uruguay"
-categories: resources
+categories: [resources, anomaly-wind-maps]
 featured-img-url: brazil-uruguay-anomaly.png
 featured-img-alt: 2014 Wind Anomalies in Brazil and Uruguay
 docs-url: vortex_wind_anomalies_2014_Brazil_Uruguay.pdf

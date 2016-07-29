@@ -2,7 +2,7 @@
 layout: resources
 slug: honduras-wind-map
 title: "Honduras Wind Map"
-categories: resources
+categories: [resources, wind-maps]
 featured-img-url: honduras-wind-map.png
 featured-img-alt: Honduras Wind Map
 docs-url: vortex_3km_honduras_wind_map_resource.pdf

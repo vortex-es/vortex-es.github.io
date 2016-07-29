@@ -2,7 +2,7 @@
 layout: resources
 slug: morocco-wind-map
 title: "Morocco Wind Map"
-categories: resources
+categories: [resources, wind-maps]
 featured-img-url: morocco-wind-map.png
 featured-img-alt: Morocco Wind Map
 docs-url: vortex_3km_morocco_wind_map_resource.pdf

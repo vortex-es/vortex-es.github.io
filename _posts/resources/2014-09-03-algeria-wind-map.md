@@ -2,7 +2,7 @@
 layout: resources
 slug: algeria-wind-map
 title: "Algeria Wind Map"
-categories: resources
+categories: [resources, wind-map]
 featured-img-url: algeria-wind-map.png
 featured-img-alt: Algeria Wind Map
 docs-url: vortex_3km_algeria_wind_map_resource.pdf

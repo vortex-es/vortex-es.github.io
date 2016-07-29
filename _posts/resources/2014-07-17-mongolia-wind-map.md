@@ -2,7 +2,7 @@
 layout: resources
 slug: mongolia-wind-map
 title: "Mongolia Wind Map"
-categories: resources
+categories: [resources, wind-maps]
 featured-img-url: mongolia-wind-map.png
 featured-img-alt: Mongolia Wind Map
 docs-url: vortex_3km_mongolia_wind_map_resource.pdf

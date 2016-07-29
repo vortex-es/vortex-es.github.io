@@ -2,7 +2,7 @@
 layout: resources
 slug: panama-wind-map
 title: "Panama Wind Map"
-categories: resources
+categories: [resources, wind-maps]
 featured-img-url: panama-wind-map.png
 featured-img-alt: Panama Wind Map
 docs-url: vortex_3km_panama_wind_map_resource.pdf

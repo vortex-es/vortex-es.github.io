@@ -2,7 +2,7 @@
 layout: resources
 slug: kenya-wind-map
 title: "Kenya Wind Map"
-categories: resources
+categories: [resources, wind-maps]
 featured-img-url: kenya-wind-map.png
 featured-img-alt: Kenya Wind Map
 docs-url: vortex_3km_kenya_wind_map_resource.pdf

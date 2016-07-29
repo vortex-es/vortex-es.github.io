@@ -1,5 +1,5 @@
 ---
-layout: resources
+layout: [resources, technical-docs]
 slug: on-the-benefit-of-a-multivariate-description-of-wind-for-a-better-long-term-extrapolation
 title: On the benefit of a multivariate description of wind for a better long-term extrapolation
 categories: resources

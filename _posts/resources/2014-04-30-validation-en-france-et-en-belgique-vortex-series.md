@@ -2,7 +2,7 @@
 layout: resources
 slug: validation-en-france-et-en-belgique-vortex-series
 title: "Validation en France et Belgique: Vortex SERIES"
-categories: resources
+categories: [resources, validations]
 featured-img-url: validation-en-france-et-en-belgique-vortex-series.png
 featured-img-alt: "Validation en France et Belgique: Vortex SERIES"
 docs-url: FranceValidation.pdf

@@ -2,7 +2,7 @@
 layout: resources
 slug: wind-fields-calibration
 title: "Vortex 3D FARM Remodeling"
-categories: resources
+categories: [resources, technical-docs]
 featured-img-url: windpowermonthly_2016.png
 featured-img-alt: Vortex 3D FARM Remodeling
 docs-url: WPM.PauCasso.2016.pdf
