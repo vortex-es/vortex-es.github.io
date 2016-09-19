@@ -17,9 +17,10 @@ keywords: "vortex, Large Eddy Simulations, LES, gust, shear, model "
 published: true
 ---
 
-##  LES* IS MORE! Large Eddy Simulations by Vortex
+<span style="color:green">  ##LES*</span> IS MORE! <span style="color:green"> Large Eddy Simulations</span> by Vortex
 
-Have you ever wished to have a time series of measurements at each turbine position of your planned or existing wind farm? Now, you can get something outstandingly similar!
+<span style="color:green"> 
+**Have you ever wished to have a time series of measurements at each turbine position of your planned or existing wind farm? Now, you can get something outstandingly similar!**</span>
 
 After two years of development on NCAR's cutting-egde WRF-LES model, we are proud to offer you probably the most measurement-like set of synthetic wind time series currently available on the market: Vortex Large Eddy Simulations (LES)
 Vortex LES main characteristics:
@@ -37,4 +38,4 @@ After a 100+ site validation, Large Eddy Simulations comes of age: in recent dec
 Would you like to learn more?
 Contact us for an invitation to join the Vestas/Vortex LES launch lunch at WindEnergy Hamburg on September, 29th
 
-Have you already participated in our <a href=http://www.surveygizmo.com/s3/3027356/Vortex-LES-contest>contest</a>?
+Have you already participated in our <a href="http://www.surveygizmo.com/s3/3027356/Vortex-LES-contest">contest</a>?
