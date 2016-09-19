@@ -36,3 +36,5 @@ After a 100+ site validation, Large Eddy Simulations comes of age: in recent dec
 
 Would you like to learn more?
 Contact us for an invitation to join the Vestas/Vortex LES launch lunch at WindEnergy Hamburg on September, 29th
+
+Have you already participated in our <a href=http://www.surveygizmo.com/s3/3027356/Vortex-LES-contest>contest</a>?
