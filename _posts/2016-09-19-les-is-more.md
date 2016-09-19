@@ -20,8 +20,9 @@ published: true
 ## <span style="color:green">LES*</span> IS MORE! <span style="color:green"> Large Eddy Simulations</span> by Vortex
 
 <span style="color:green"> 
-**Have you ever wished to have a time series of measurements at each turbine position of your planned or existing wind farm? Now, you can get something outstandingly similar!**
+**Have you ever wished to have a time series of measurements at each turbine position of your planned or existing wind farm? Now, you can get something outstandingly similar!**</span>
 
+<span style="color:green">
 After two years of development on NCAR's cutting-egde WRF-LES model, we are proud to offer you probably the most measurement-like set of synthetic wind time series currently available on the market: Vortex Large Eddy Simulations (LES)
 </span>
 
