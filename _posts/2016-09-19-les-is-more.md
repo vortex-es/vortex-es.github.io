@@ -23,8 +23,9 @@ Have you ever wished to have a time series of measurements at each turbine posit
 
 After two years of development on NCAR's cutting-egde WRF-LES model, we are proud to offer you probably the most measurement-like set of synthetic wind time series currently available on the market: Vortex Large Eddy Simulations (LES)
 Vortex LES main characteristics:
-<ul>
+
 Deliverables: 
+<ul>
 <li> 1 full-year, 10' averages, 3'' standard deviation (speed & direction) and gust (speed)</li>
 <li> All heights included for shear and veer calculation</li>
 <li> Available anywhere; no measurements needed</li>
