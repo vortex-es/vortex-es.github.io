@@ -5,12 +5,12 @@ categories:
   - "no-cita"
 date: "2016-09-19 00:00:00"
 layout: blog
-slug: “LES* IS MORE! Large Eddy Simulations by Vortex”
-title: "LES* IS MORE! Large Eddy Simulations by Vortex"
+slug: “LES* IS MORE! *Large Eddy Simulations by Vortex”
+title: "LES IS MORE!"
 "featured-img-url": les.gif
 "featured-img-alt": LES
 tags: null
-meta: Vortex Solar ingests SARAH and IODC
+meta: Vortex Large Eddy Simulations
 excerpt: "After two years of development on NCAR's cutting-egde WRF-LES model, we are proud to offer you probably the most measurement-like set of synthetic wind time series currently available on the market"
 author: vortex
 keywords: "vortex, Large Eddy Simulations, LES, gust, shear, model "
