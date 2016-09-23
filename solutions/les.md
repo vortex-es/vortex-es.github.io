@@ -3,7 +3,7 @@ layout: solutions
 slug: solutions
 class: solutions-solution
 class2: wind-and-site
-title: LES
+title: LES (Large Eddy Simulations)
 subtitle:
 keywords: 
 register: true
@@ -12,7 +12,7 @@ icon-url: vortex-solutions-les-icon-128.png
 ---
 
 <p class="lead">Did you ever wish to have a (turbulent) measurements time-series at each turbine position of your planned or existing wind farm?
-Now, you can get somethingÂ outstandingly similar: Vortex implementation of cutting-edge NCAR's model WRF-LES produces something outstandingly similar Vortex Large Eddy Simulations are probably the most measurement-like sets of synthetic wind time-series currently available in the market.</p>
+Now, you can get something outstandingly similar: Vortex implementation of cutting-edge NCAR's model WRF-LES produces something outstandingly similar Vortex Large Eddy Simulations are probably the most measurement-like sets of synthetic wind time-series currently available in the market.</p>
 
 ## When to use LES?
 
