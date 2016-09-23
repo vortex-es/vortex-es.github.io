@@ -11,7 +11,7 @@ title: "LES IS MORE!"
 "featured-img-alt": LES
 tags: null
 meta: Vortex Large Eddy Simulations
-excerpt: "After two years of development on NCAR's cutting-egde WRF-LES model, we are proud to offer you probably the most measurement-like set of synthetic wind time series currently available on the market"
+excerpt: "After two years of development on NCAR's WRF-LES model, we are proud to offer you probably the most measurement-like set of synthetic wind time series currently available on the market"
 author: vortex
 keywords: "vortex, Large Eddy Simulations, LES, gust, shear, model "
 published: true
