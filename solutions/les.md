@@ -7,7 +7,7 @@ title: LES (Large Eddy Simulations)
 subtitle:
 keywords: 
 register: true
-featured-img-url: wrf-les.gif
+featured-img-url: les.gif
 icon-url: vortex-solutions-les-icon-128.png
 ---
 
