@@ -11,8 +11,8 @@ featured-img-url: les.gif
 icon-url: vortex-solutions-les-icon-128.png
 ---
 
-<p class="lead">Did you ever wish to have a (turbulent) measurements time-series at each turbine position of your planned or existing wind farm?
-Now, you can get something outstandingly similar: Vortex implementation of cutting-edge NCAR's model WRF-LES produces something outstandingly similar Vortex Large Eddy Simulations are probably the most measurement-like sets of synthetic wind time-series currently available in the market.</p>
+<p class="lead">Did you ever wish to have a (turbulent) measurements time-series at each turbine position of your planned or existing wind farm? Now, you can get something outstandingly similar! After two years of development on NCAR's cutting-egde WRF-LES model, we are proud to offer you probably the most measurement-like set of synthetic wind time series currently available on the market: Vortex Large Eddy Simulations (LES)<p>
+
 
 ## When to use LES?
 
