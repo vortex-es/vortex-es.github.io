@@ -3,7 +3,7 @@ layout: solutions
 slug: solutions
 class: solutions-solution
 class2: forecast
-title: INSIGHT 
+title: INDEX 
 register: true
 subtitle:
 keywords:
