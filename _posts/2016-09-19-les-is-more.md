@@ -30,7 +30,7 @@ Vortex LES main characteristics:
 Deliverables: 
 <ul>
 <li> Powered by NCAR's cutting-edge WRF-LES model</li>
-<li> 1 full-year, 10' averages, 3'' standard deviation (speed & direction) and gust (speed)</li>
+<li> 1 full-year, 10' averages, 3'' std. dev. (speed & direction) and gust (speed)</li>
 <li> All heights included for shear and veer calculation</li>
 <li> Available anywhere; no measurements needed</li>
 <li> Delivered in 5-6 days </li>
