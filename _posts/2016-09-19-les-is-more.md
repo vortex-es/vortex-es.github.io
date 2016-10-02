@@ -22,7 +22,7 @@ published: true
 ## <span style="color:green"> *Large Eddy Simulations</span> by Vortex
 
 <span style="color:green"> 
-**Have you ever wished to have a time series of measurements at each turbine position of your planned or existing wind farm?
+**Have you ever wished to have a time series of measurements at each turbine position of your planned or existing wind farm?<br>
 Now, you can get something outstandingly similar!**</span>
 
 Vortex LES main characteristics:
