@@ -16,7 +16,7 @@ icon-url: vortex-solutions-les-icon-128.png
 
 ## When to use LES?
 
-When (turbulent) measurement time-series are missing or incomplete.
+When measurement time-series are missing or incomplete.
 
 ### Technical details:
 
