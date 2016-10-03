@@ -21,9 +21,9 @@ When measurement time-series are missing or incomplete.
 ### Technical details:
 
 - Any location world-wide, both on and off-shore.
-- 100 m resolution, centered on the selected point.
+- No measurements needed
 - 1-full year period: selectable or long-term representative.
-- Real 10-min average records.
+- Real (Physically computed) 10-min average records.
 - Based on 3-second samples. Including maximum Gust.
 - Wind speed standard deviation allowing for Turbulence Intensity calculation.
 - All heights included from 50 to 150m allowing for shear and veer calculation.
