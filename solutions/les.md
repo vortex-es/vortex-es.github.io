@@ -30,6 +30,6 @@ When measurement time-series are missing or incomplete.
 - All heights included from 50 to 150m allowing for shear and veer calculation.
 - Selectable source: NCEP, NASA and ECMWF.
 
-## Would you like to learn more?
+### Would you like to learn more?
 
 Watch the Vortex LES launch <a href="http://www.vortexfdc.com/les-is-more">webinar</a> presented at WindEnergy Hamburg on September, 29th.
