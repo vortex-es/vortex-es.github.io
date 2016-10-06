@@ -22,12 +22,10 @@ published: true
 ## <span style="color:green"> *Large Eddy Simulations</span> by Vortex
 
 <span style="color:green"> 
-**Have you ever wished to have a time series of measurements at each turbine position of your planned or existing wind farm?<br>
+**Have you ever wished to have a time series of measurements at each turbine position of your planned or existing wind farm? 
 Now, you can get something outstandingly similar!**</span>
 
 Vortex LES main characteristics:
-
-Deliverables: 
 <ul>
 <li> Powered by NCAR's cutting-edge WRF-LES model</li>
 <li> 1 full-year, 10' averages, 3'' std. dev. (speed & direction) and gust (speed)</li>
