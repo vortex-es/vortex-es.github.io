@@ -34,7 +34,6 @@ Vortex LES main characteristics:
 <li> Delivered in 5-6 days </li>
 </ul>
 
-**After a 100+ site validation, Large Eddy Simulations comes of age:**<br>
-In recent decades, NCAR's WRF-LES model has "silently" being developed, mainly for academic purposes. Today, after an ambitious validation exercise in collaboration with Vestas, GE and others and partially presented at the American Meteorological Society, we are convinced that it is time for WRF-LES to face wind industry challenges!
+**After a 100+ site validation, Large Eddy Simulations comes of age:** In recent decades, NCAR's WRF-LES model has "silently" being developed, mainly for academic purposes. Today, after an ambitious validation exercise in collaboration with Vestas, GE and others and partially presented at the American Meteorological Society, we are convinced that it is time for WRF-LES to face wind industry challenges!
 
-Would you like to learn more? watch the Vortex LES <a href="http://www.surveygizmo.com/s3/3027356/Vortex-LES-contest">launch</a> presented at WindEnergy Hamburg on September, 29th.
+Would you like to learn more? browse the Vortex LES launch <a href="http://www.vortexfdc.com/les-is-more">slides</a> presented at WindEnergy Hamburg on September, 29th.
