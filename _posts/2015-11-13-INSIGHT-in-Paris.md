@@ -10,17 +10,17 @@ title: "We'll always have Paris..."
 "featured-img-url": Paris.jpg
 "featured-img-alt": Le basier de Hotel de Ville, Robert Doisneau
 tags: null
-meta: INSIGHT in Paris
-excerpt: "Meet us at EWEA's event and discover our new product: INSIGHT"
+meta: INDEX in Paris
+excerpt: "Meet us at EWEA's event and discover our new product: INDEX"
 author: vortex
-keywords: "vortex, INSIGHT, anomaly, Paris"
+keywords: "vortex, INDEX, anomaly, Paris"
 published: true
 ---
 
 ##   We'll always have Paris...
 
-Vortex's ultimate tool for windfarm performance analysis, INSIGHT, will be unveiled during EWEA's annual event in Paris next week. If are attending the exhibition, please come and visit us at booth J08 where we will be happy to personally introduce you to our latest development.
+Vortex's ultimate tool for windfarm performance analysis, INDEX, will be unveiled during EWEA's annual event in Paris next week. If are attending the exhibition, please come and visit us at booth J08 where we will be happy to personally introduce you to our latest development.
  
-Vortex <a href="/solutions/monthly.html">INSIGHT</a> puts your site-specific wind farm track record in context using long-term (20-years) wind and production anomalies analysis in a extremely easy-to-use, automated way.
+Vortex <a href="/solutions/monthly.html">INDEX</a> puts your site-specific wind farm track record in context using long-term (20-years) wind and production anomalies analysis in a extremely easy-to-use, automated way.
 
 À bientôt!
