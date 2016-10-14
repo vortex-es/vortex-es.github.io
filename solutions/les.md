@@ -32,6 +32,8 @@ When measurement time-series are missing or incomplete.
 
 ### Would you like to learn more?
 
-Watch the Vortex LES launch <a href="http://www.vortexfdc.com/les-is-more">webinar</a> presented at WindEnergy Hamburg on September, 29th.
+Watch the Vortex LES launch webinar:
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/kfIGSwOP2XU?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
+presented at WindEnergy Hamburg on September, 29th.
