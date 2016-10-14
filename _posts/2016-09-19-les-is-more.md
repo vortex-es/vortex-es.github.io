@@ -37,4 +37,4 @@ Vortex LES main characteristics:
 **After a 100+ site validation, Large Eddy Simulations comes of age:**<br>
 In recent decades, NCAR's WRF-LES model has "silently" being developed, mainly for academic purposes. Today, after an ambitious validation exercise in collaboration with Vestas, GE and others and partially presented at the American Meteorological Society, we are convinced that it is time for WRF-LES to face wind industry challenges!
 
-Learn more about Vortex LES in our launch <href="http://www.vortexfdc.com/assets/docs/les.htm" target="_blank">webinar</href>
+Learn more about Vortex LES by watching our launch <href="http://www.vortexfdc.com/assets/docs/les.htm" target="_blank">webinar</href> presented at WindEnergy Hamburg on September, 29th.
