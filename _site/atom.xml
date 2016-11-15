@@ -4,13 +4,24 @@
  <title></title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-11-15T15:40:00+01:00</updated>
+ <updated>2016-11-15T15:43:05+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>First impressions on ERA5</title>
+   <link href="http://localhost:4000/first-impressions-on-ERA5"/>
+   <updated>2016-11-15T00:00:00+01:00</updated>
+   <id>http://localhost:4000/first-impressions-on-ERA5</id>
+   <content type="html">&lt;h2 id=&quot;first-impressions-on-era5&quot;&gt;First impressions on ERA5&lt;/h2&gt;
+
+&lt;p&gt;ECMWF has just made available two month of data as teaser for their new coming reanalysis project, ERA5. ERA5 will finally give sense to the ERA-Interim name and replace it with a new set of data streams offering a significant amount of improvements…  &lt;a href=&quot;https://medium.com/@gil_lizcano/an-aperitif-with-era5-c5109a08958#.fbnpykn8p&quot;&gt;Read more&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Vortex Solar Specifications and Validation</title>
@@ -925,6 +936,19 @@ ed.montero@vortexfdc.com&lt;/p&gt;
 &lt;p&gt;No, sorry. One of Vortex’s main aims is to provide our customers with fast results. This is only possible by automating the calculation process. Accepting your own surface data as an input for the simulation would imply a certain degree of manual work (revisions, corrections, etc.) that would slow down the whole proces.&lt;/p&gt;
 
 &lt;p&gt;If you have finer resolution input data (and time to process it) our suggestion is that you locally run your own Microscale simulations with, for example WAsP or WindSim.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>At which height are Vortex SERIES computed?</title>
+   <link href="http://localhost:4000/at-which-height-are-vortex-series-computed"/>
+   <updated>2014-01-09T00:00:00+01:00</updated>
+   <id>http://localhost:4000/at-which-height-are-vortex-series-computed</id>
+   <content type="html">&lt;h1 id=&quot;at-which-height-are-vortex-series-computed&quot;&gt;At which height are Vortex SERIES computed?&lt;/h1&gt;
+
+&lt;p&gt;Vortex SERIES are delivered at any height between 50 and 150m a.g.l. However, be aware than SERIES are a Mesoscale product of 3km-resolution, thus not directly comparable against actual measurements at a particular point and height but designed for MCP (correlation) purposes only.&lt;/p&gt;
+
+&lt;p&gt;If you intend to compare modeling results against actual measurements you should simulate the atmosphere down to the Microscale. Our Microscale products MAST &amp;amp; FARM do contain modeling effects down to the 100m resolution and, depending on the terrain, many phenomena may occur between the 3km and 100m scales.&lt;/p&gt;
 </content>
  </entry>
  

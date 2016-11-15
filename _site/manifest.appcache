@@ -1,6 +1,6 @@
 CACHE MANIFEST
 
-# rev 2016-11-15 15:40:00 +0100
+# rev 2016-11-15 15:43:05 +0100
 
 CACHE:
 
@@ -69,6 +69,7 @@ http://localhost:4000/solutions/waves
 http://localhost:4000/markets/wind-and-site
 http://localhost:4000/resources/wind-map
 
+http://localhost:4000/first-impressions-on-ERA5/
 http://localhost:4000/vortex-solar-specifications-validation/
 http://localhost:4000/wrf-les-time-series-energy-modeling-validation/
 http://localhost:4000/les-is-more/
@@ -154,6 +155,7 @@ http://localhost:4000/remodel-your-series-to-perform-better/
 http://localhost:4000/come-meet-us-in-sunny-barcelona/
 http://localhost:4000/does-vortex-produce-reliable-results-within-a-forest/
 http://localhost:4000/i-have-altitude-or-roughness-data-at-a-finer-resolution-than-100m-may-i-use-them/
+http://localhost:4000/at-which-height-are-vortex-series-computed/
 http://localhost:4000/how-far-is-your-time-series-nearest-calculation-node-away-from-my-mast/
 http://localhost:4000/i-want-to-mcp-my-short-term-data-does-vortex-offer-time-series/
 http://localhost:4000/should-i-send-you-my-local-measurements-to-calibrate-your-model/

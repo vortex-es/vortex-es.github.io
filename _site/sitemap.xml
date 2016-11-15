@@ -2,10 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:4000/</loc>
-    <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+    <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+  
+    <url>
+      <loc>http://localhost:4000/first-impressions-on-ERA5</loc>
+      
+        <lastmod>2016-11-15T00:00:00+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
   
     <url>
       <loc>http://localhost:4000/vortex-solar-specifications-validation</loc>
@@ -1113,6 +1126,19 @@
     </url>
   
     <url>
+      <loc>http://localhost:4000/at-which-height-are-vortex-series-computed</loc>
+      
+        <lastmod>2014-01-09T00:00:00+01:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/how-far-is-your-time-series-nearest-calculation-node-away-from-my-mast</loc>
       
         <lastmod>2014-01-08T00:00:00+01:00</lastmod>
@@ -1337,7 +1363,7 @@
   <url>
     <loc>http://localhost:4000/404</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1350,7 +1376,7 @@
   <url>
     <loc>http://localhost:4000/about-us/accuracy</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1363,7 +1389,7 @@
   <url>
     <loc>http://localhost:4000/resources/anomaly-wind-maps</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1376,7 +1402,7 @@
   <url>
     <loc>http://localhost:4000/atom.xml</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1389,7 +1415,7 @@
   <url>
     <loc>http://localhost:4000/solutions/fMonthly</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1402,7 +1428,7 @@
   <url>
     <loc>http://localhost:4000/solutions/fPricing</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1415,7 +1441,7 @@
   <url>
     <loc>http://localhost:4000/solutions/farm</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1428,7 +1454,7 @@
   <url>
     <loc>http://localhost:4000/solutions/forecast-index</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1441,7 +1467,7 @@
   <url>
     <loc>http://localhost:4000/markets/forecast</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1454,7 +1480,7 @@
   <url>
     <loc>http://localhost:4000/solutions/forecast</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1467,7 +1493,7 @@
   <url>
     <loc>http://localhost:4000/solutions/icing</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1480,7 +1506,7 @@
   <url>
     <loc>http://localhost:4000/blog/</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1493,7 +1519,7 @@
   <url>
     <loc>http://localhost:4000/</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1506,7 +1532,7 @@
   <url>
     <loc>http://localhost:4000/about-us/</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1519,7 +1545,7 @@
   <url>
     <loc>http://localhost:4000/resources/</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1532,7 +1558,7 @@
   <url>
     <loc>http://localhost:4000/gil-faq/</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1545,7 +1571,7 @@
   <url>
     <loc>http://localhost:4000/markets/</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1558,7 +1584,7 @@
   <url>
     <loc>http://localhost:4000/solutions/</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1571,7 +1597,7 @@
   <url>
     <loc>http://localhost:4000/assets/docs/insight</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1584,7 +1610,7 @@
   <url>
     <loc>http://localhost:4000/assets/docs/les</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1597,7 +1623,7 @@
   <url>
     <loc>http://localhost:4000/solutions/les</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1610,7 +1636,7 @@
   <url>
     <loc>http://localhost:4000/manifest.appcache</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1623,7 +1649,7 @@
   <url>
     <loc>http://localhost:4000/solutions/maps</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1636,7 +1662,7 @@
   <url>
     <loc>http://localhost:4000/solutions/mast</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1649,7 +1675,7 @@
   <url>
     <loc>http://localhost:4000/solutions/monthly</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1662,7 +1688,7 @@
   <url>
     <loc>http://localhost:4000/solutions/off-shore-index</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1675,7 +1701,7 @@
   <url>
     <loc>http://localhost:4000/markets/offshore</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1688,7 +1714,7 @@
   <url>
     <loc>http://localhost:4000/solutions/pricing</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1701,7 +1727,7 @@
   <url>
     <loc>http://localhost:4000/privacy-policy</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1714,7 +1740,7 @@
   <url>
     <loc>http://localhost:4000/markets/references</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1727,7 +1753,7 @@
   <url>
     <loc>http://localhost:4000/solutions/sMaps</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1740,7 +1766,7 @@
   <url>
     <loc>http://localhost:4000/solutions/sPricing</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1753,7 +1779,7 @@
   <url>
     <loc>http://localhost:4000/solutions/sSeries</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1766,7 +1792,7 @@
   <url>
     <loc>http://localhost:4000/solutions/sTMY</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1779,7 +1805,7 @@
   <url>
     <loc>http://localhost:4000/search.json</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1792,7 +1818,7 @@
   <url>
     <loc>http://localhost:4000/bower_components/simple-jekyll-search/search.json</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1805,7 +1831,7 @@
   <url>
     <loc>http://localhost:4000/solutions/series</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1818,7 +1844,7 @@
   <url>
     <loc>http://localhost:4000/sitemap.xml</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1831,7 +1857,7 @@
   <url>
     <loc>http://localhost:4000/solutions/solar-index</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1844,7 +1870,7 @@
   <url>
     <loc>http://localhost:4000/resources/solar-map</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1857,7 +1883,7 @@
   <url>
     <loc>http://localhost:4000/solutions/solar</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1870,7 +1896,7 @@
   <url>
     <loc>http://localhost:4000/markets/solar</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1883,7 +1909,7 @@
   <url>
     <loc>http://localhost:4000/resources/technical-docs</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1896,7 +1922,7 @@
   <url>
     <loc>http://localhost:4000/terms-of-service</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1909,7 +1935,7 @@
   <url>
     <loc>http://localhost:4000/terms-of-use</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1922,7 +1948,7 @@
   <url>
     <loc>http://localhost:4000/timeline</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1935,7 +1961,7 @@
   <url>
     <loc>http://localhost:4000/resources/validations</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1948,7 +1974,7 @@
   <url>
     <loc>http://localhost:4000/solutions/waves</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1961,7 +1987,7 @@
   <url>
     <loc>http://localhost:4000/markets/wind-and-site</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -1974,7 +2000,7 @@
   <url>
     <loc>http://localhost:4000/resources/wind-map</loc>
     
-      <lastmod>2016-11-15T15:40:00+01:00</lastmod>
+      <lastmod>2016-11-15T15:43:05+01:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
