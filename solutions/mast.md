@@ -15,7 +15,7 @@ icon-url: vortex-solutions-mast-icon-128.png
 
 ## When to use MAST?
 
-Just before the decission of installing a real met. mast must be taken.
+Just before the decision of installing a real met. mast must be taken.
 
 ### Technical details:
 

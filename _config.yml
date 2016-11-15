@@ -1,6 +1,6 @@
 name:             'Vortex'
 url:              'http://www.vortexfdc.com'
-highlighter:      pygments
+highlighter:      rouge
 
 baseurl:
 permalink:        /:title
@@ -193,5 +193,3 @@ prose:
           element: "text"
           label: "Meta keywords"
           value: ""
-
-

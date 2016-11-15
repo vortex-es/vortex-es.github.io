@@ -1,13 +1,13 @@
 ---
 layout: resources
 slug: wind-fields-calibration
-title: "2016 Wind Fields Calibration by Using Time Series"
-categories: resources
+title: "Vortex 3D FARM Remodeling"
+categories: [resources, technical-docs]
 featured-img-url: windpowermonthly_2016.png
-featured-img-alt: 2016 Wind Fields Calibration by Using Time Series
+featured-img-alt: Vortex 3D FARM Remodeling
 docs-url: WPM.PauCasso.2016.pdf
 tags:
-meta: "2016 Wind Fields Calibration by Using Time Series"
+meta: "Vortex 3D FARM Remodeling. Accuracy improvement using site observations"
 excerpt: 
 author: vortex
 keywords: 

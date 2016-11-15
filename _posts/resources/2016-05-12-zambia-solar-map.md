@@ -2,7 +2,7 @@
 layout: resources
 slug: zambia-solar-map
 title: "Zambia Solar Map"
-categories: resources
+categories: [resources, solar-maps]
 featured-img-url: zambia-solar-map.png
 featured-img-alt: Zambia Solar Map
 docs-url: vortex_zambia_solar_map_resource.pdf

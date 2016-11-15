@@ -49,7 +49,7 @@ keywords: forecast, development, decisions, measuring
 		</div>
 		<div class="col-sm-6 col-md-4 pricing">
 			<div class="panel panel-info">
-				<div class="panel-heading"><h3 class="text-center">INSIGHT</h3></div>
+				<div class="panel-heading"><h3 class="text-center">INDEX</h3></div>
 				<div class="panel-body text-center">
 				<p class="lead" style="font-size:40px"><strong>Cost-effective flat-rates</strong></p> 
 				</div>

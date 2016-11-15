@@ -2,7 +2,7 @@
 layout: resources
 slug: evaluation-of-wrf-for-icing-events
 title: Evaluation of WRF for icing events
-categories: resources
+categories: [resources, technical-docs]
 featured-img-url: evaluation-of-wrf-for-icing-events.png
 featured-img-alt: evaluation of wrf for icing events
 docs-url: winterwind_2012.pdf

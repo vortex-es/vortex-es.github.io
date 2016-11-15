@@ -2,7 +2,7 @@
 layout: resources
 slug: farm-report-sample
 title: "Sample of Vortex Farm Report"
-categories: resources
+categories: [resources, technical-docs]
 featured-img-url: farm-report-sample.png
 featured-img-alt: Farm Report Sample
 docs-url: report_farm.pdf

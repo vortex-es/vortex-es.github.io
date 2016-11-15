@@ -2,7 +2,7 @@
 layout: resources
 slug: sri-lanka-wind-map
 title: "Sri Lanka Wind Map"
-categories: resources
+categories: [resources, wind-maps]
 featured-img-url: srilanka-wind-map.png
 featured-img-alt: Sri Lanka Wind Map
 docs-url: vortex_3km_srilanka_wind_map_resource.pdf
