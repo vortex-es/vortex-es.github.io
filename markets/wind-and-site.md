@@ -58,6 +58,6 @@ keywords: wind and site, farm, development, decisions, measuring
 	<area shape="rect" coords="404,228,454,278" href="{{ site.base_url }}/solutions/mast.html" alt="MAST" title="MAST"    />
 	<area shape="rect" coords="489,226,539,276" href="{{ site.base_url }}/solutions/farm.html" alt="FARM" title="FARM"    />
 	<area shape="rect" coords="556,228,606,278" href="{{ site.base_url }}/solutions/series.html" alt="SERIES" title="SERIES"    />
-	<area shape="rect" coords="813,226,863,276" href="{{ site.base_url }}/solutions/icing.html" alt="ICING" title="ICING"    />
+	<area shape="rect" coords="813,226,863,276" href="{{ site.base_url }}/solutions/les.html" alt="LES" title="LES"    />
 	</map>
 </div>
