@@ -17,16 +17,16 @@ After two years of development on NCAR cutting-egde WRF-LES model, we are proud 
 
 ## When to use LES?
 
-When measurement time-series are missing or incomplete.
+When  measured time series are not enough to characterize mean wind and turbulence across the wind farm.
 
 ### Technical details:
 
 - Any location world-wide, both on and off-shore.
-- No measurements needed
+- No measurements needed.
 - 1-full year period: selectable or long-term representative.
 - Physically computed 10-min average records.
-- Based on 3-second samples. Including maximum Gust.
-- Wind speed standard deviation allowing for Turbulence Intensity calculation.
+- Based on 4-Hz samples, including 3-second gust.
+- Wind-peed standard deviation allowing for Turbulence Intensity calculation.
 - All heights included from 50 to 150m allowing for shear and veer calculation.
 - Selectable source: NCEP, NASA and ECMWF.
 
