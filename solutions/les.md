@@ -26,7 +26,7 @@ When  measured time series are not enough to characterize mean wind and turbulen
 - 1-full year period: selectable or long-term representative.
 - Physically computed 10-min average records.
 - Based on 4-Hz samples, including 3-second gust.
-- Wind-peed standard deviation allowing for Turbulence Intensity calculation.
+- Wind-speed standard deviation for Turbulence Intensity calculation.
 - All heights included from 50 to 150m allowing for shear and veer calculation.
 - Selectable source: NCEP, NASA and ECMWF.
 
