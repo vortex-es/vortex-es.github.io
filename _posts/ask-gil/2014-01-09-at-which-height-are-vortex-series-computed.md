@@ -1,15 +1,14 @@
 ---
-categories: "ask-gil"
-layout: "gil-faq"
-slug: "at-which-height-are-vortex-series-computed"
-title: "At which height are Vortex SERIES computed?"
-"featured-img-url": null
-tags: null
-meta: "At which height are Vortex SERIES computed?"
+title: At which height are Vortex SERIES computed?
+date: 2014-01-09 00:00:00 Z
+categories:
+- ask-gil
+layout: gil-faq
+featured-img-url: 
+meta: At which height are Vortex SERIES computed?
 excerpt: Vortex SERIES are delivered at any height between 50 and 150m agl
 author: gil
-keywords: "vortex, company, experience, independence, collaborative"
-published: true
+keywords: vortex, company, experience, independence, collaborative
 ---
 
 # At which height are Vortex SERIES computed?

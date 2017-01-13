@@ -1,12 +1,13 @@
 ---
-layout: gil-faq
-slug: i-want-to-mcp-my-short-term data-does-vortex-offer-time-series
 title: I want to MCP my short-term data. Does Vortex offer time series?
-categories: ask-gil
-featured-img-url:
-tags:
+date: 2014-01-07 00:00:00 Z
+categories:
+- ask-gil
+layout: gil-faq
+featured-img-url: 
 meta: I want to MCP my short-term data. Does Vortex offer time series?
-excerpt: "Yes, Vortex SERIES provide Mesoscale reference time series: 10 years of hourly data at any location world wide."
+excerpt: 'Yes, Vortex SERIES provide Mesoscale reference time series: 10 years of
+  hourly data at any location world wide.'
 author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---

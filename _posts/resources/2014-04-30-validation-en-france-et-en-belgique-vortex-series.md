@@ -1,13 +1,14 @@
 ---
+title: 'Validation en France et Belgique: Vortex SERIES'
+date: 2014-04-30 00:00:00 Z
+categories:
+- resources
+- validations
 layout: resources
-slug: validation-en-france-et-en-belgique-vortex-series
-title: "Validation en France et Belgique: Vortex SERIES"
-categories: [resources, validations]
 featured-img-url: validation-en-france-et-en-belgique-vortex-series.png
-featured-img-alt: "Validation en France et Belgique: Vortex SERIES"
+featured-img-alt: 'Validation en France et Belgique: Vortex SERIES'
 docs-url: FranceValidation.pdf
-tags:
-meta: "Validation en France et Belgique: Vortex SERIES"
+meta: 'Validation en France et Belgique: Vortex SERIES'
 excerpt: 
 author: vortex
 keywords: 

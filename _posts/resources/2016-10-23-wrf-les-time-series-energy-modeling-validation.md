@@ -1,14 +1,16 @@
 ---
+title: WRF LES Time-Series Energy Modeling and Validation
+date: 2016-10-23 00:00:00 Z
+categories:
+- resources
+- technical-docs
 layout: resources
-slug:
-title: "WRF LES Time-Series Energy Modeling and Validation"
-categories: [resources, technical-docs]
 featured-img-url: wrf-les-validation.png
 featured-img-alt: WRF LES Time Series
 docs-url: wrf_les_timeseries_energy.pdf
-tags:
-meta: "LES, Wind, Large Eddy Simulations, Time SERIES, validation"
-excerpt:
+meta: LES, Wind, Large Eddy Simulations, Time SERIES, validation
+excerpt: 
 author: vortex
 keywords: WRF, Research, LES
 ---
+

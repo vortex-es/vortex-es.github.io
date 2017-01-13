@@ -1,7 +1,7 @@
 ---
+title: Forecast
 layout: markets
 slug: markets
-title: Forecast
 featured-img-url: 03-bg-slide-forecast-512.jpg
 subtitle: tomorrow's technology, today
 keywords: forecast, service, energy, management, imbalance

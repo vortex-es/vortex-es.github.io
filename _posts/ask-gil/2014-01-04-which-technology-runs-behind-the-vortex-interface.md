@@ -1,12 +1,13 @@
 ---
-layout: gil-faq
-slug: which-technology-runs-behind-the-vortex-interface
 title: Which technology runs behind the Vortex interface?
-categories: ask-gil
-featured-img-url:
-tags:
+date: 2014-01-04 00:00:00 Z
+categories:
+- ask-gil
+layout: gil-faq
+featured-img-url: 
 meta: Which technology runs behind the Vortex interface?
-excerpt: Vortex’s system core, WRF, is a sophisticated code that has been effectively employed to describe the physics and dynamics of atmospheric
+excerpt: Vortex’s system core, WRF, is a sophisticated code that has been effectively
+  employed to describe the physics and dynamics of atmospheric
 author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---

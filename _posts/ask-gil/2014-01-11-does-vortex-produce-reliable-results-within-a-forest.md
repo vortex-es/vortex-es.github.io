@@ -1,12 +1,13 @@
 ---
-layout: gil-faq
-slug: does-vortex-produce-reliable-results-within-a-forest
 title: Does Vortex produce reliable results within a forest?
-categories: ask-gil
-featured-img-url:
-tags:
+date: 2014-01-11 00:00:00 Z
+categories:
+- ask-gil
+layout: gil-faq
+featured-img-url: 
 meta: Does Vortex produce reliable results within a forest?
-excerpt: Vortex MAST results have been compared fairly successfully against user measurements taken inside or near a forest after certain precautions have been taken
+excerpt: Vortex MAST results have been compared fairly successfully against user measurements
+  taken inside or near a forest after certain precautions have been taken
 author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---

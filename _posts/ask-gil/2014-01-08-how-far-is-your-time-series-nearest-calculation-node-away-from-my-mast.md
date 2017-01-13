@@ -1,10 +1,10 @@
 ---
-layout: gil-faq
-slug: how-far-is-your-time-series-nearest-calculation-node-away-from-my-mast
 title: How far is your time series nearest calculation node away from my mast?
-categories: ask-gil
-featured-img-url:
-tags:
+date: 2014-01-08 00:00:00 Z
+categories:
+- ask-gil
+layout: gil-faq
+featured-img-url: 
 meta: How far is your time series nearest calculation node away from my mast?
 excerpt: Since SERIES (like all Vortex products) are computed on demand
 author: gil

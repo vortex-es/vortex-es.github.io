@@ -1,20 +1,18 @@
 ---
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-date: "2015-07-13 11:59:00"
-layout: blog
-slug: “economy-common-good”
 title: Vortex and the Economy for the Common Good
-"featured-img-url": Patri.jpg
-"featured-img-alt": Patricia Puig, Director of Happiness at Vortex
-tags: null
+date: 2015-07-13 11:59:00 Z
+categories:
+- infraestructura
+- general
+- no-cita
+layout: blog
+featured-img-url: Patri.jpg
+featured-img-alt: Patricia Puig, Director of Happiness at Vortex
 meta: Vortex Economy Common Good
-excerpt: Vortex is granted the Innovative Company in Conciliation and Time Prize by Barcelona Council and supports Christian Felber’s Economy for the Common Good
+excerpt: Vortex is granted the Innovative Company in Conciliation and Time Prize by
+  Barcelona Council and supports Christian Felber’s Economy for the Common Good
 author: vortex
-keywords: "vortex, wind patterns, anomaly, Turkey"
-published: true
+keywords: vortex, wind patterns, anomaly, Turkey
 ---
 
 ##   Vortex and the Economy for the Common Good

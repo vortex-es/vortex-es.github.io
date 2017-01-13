@@ -1,17 +1,16 @@
 ---
-categories: "ask-gil"
-layout: "gil-faq"
-slug: "first-impressions-on-ERA5"
-title: "First impressions on ERA5"
-"featured-img-url": null
-tags: null
-meta: "First impressions on ERA5"
-excerpt: ECMWF has just made available two month of data as teaser for their new coming reanalysis project, ERA5.
+title: First impressions on ERA5
+date: 2016-11-15 00:00:00 Z
+categories:
+- ask-gil
+layout: gil-faq
+featured-img-url: 
+meta: First impressions on ERA5
+excerpt: ECMWF has just made available two month of data as teaser for their new coming
+  reanalysis project, ERA5.
 author: gil
-keywords: "vortex, ERA5, ECMWF, model, mesoscale"
-published: true
+keywords: vortex, ERA5, ECMWF, model, mesoscale
 ---
-
 
 ##   First impressions on ERA5
 

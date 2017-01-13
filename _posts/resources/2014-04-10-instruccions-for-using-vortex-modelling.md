@@ -1,14 +1,16 @@
 ---
+title: Instruccions For Using Vortex Modelling
+date: 2014-04-10 00:00:00 Z
+categories:
+- resources
+- technical-docs
 layout: resources
-slug: instruccions-for-using-vortex-modelling
-title: "Instruccions For Using Vortex Modelling"
-categories: [resources,technical-docs]
 featured-img-url: instruccions-for-using-vortex-modelling.png
 featured-img-alt: Instruccions For Using Vortex Modelling
 docs-url: info.remodeling.pdf
-tags:
-meta: "Instruccions For Using Vortex Modelling"
+meta: Instruccions For Using Vortex Modelling
 excerpt: 
 author: vortex
 keywords: 
 ---
+

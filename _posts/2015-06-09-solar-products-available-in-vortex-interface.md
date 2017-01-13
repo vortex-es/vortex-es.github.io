@@ -1,22 +1,20 @@
 ---
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-published: true
 title: Solar Products Available in Vortex Interface
+date: 2015-06-09 11:59:00 Z
+categories:
+- infraestructura
+- general
+- no-cita
 layout: blog
-slug: "solar-products-available-in-vortex-interface"
-"featured-img-url": "2015-6 Vortex Solar.png"
-"featured-img-alt": Solar Products Available in Vortex Interface
+featured-img-url: 2015-6 Vortex Solar.png
+featured-img-alt: Solar Products Available in Vortex Interface
 author: vortex
-date: "2015-06-09 11:59:00"
 meta: Solar Products Available in Vortex Interface
-keywords: "vortex, solutions, solar, interface"
-excerpt: "Vortex Solar has been active in the rearguard for a while and today we are very pleased to announce that our cost-effective radiation products are available for automatic launch and download through Vortex Interface."
+keywords: vortex, solutions, solar, interface
+excerpt: Vortex Solar has been active in the rearguard for a while and today we are
+  very pleased to announce that our cost-effective radiation products are available
+  for automatic launch and download through Vortex Interface.
 ---
-
-
 
 ##  Solar Products Available in Vortex Interface
 

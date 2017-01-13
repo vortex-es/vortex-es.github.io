@@ -1,20 +1,18 @@
 ---
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-date: "2014-04-24 14:59:00"
-layout: blog
-slug: "vortex-lands-in-the-us"
 title: Vortex lands in the US
-"featured-img-url": "vortex-lands-in-us.jpg"
-"featured-img-alt": Vortex lands in the US
-tags: null
+date: 2014-04-24 14:59:00 Z
+categories:
+- infraestructura
+- general
+- no-cita
+layout: blog
+featured-img-url: vortex-lands-in-us.jpg
+featured-img-alt: Vortex lands in the US
 meta: Vortex lands in the US
-excerpt: "We are very pleased to announce that Vortex FdC Inc, fully owned subsidiary of Vortex SL, has recently started operations in Miami FL"
+excerpt: We are very pleased to announce that Vortex FdC Inc, fully owned subsidiary
+  of Vortex SL, has recently started operations in Miami FL
 author: vortex
-keywords: "vortex, US, company, industry"
-published: true
+keywords: vortex, US, company, industry
 ---
 
 # Vortex lands in the US

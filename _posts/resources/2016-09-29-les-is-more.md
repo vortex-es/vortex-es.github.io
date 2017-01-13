@@ -1,14 +1,16 @@
 ---
-layout: resources
-slug:
 title: LES IS MORE!
-categories: [resources, technical-docs]
+date: 2016-09-29 00:00:00 Z
+categories:
+- resources
+- technical-docs
+layout: resources
 featured-img-url: LesIsMore.png
 featured-img-alt: LES
 docs-url: LesIsMore.pdf
-tags:
 meta: LES, Wind, Large Eddy Simulation, validation, microscale
-excerpt:
+excerpt: 
 author: vortex
 keywords: WRF, Research, LES, Large Eddy Simulation
 ---
+

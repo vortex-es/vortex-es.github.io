@@ -1,13 +1,15 @@
 ---
-date: 2013-11-28 11:48:19
-layout: blog
-slug: turkiye-de-vortex-akreditasyon-calısmasi-sonucları
 title: Türkiye'de Vortex Akreditasyon Çalışması Sonuçları
-categories: [infraestructura, general, no-cita]
+date: 2013-11-28 11:48:19 Z
+categories:
+- infraestructura
+- general
+- no-cita
+layout: blog
 featured-img-url: turkiye-de-vortex-akreditasyon-calısmasi-sonucları.png
-tags:
 meta: Türkiye'de Vortex Akreditasyon Çalışması Sonuçları
-excerpt: VORTEX'in belli başlı hedeflerinden biri, sizlere rüzgar enerjisi alanında her zaman için en hassas ve güncel bilgileri sunmak olmuştur.
+excerpt: VORTEX'in belli başlı hedeflerinden biri, sizlere rüzgar enerjisi alanında
+  her zaman için en hassas ve güncel bilgileri sunmak olmuştur.
 author: vortex
 keywords: results, validation, vortex, india
 ---

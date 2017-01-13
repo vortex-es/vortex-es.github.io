@@ -1,10 +1,10 @@
 ---
-layout: gil-faq
-slug: how-accurate-is-vortex
 title: How accurate is Vortex?
-categories: ask-gil
-featured-img-url:
-tags:
+date: 2014-01-05 00:00:00 Z
+categories:
+- ask-gil
+layout: gil-faq
+featured-img-url: 
 meta: How accurate is Vortex?
 excerpt: Current Vortex system accuracy values are presented here.
 author: gil

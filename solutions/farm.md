@@ -1,10 +1,10 @@
 ---
+title: FARM
 layout: solutions
 slug: solutions
 class: solutions-solution
 class2: wind-and-site
-title: FARM
-subtitle:
+subtitle: 
 keywords: 
 register: true
 featured-img-url: vortex-solutions-farmfoto.jpg

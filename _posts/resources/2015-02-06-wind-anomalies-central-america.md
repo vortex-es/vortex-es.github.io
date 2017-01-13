@@ -1,14 +1,16 @@
 ---
+title: 2014 Wind Anomalies in Central America
+date: 2015-02-06 00:00:00 Z
+categories:
+- resources
+- anomaly-wind-maps
 layout: resources
-slug: wind-anomalies-central-america
-title: "2014 Wind Anomalies in Central America"
-categories: [resources, anomaly-wind-maps]
 featured-img-url: central-america-anomaly.png
 featured-img-alt: 2014 Wind Anomalies in Central America
 docs-url: vortex_wind_anomalies_2014_central_america.pdf
-tags:
-meta: "2014 Wind Anomalies in Central America"
+meta: 2014 Wind Anomalies in Central America
 excerpt: 
 author: vortex
 keywords: 
 ---
+

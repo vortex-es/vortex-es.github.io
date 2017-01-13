@@ -1,12 +1,13 @@
 ---
-layout: gil-faq
-slug: in-10-simple-words-how-does-vortex-work
 title: In "10" simple words, how does Vortex work?
-categories: ask-gil
-featured-img-url:
-tags:
+date: 2014-01-01 00:00:00 Z
+categories:
+- ask-gil
+layout: gil-faq
+featured-img-url: 
 meta: In "10" simple words, how does Vortex work?
-excerpt: Vortex uses a supercomputer cluster to run a non-linear flow model (WRF) that scales large atmospheric patterns
+excerpt: Vortex uses a supercomputer cluster to run a non-linear flow model (WRF)
+  that scales large atmospheric patterns
 author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---

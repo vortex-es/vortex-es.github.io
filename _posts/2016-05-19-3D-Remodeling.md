@@ -1,20 +1,18 @@
 ---
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-date: "2016-05-19 00:00:00"
+title: Calibrate your WRG with measurements
+date: 2016-05-19 00:00:00 Z
+categories:
+- infraestructura
+- general
+- no-cita
 layout: blog
-slug: “Calibrate your WRG with measurements”
-title: "Calibrate your WRG with measurements"
-"featured-img-url": 3D-Remodeling.png
-"featured-img-alt": 3D-Remodeling
-tags: null
+featured-img-url: 3D-Remodeling.png
+featured-img-alt: 3D-Remodeling
 meta: 3D-Remodeling
-excerpt: "Satisfied with Vortex windfield patterns but concerned about deviations from your local measurements? We now offer you a free solution!"
+excerpt: Satisfied with Vortex windfield patterns but concerned about deviations from
+  your local measurements? We now offer you a free solution!
 author: vortex
-keywords: "vortex, 3D-Remodeling"
-published: true
+keywords: vortex, 3D-Remodeling
 ---
 
 ##  Calibrate your WRG with measurements

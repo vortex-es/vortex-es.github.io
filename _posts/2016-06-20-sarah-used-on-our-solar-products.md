@@ -1,20 +1,18 @@
 ---
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-date: "2016-06-20 00:00:00"
+title: Welcome to the team, SARAH
+date: 2016-06-20 00:00:00 Z
+categories:
+- infraestructura
+- general
+- no-cita
 layout: blog
-slug: “Welcome to the team, SARAH”
-title: "Welcome to the team, SARAH"
-"featured-img-url": sarah.jpg
-"featured-img-alt": SARAH
-tags: null
+featured-img-url: sarah.jpg
+featured-img-alt: SARAH
 meta: Vortex Solar ingests SARAH and IODC
-excerpt: "Vortex Solar has recently benefited from ingesting CM-SAF's Surface Solar Radiation Data Set Heliosat (SARAH) and Meteosat Indian Ocean Data Coverage (IODC)."
+excerpt: Vortex Solar has recently benefited from ingesting CM-SAF's Surface Solar
+  Radiation Data Set Heliosat (SARAH) and Meteosat Indian Ocean Data Coverage (IODC).
 author: vortex
-keywords: "vortex, radiation, solar, CM-SAF, SARAH, Meteosat, IODC"
-published: true
+keywords: vortex, radiation, solar, CM-SAF, SARAH, Meteosat, IODC
 ---
 
 ##  Welcome to the team, SARAH!

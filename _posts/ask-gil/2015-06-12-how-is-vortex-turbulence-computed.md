@@ -1,17 +1,15 @@
 ---
-categories: "ask-gil"
-layout: "gil-faq"
-slug: "how-is-vortex-turbulence-computed"
-title: "How is Vortex turbulence computed?"
-"featured-img-url": null
-tags: null
-meta: "How is Vortex turbulence computed?"
+title: How is Vortex turbulence computed?
+date: 2015-06-12 00:00:00 Z
+categories:
+- ask-gil
+layout: gil-faq
+featured-img-url: 
+meta: How is Vortex turbulence computed?
 excerpt: We derive turbulence directly from our core model, WRF.
 author: gil
-keywords: "vortex, turbulence, WRF, model, mesoscale"
-published: true
+keywords: vortex, turbulence, WRF, model, mesoscale
 ---
-
 
 ##   How is Vortex turbulence computed?
 

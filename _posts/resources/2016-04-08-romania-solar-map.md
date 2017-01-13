@@ -1,14 +1,16 @@
 ---
+title: Romania Solar Map
+date: 2016-04-08 00:00:00 Z
+categories:
+- resources
+- solar-maps
 layout: resources
-slug: romania-solar-map
-title: "Romania Solar Map"
-categories: [resources, solar-maps]
 featured-img-url: romania-solar-map.png
 featured-img-alt: Romania Solar Map
 docs-url: vortex_romania_solar_map_resource.pdf
-tags:
-meta: "Romania Solar Map"
+meta: Romania Solar Map
 excerpt: 
 author: vortex
 keywords: 
 ---
+

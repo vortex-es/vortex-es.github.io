@@ -1,11 +1,11 @@
 ---
+title: FORECAST
 layout: solutions
 slug: solutions
 class: solutions-solution
 class2: forecast
-title: FORECAST 
 register: true
-subtitle:
+subtitle: 
 keywords: 
 featured-img-url: vortex-solutions-forecastfoto.png
 icon-url: vortex-solutions-forecast-icon-128.png

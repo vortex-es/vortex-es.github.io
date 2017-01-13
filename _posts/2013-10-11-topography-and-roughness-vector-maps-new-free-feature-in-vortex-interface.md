@@ -1,13 +1,16 @@
 ---
-date: 2013-10-11 11:48:19
-layout: blog
-slug: topography-and-roughness-vector-maps-new-free-feature-in-vortex-interface
 title: Topography and roughness vector maps new free feature in vortex interface
-categories: [infraestructura, general, no-cita]
+date: 2013-10-11 11:48:19 Z
+categories:
+- infraestructura
+- general
+- no-cita
+layout: blog
 featured-img-url: topography-and-roughness-vector-maps-new-free-feature-in-vortex-interface.png
-tags:
 meta: Topography and roughness vector maps new free feature in vortex interface
-excerpt: In addition to the world wind 9-km resolution map and 6-month time series for corporate users available in  VORTEX interface, we have now launched a new topography and roughness vector maps service.
+excerpt: In addition to the world wind 9-km resolution map and 6-month time series
+  for corporate users available in  VORTEX interface, we have now launched a new topography
+  and roughness vector maps service.
 author: vortex
 keywords: topography, roughness, vector, maps, new, free, feature, vortex, interface
 ---
