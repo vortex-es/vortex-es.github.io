@@ -1,20 +1,18 @@
 ---
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-date: "2016-04-13 10:00:00"
+title: Is your wind farm underperforming?
+date: 2016-04-13 10:00:00 Z
+categories:
+- infraestructura
+- general
+- no-cita
 layout: blog
-slug: "INSIGHT-MERRA2"
-title: "Is your wind farm underperforming?"
-"featured-img-url": vortex-solutions-monthlyfoto.jpg
-"featured-img-alt": Vortex INDEX
-tags: null
+featured-img-url: vortex-solutions-monthlyfoto.jpg
+featured-img-alt: Vortex INDEX
 meta: INDEX MERRA2
-excerpt: "Vortex INDEX has been designed to help both wind farm owners and manufacturers in the recurring debate about turbine underperformance."
+excerpt: Vortex INDEX has been designed to help both wind farm owners and manufacturers
+  in the recurring debate about turbine underperformance.
 author: vortex
-keywords: "vortex, INDEX, anomaly, MERRA2"
-published: true
+keywords: vortex, INDEX, anomaly, MERRA2
 ---
 
 ##  Is your wind farm underperforming?

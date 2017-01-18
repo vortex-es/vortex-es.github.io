@@ -1,195 +1,201 @@
-name:             'Vortex'
-url:              'http://www.vortexfdc.com'
-highlighter:      rouge
-
-baseurl:
-permalink:        /:title
-
+---
+title: Vortex Es.Github.Io
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Vortex
+url: http://www.vortexfdc.com
+highlighter: rouge
+baseurl: 
+permalink: "/:title"
 authors:
- vortex:
-  name: Vortex
-  display_name: Vortex
-  email: info@vortex.es
-  web: http://www.vortexfdc.com
- gil:
-  name: Gil
-  display_name: Gil
-  email: gil@vortex.es
-  web: http://www.vortexfdc.com
-
-# Server
-exclude:          ["LICENSE", "README.md",]
-port:             4000
-
-# Prose
+  vortex:
+    name: Vortex
+    display_name: Vortex
+    email: info@vortex.es
+    web: http://www.vortexfdc.com
+  gil:
+    name: Gil
+    display_name: Gil
+    email: gil@vortex.es
+    web: http://www.vortexfdc.com
+exclude:
+- LICENSE
+- README.md
+port: 4000
 prose:
-  rooturl: "_posts"
-  siteurl: "http://www.vortexfdc.com"
-  media: "assets/img"
+  rooturl: _posts
+  siteurl: http://www.vortexfdc.com
+  media: assets/img
   metadata:
     _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-          value: ""
-      - name: "layout"
-        field:
-          element: "select"
-          label: "Select a layout"
-          placeholder: "Default"
-          options:
-            - name: "blog"
-              value: "blog"
-              selected: "blog"
-            - name: "default"
-              value: "default"
-      - name: "date"
-        field:
-          element: "text"
-          label: "date"
-          help: "aaa-mm-dd hh-mm-ss"
-          value: ""
-      - name: "categories"
-        field:
-          element: "hidden"
-          value: "general"
-      - name: "featured-img-url"
-        field:
-          element: "text"
-          label: "Featured Img URL"
-          value: ""
-      - name: "featured-img-alt"
-        field:
-          element: "text"
-          label: "Featured Img Alt Text"
-          value: ""
-      - name: "meta"
-        field:
-          element: "text"
-          label: "Meta title"
-          value: ""
-      - name: "excerpt"
-        field:
-          element: "text"
-          label: "excerpt"
-          value: ""
-      - name: "author"
-        field:
-          element: "select"
-          label: "Who are you dude?"
-          placeholder: "Default"
-          options:
-            - name: "vortex"
-              value: "vortex"
-              selected: "vortex"
-      - name: "keywords"
-        field:
-          element: "text"
-          label: "Meta keywords"
-          value: ""
+    - name: title
+      field:
+        element: text
+        label: title
+        value: ''
+    - name: layout
+      field:
+        element: select
+        label: Select a layout
+        placeholder: Default
+        options:
+        - name: blog
+          value: blog
+          selected: blog
+        - name: default
+          value: default
+    - name: date
+      field:
+        element: text
+        label: date
+        help: aaa-mm-dd hh-mm-ss
+        value: ''
+    - name: categories
+      field:
+        element: hidden
+        value: general
+    - name: featured-img-url
+      field:
+        element: text
+        label: Featured Img URL
+        value: ''
+    - name: featured-img-alt
+      field:
+        element: text
+        label: Featured Img Alt Text
+        value: ''
+    - name: meta
+      field:
+        element: text
+        label: Meta title
+        value: ''
+    - name: excerpt
+      field:
+        element: text
+        label: excerpt
+        value: ''
+    - name: author
+      field:
+        element: select
+        label: Who are you dude?
+        placeholder: Default
+        options:
+        - name: vortex
+          value: vortex
+          selected: vortex
+    - name: keywords
+      field:
+        element: text
+        label: Meta keywords
+        value: ''
     _posts/ask-gil:
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-          value: ""
-      - name: "layout"
-        field:
-          element: "select"
-          label: "Select a layout"
-          placeholder: "Default"
-          options:
-            - name: "gil-faq"
-              value: "gil-faq"
-              selected: "gil-faq"
-      - name: "categories"
-        field:
-          element: "hidden"
-          value: "ask-gil"
-      - name: "meta"
-        field:
-          element: "text"
-          label: "Meta title"
-          value: ""
-      - name: "excerpt"
-        field:
-          element: "text"
-          label: "excerpt"
-          value: ""
-      - name: "author"
-        field:
-          element: "select"
-          label: "Who are you dude?"
-          placeholder: "Default"
-          options:
-            - name: "gil"
-              value: "gil"
-              selected: "gil"
-      - name: "keywords"
-        field:
-          element: "text"
-          label: "Meta keywords"
-          value: ""
+    - name: title
+      field:
+        element: text
+        label: title
+        value: ''
+    - name: layout
+      field:
+        element: select
+        label: Select a layout
+        placeholder: Default
+        options:
+        - name: gil-faq
+          value: gil-faq
+          selected: gil-faq
+    - name: categories
+      field:
+        element: hidden
+        value: ask-gil
+    - name: meta
+      field:
+        element: text
+        label: Meta title
+        value: ''
+    - name: excerpt
+      field:
+        element: text
+        label: excerpt
+        value: ''
+    - name: author
+      field:
+        element: select
+        label: Who are you dude?
+        placeholder: Default
+        options:
+        - name: gil
+          value: gil
+          selected: gil
+    - name: keywords
+      field:
+        element: text
+        label: Meta keywords
+        value: ''
     _posts/slides:
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-          value: ""
-      - name: "subtitle"
-        field:
-          element: "text"
-          label: "subtitle"
-          value: ""
-      - name: "categories"
-        field:
-          element: "hidden"
-          value: "slideshow"
-      - name: "tags"
-        field:
-          element: "hidden"
-          value: "slideshow"
-      - name: "featured-img"
-        field:
-          element: "hidden"
-          value: "true"
-      - name: "featured-img"
-        field:
-          element: "text"
-          label: "Featured Img URL"
-          value: ""
-      - name: "featured-img-url-768"
-        field:
-          element: "text"
-          label: "Featured Img URL 758"
-          value: ""
-      - name: "featured-img-url-1280"
-        field:
-          element: "text"
-          label: "Featured Img URL 1280"
-          value: ""
-      - name: "meta"
-        field:
-          element: "text"
-          label: "Meta title"
-          value: ""
-      - name: "author"
-        field:
-          element: "select"
-          label: "Who are you dude?"
-          placeholder: "Default"
-          options:
-            - name: "vortex"
-              value: "vortex"
-              selected: "vortex"
-      - name: "excerpt"
-        field:
-          element: "text"
-          label: "excerpt"
-          value: ""
-      - name: "keywords"
-        field:
-          element: "text"
-          label: "Meta keywords"
-          value: ""
+    - name: title
+      field:
+        element: text
+        label: title
+        value: ''
+    - name: subtitle
+      field:
+        element: text
+        label: subtitle
+        value: ''
+    - name: categories
+      field:
+        element: hidden
+        value: slideshow
+    - name: tags
+      field:
+        element: hidden
+        value: slideshow
+    - name: featured-img
+      field:
+        element: hidden
+        value: 'true'
+    - name: featured-img
+      field:
+        element: text
+        label: Featured Img URL
+        value: ''
+    - name: featured-img-url-768
+      field:
+        element: text
+        label: Featured Img URL 758
+        value: ''
+    - name: featured-img-url-1280
+      field:
+        element: text
+        label: Featured Img URL 1280
+        value: ''
+    - name: meta
+      field:
+        element: text
+        label: Meta title
+        value: ''
+    - name: author
+      field:
+        element: select
+        label: Who are you dude?
+        placeholder: Default
+        options:
+        - name: vortex
+          value: vortex
+          selected: vortex
+    - name: excerpt
+      field:
+        element: text
+        label: excerpt
+        value: ''
+    - name: keywords
+      field:
+        element: text
+        label: Meta keywords
+        value: ''

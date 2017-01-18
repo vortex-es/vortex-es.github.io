@@ -1,14 +1,16 @@
 ---
+title: Jordan Wind Map
+date: 2014-11-02 00:00:00 Z
+categories:
+- resources
+- wind-maps
 layout: resources
-slug: jordan-wind-map
-title: "Jordan Wind Map"
-categories: [resources, wind-maps]
 featured-img-url: jordan-wind-map.png
 featured-img-alt: Jordan Wind Map
 docs-url: vortex_3km_jordan_wind_map_resource.pdf
-tags:
-meta: "Jordan Wind Map"
+meta: Jordan Wind Map
 excerpt: 
 author: vortex
 keywords: 
 ---
+

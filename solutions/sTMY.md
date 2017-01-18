@@ -1,12 +1,12 @@
 ---
+title: TMY
 layout: solutions
 slug: solutions
 class: solutions-solution
 class2: solar
-title: TMY 
 register: true
-subtitle:
-keywords:
+subtitle: 
+keywords: 
 featured-img-url: vortex-solutions-sTMYfoto.png
 icon-url: vortex-solutions-sTMY-icon-128.png
 ---

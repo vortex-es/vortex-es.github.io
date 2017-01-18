@@ -1,10 +1,10 @@
 ---
+title: LES
 layout: solutions
 slug: solutions
 class: solutions-solution
 class2: wind-and-site
-title: LES
-subtitle:
+subtitle: 
 keywords: 
 register: true
 featured-img-url: les.gif

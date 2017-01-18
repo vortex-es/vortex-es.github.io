@@ -1,12 +1,15 @@
 ---
+title: I have altitude or roughness data at a finer resolution than 100m. May I use
+  them?
+date: 2014-01-10 00:00:00 Z
+categories:
+- ask-gil
 layout: gil-faq
-slug: i-have-altitude-or-roughness-data-at-a-finer-resolution-than-100m-may-i-use-them
-title: I have altitude or roughness data at a finer resolution than 100m. May I use them?
-categories: ask-gil
-featured-img-url:
-tags:
-meta: I have altitude or roughness data at a finer resolution than 100m. May I use them?
-excerpt: No, sorry. One of Vortex’s main aims is to provide our customers with fast results.
+featured-img-url: 
+meta: I have altitude or roughness data at a finer resolution than 100m. May I use
+  them?
+excerpt: No, sorry. One of Vortex’s main aims is to provide our customers with fast
+  results.
 author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---

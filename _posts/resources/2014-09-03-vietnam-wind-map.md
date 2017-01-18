@@ -1,14 +1,16 @@
 ---
+title: Vietnam Wind Map
+date: 2014-09-03 00:00:00 Z
+categories:
+- resources
+- wind-maps
 layout: resources
-slug: vietnam-wind-map
-title: "Vietnam Wind Map"
-categories: [resources, wind-maps]
 featured-img-url: vietnam-wind-map.png
 featured-img-alt: Vietnam Wind Map
 docs-url: vortex_3km_vietnam_wind_map_resource.pdf
-tags:
-meta: "Vietnam Wind Map"
+meta: Vietnam Wind Map
 excerpt: 
 author: vortex
 keywords: 
 ---
+

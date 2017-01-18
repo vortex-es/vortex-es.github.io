@@ -1,11 +1,11 @@
 ---
+title: WAVES
 layout: solutions
 slug: solutions
 class: solutions-solution
-title: WAVES
-subtitle:
+subtitle: 
 keywords: 
-featured-img-url:
+featured-img-url: 
 icon-url: vortex-solutions-waves-icon-128.png
 ---
 

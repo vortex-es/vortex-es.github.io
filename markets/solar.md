@@ -1,13 +1,11 @@
 ---
+title: Solar
 layout: markets
 slug: markets
-title: Solar
 subtitle: beam the information to your project
-"featured-img-url": "04-bg-slide-solar-512.png"
-keywords: "forecast, service, energy, management, imbalance"
-published: true
+featured-img-url: 04-bg-slide-solar-512.png
+keywords: forecast, service, energy, management, imbalance
 ---
-
 
 ### Why Vortex Solar?
 

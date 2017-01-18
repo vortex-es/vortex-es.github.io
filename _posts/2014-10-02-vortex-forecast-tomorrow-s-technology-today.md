@@ -1,20 +1,18 @@
 ---
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-date: "2014-10-2 14:59:00"
-layout: blog
-slug: "vortex-forecast-available"
 title: Check our Accuracy, online.
-"featured-img-url": "vortex-forecast.png"
-"featured-img-alt": Vortex Forecast
-tags: null
+date: 2014-10-02 14:59:00 Z
+categories:
+- infraestructura
+- general
+- no-cita
+layout: blog
+featured-img-url: vortex-forecast.png
+featured-img-alt: Vortex Forecast
 meta: Vortex Forecast
-excerpt: Now, you can easily check our forecast accuracy for yourself by simply logging into Vortex Interface.
+excerpt: Now, you can easily check our forecast accuracy for yourself by simply logging
+  into Vortex Interface.
 author: vortex
-keywords: "vortex, wind, forecast, accuracy"
-published: true
+keywords: vortex, wind, forecast, accuracy
 ---
 
 ##   Check our Accuracy, online. 

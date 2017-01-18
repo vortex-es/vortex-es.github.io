@@ -1,14 +1,16 @@
 ---
+title: Thailand Wind Map
+date: 2014-09-03 00:00:00 Z
+categories:
+- resources
+- wind-maps
 layout: resources
-slug: thailand-wind-map
-title: "Thailand Wind Map"
-categories: [resources, wind-maps]
 featured-img-url: thailand-wind-map.png
 featured-img-alt: Thailand Wind Map
 docs-url: vortex_3km_thailand_wind_map_resource.pdf
-tags:
-meta: "Thailand Wind Map"
+meta: Thailand Wind Map
 excerpt: 
 author: vortex
 keywords: 
 ---
+

@@ -1,10 +1,10 @@
 ---
+title: MAPS
 layout: solutions
 slug: solutions
 class: solutions-solution
 class2: wind-and-site
-title: MAPS
-subtitle:
+subtitle: 
 keywords: 
 register: true
 featured-img-url: vortex-solutions-mapfoto.jpg

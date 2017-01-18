@@ -1,20 +1,18 @@
 ---
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-date: "2014-11-21 11:59:00"
-layout: blog
-slug: "vortex-low-wind-patterns-in-turkey"
 title: 2014 Low Wind Patterns in Turkey
-"featured-img-url": "low-wind-patterns-in-turkey.png"
-"featured-img-alt": 2014 Low Wind Patterns in Turkey
-tags: null
+date: 2014-11-21 11:59:00 Z
+categories:
+- infraestructura
+- general
+- no-cita
+layout: blog
+featured-img-url: low-wind-patterns-in-turkey.png
+featured-img-alt: 2014 Low Wind Patterns in Turkey
 meta: 2014  Low Wind Patterns Turkey
-excerpt: Significant extremely low wind speed conditions have been detected across Turkey throughout 2014.
+excerpt: Significant extremely low wind speed conditions have been detected across
+  Turkey throughout 2014.
 author: vortex
-keywords: "vortex, wind patterns, anomaly, Turkey"
-published: true
+keywords: vortex, wind patterns, anomaly, Turkey
 ---
 
 ##   2014 Low Wind Patterns in Turkey

@@ -1,20 +1,17 @@
 ---
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-date: "2015-11-13 09:00:00"
+title: We'll always have Paris...
+date: 2015-11-13 09:00:00 Z
+categories:
+- infraestructura
+- general
+- no-cita
 layout: blog
-slug: "INSIGHT-in-Paris"
-title: "We'll always have Paris..."
-"featured-img-url": Paris.jpg
-"featured-img-alt": Le basier de Hotel de Ville, Robert Doisneau
-tags: null
+featured-img-url: Paris.jpg
+featured-img-alt: Le basier de Hotel de Ville, Robert Doisneau
 meta: INDEX in Paris
-excerpt: "Meet us at EWEA's event and discover our new product: INDEX"
+excerpt: 'Meet us at EWEA''s event and discover our new product: INDEX'
 author: vortex
-keywords: "vortex, INDEX, anomaly, Paris"
-published: true
+keywords: vortex, INDEX, anomaly, Paris
 ---
 
 ##   We'll always have Paris...

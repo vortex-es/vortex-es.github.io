@@ -1,10 +1,10 @@
 ---
+title: Pricing
 layout: solutions
 slug: solutions
 class: solutions-solution
 class2: wind-and-site
-title: Pricing
-subtitle:
+subtitle: 
 keywords: wind and site, farm, development, decisions, measuring
 ---
 

@@ -1,12 +1,12 @@
 ---
+title: SERIES
 layout: solutions
 slug: solutions
 class: solutions-solution
 class2: solar
-title: SERIES 
 register: true
-subtitle:
-keywords:
+subtitle: 
+keywords: 
 featured-img-url: vortex-solutions-sSeriesfoto.png
 icon-url: vortex-solutions-sSeries-icon-128.png
 ---

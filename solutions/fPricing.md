@@ -1,10 +1,10 @@
 ---
+title: Pricing
 layout: solutions
 slug: solutions
 class: solutions-solution
 class2: forecast
-title: Pricing
-subtitle:
+subtitle: 
 keywords: forecast, development, decisions, measuring
 ---
 

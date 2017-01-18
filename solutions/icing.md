@@ -1,10 +1,10 @@
 ---
+title: ICING
 layout: solutions
 slug: solutions
 class: solutions-solution
 class2: wind-and-site
-title: ICING
-subtitle:
+subtitle: 
 keywords: 
 register: true
 featured-img-url: vortex-solutions-icingfoto.jpg

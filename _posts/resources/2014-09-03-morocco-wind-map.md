@@ -1,14 +1,16 @@
 ---
+title: Morocco Wind Map
+date: 2014-09-03 00:00:00 Z
+categories:
+- resources
+- wind-maps
 layout: resources
-slug: morocco-wind-map
-title: "Morocco Wind Map"
-categories: [resources, wind-maps]
 featured-img-url: morocco-wind-map.png
 featured-img-alt: Morocco Wind Map
 docs-url: vortex_3km_morocco_wind_map_resource.pdf
-tags:
-meta: "Morocco Wind Map"
+meta: Morocco Wind Map
 excerpt: 
 author: vortex
 keywords: 
 ---
+

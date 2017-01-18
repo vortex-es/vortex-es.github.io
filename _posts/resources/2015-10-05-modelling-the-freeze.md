@@ -1,15 +1,18 @@
 ---
-layout: resources
-slug: modelling-the-freeze
 title: Modelling the freeze
-categories: [resources, technical-docs]
+date: 2015-10-05 00:00:00 Z
+categories:
+- resources
+- technical-docs
+layout: resources
 featured-img-url: modelling-the-freeze.png
 featured-img-alt: Modelling the freeze
 docs-url: modelling_icing.htm
-tags:
 meta: Modelling the freeze
-excerpt: Obtaining icing characteristics through atmospheric modelling products is a reliable alternative where no long-term information is available for the site.
+excerpt: Obtaining icing characteristics through atmospheric modelling products is
+  a reliable alternative where no long-term information is available for the site.
 author: vortex
 keywords: 
 ---
+
 Obtaining icing characteristics through atmospheric modelling products is a reliable alternative where no long-term information is available for the site

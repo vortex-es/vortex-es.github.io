@@ -1,10 +1,10 @@
 ---
-layout: gil-faq
-slug: should-i-send-you-my-local-measurements-to-calibrate-your-model
 title: Should I send you my local measurements to calibrate your model?
-categories: ask-gil
-featured-img-url:
-tags:
+date: 2014-01-06 00:00:00 Z
+categories:
+- ask-gil
+layout: gil-faq
+featured-img-url: 
 meta: Should I send you my local measurements to calibrate your model?
 excerpt: 
 author: gil

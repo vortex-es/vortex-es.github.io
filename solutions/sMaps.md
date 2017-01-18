@@ -1,12 +1,12 @@
 ---
+title: MAPS
 layout: solutions
 slug: solutions
 class: solutions-solution
 class2: solar
-title: MAPS
 subtitle: 
 register: true
-keywords:
+keywords: 
 featured-img-url: vortex-solutions-sMapfoto.png
 icon-url: vortex-solutions-sMaps-icon-128.png
 ---

@@ -1,20 +1,18 @@
 ---
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-date: "2016-09-19 00:00:00"
+title: LES IS MORE!
+date: 2016-09-19 00:00:00 Z
+categories:
+- infraestructura
+- general
+- no-cita
 layout: blog
-slug: “LES* IS MORE! *Large Eddy Simulations by Vortex”
-title: "LES IS MORE!"
-"featured-img-url": les.gif
-"featured-img-alt": LES
-tags: null
+featured-img-url: les.gif
+featured-img-alt: LES
 meta: Vortex Large Eddy Simulations
-excerpt: "After two years of development, we are proud to offer you probably the most measurement-like set of synthetic wind time series currently available on the market"
+excerpt: After two years of development, we are proud to offer you probably the most
+  measurement-like set of synthetic wind time series currently available on the market
 author: vortex
-keywords: "vortex, Large Eddy Simulations, LES, gust, shear, model "
-published: true
+keywords: 'vortex, Large Eddy Simulations, LES, gust, shear, model '
 ---
 
 # <span style="color:green"> LES*</span> IS MORE! 

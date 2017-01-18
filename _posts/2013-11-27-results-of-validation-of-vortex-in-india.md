@@ -1,13 +1,15 @@
 ---
-date: 2013-11-27 11:48:19
-layout: blog
-slug: results-of-validation-of-vortex-in-india
 title: Results of validation of vortex in India
-categories: [infraestructura, general, no-cita]
+date: 2013-11-27 11:48:19 Z
+categories:
+- infraestructura
+- general
+- no-cita
+layout: blog
 featured-img-url: results-of-validation-of-vortex-in-india.png
-tags:
 meta: Results of validation of vortex in India
-excerpt: One of VORTEX’s overriding aims has always been to provide the most accurate data in the wind industry
+excerpt: One of VORTEX’s overriding aims has always been to provide the most accurate
+  data in the wind industry
 author: vortex
 keywords: results, validation, vortex, india
 ---

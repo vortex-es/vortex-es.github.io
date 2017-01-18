@@ -1,12 +1,13 @@
 ---
-layout: gil-faq
-slug: what-makes-vortex-approach-different-from-other-wind-modelers
 title: What makes Vortex approach different from other wind modelers?
-categories: ask-gil
-featured-img-url:
-tags:
+date: 2014-01-02 00:00:00 Z
+categories:
+- ask-gil
+layout: gil-faq
+featured-img-url: 
 meta: What makes Vortex approach different from other wind modelers?
-excerpt: Current wind modelers on the market offer either pre-calculated products or specific studies on a consultancy basis.
+excerpt: Current wind modelers on the market offer either pre-calculated products
+  or specific studies on a consultancy basis.
 author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---

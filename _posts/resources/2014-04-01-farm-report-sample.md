@@ -1,14 +1,16 @@
 ---
+title: Sample of Vortex Farm Report
+date: 2014-04-01 00:00:00 Z
+categories:
+- resources
+- technical-docs
 layout: resources
-slug: farm-report-sample
-title: "Sample of Vortex Farm Report"
-categories: [resources, technical-docs]
 featured-img-url: farm-report-sample.png
 featured-img-alt: Farm Report Sample
 docs-url: report_farm.pdf
-tags:
-meta: "Sample of Vortex Farm Report"
+meta: Sample of Vortex Farm Report
 excerpt: 
 author: vortex
 keywords: 
 ---
+

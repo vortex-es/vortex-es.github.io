@@ -1,20 +1,18 @@
 ---
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-date: "2014-09-2 14:59:00"
-layout: blog
-slug: "vortex-wind-maps-free-available"
 title: Wind Maps Freely Available
-"featured-img-url": "wind-maps-news.png"
-"featured-img-alt": New Free Wind Maps Available
-tags: null
+date: 2014-09-02 14:59:00 Z
+categories:
+- infraestructura
+- general
+- no-cita
+layout: blog
+featured-img-url: wind-maps-news.png
+featured-img-alt: New Free Wind Maps Available
 meta: Vortex New Free Resources
-excerpt: Vortex has worked in the last months to prepare prospecting maps of countries where the wind industry is being developed
+excerpt: Vortex has worked in the last months to prepare prospecting maps of countries
+  where the wind industry is being developed
 author: vortex
-keywords: "vortex, wind map, resources, free"
-published: true
+keywords: vortex, wind map, resources, free
 ---
 
 ##   Wind Maps Freely Available

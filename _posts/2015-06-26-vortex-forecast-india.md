@@ -1,22 +1,19 @@
 ---
-categories: 
-  - infraestructura
-  - general
-  - "no-cita"
-date: "2015-06-26 11:59:00"
-layout: blog
-slug: "vortex-forecast-india"
 title: Vortex FORECAST helps India’s wind industry to forecast wind farms
-"featured-img-url": "niwe.png"
-"featured-img-alt": National Institute of Wind Energy
-tags: null
+date: 2015-06-26 11:59:00 Z
+categories:
+- infraestructura
+- general
+- no-cita
+layout: blog
+featured-img-url: niwe.png
+featured-img-alt: National Institute of Wind Energy
 meta: Vortex NIWE forecast wind farm
-excerpt: Vortex and NIWE will provide electricity generation forecasts down to a fifteen minute resolution up to 10 days ahead
+excerpt: Vortex and NIWE will provide electricity generation forecasts down to a fifteen
+  minute resolution up to 10 days ahead
 author: vortex
-keywords: "vortex, wind patterns, anomaly, Turkey"
-published: true
+keywords: vortex, wind patterns, anomaly, Turkey
 ---
-
 
 ##   Vortex FORECAST helps India’s wind industry to forecast wind farms.
 

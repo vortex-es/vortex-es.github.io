@@ -1,13 +1,17 @@
 ---
-date: 2013-01-28 11:48:19
+title: DTU Wind Energy (Risø) and Vortex sign an agreement  to allow Vortex to deliver
+  WAsP Wind Atlas files
+date: 2013-01-28 11:48:19 Z
+categories:
+- infraestructura
+- general
+- no-cita
 layout: blog
-slug: dtu-wind-energy-riso-and-vortex-sign-an-agreement-to-allow-vortex-to-deliver-wasp-wind-atlas-files
-title: DTU Wind Energy (Risø) and Vortex sign an agreement  to allow Vortex to deliver WAsP Wind Atlas files
-categories: [infraestructura, general, no-cita]
-featured-img-url:
-tags:
-meta: DTU Wind Energy (Risø) and Vortex sign an agreement  to allow Vortex to deliver WAsP Wind Atlas files
-excerpt: VORTEX'in belli başlı hedeflerinden biri, sizlere rüzgar enerjisi alanında her zaman için en hassas ve güncel bilgileri sunmak olmuştur.
+featured-img-url: 
+meta: DTU Wind Energy (Risø) and Vortex sign an agreement  to allow Vortex to deliver
+  WAsP Wind Atlas files
+excerpt: VORTEX'in belli başlı hedeflerinden biri, sizlere rüzgar enerjisi alanında
+  her zaman için en hassas ve güncel bilgileri sunmak olmuştur.
 author: vortex
 keywords: results, validation, vortex, india
 ---

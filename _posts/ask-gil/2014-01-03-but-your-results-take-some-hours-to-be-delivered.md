@@ -1,12 +1,13 @@
 ---
-layout: gil-faq
-slug: but-your-results-take-some-hours-to-be-delivered
 title: But your results take some hours to be delivered...
-categories: ask-gil
-featured-img-url:
-tags:
+date: 2014-01-03 00:00:00 Z
+categories:
+- ask-gil
+layout: gil-faq
+featured-img-url: 
 meta: But your results take some hours to be delivered...
-excerpt: Yes, this is due to the fact that calculations are non-linear, and non-linear computing is not immediate.
+excerpt: Yes, this is due to the fact that calculations are non-linear, and non-linear
+  computing is not immediate.
 author: gil
 keywords: vortex, company, experience, independence, collaborative
 ---

@@ -1,7 +1,7 @@
 ---
+title: Wind & Site
 layout: markets
 slug: markets
-title: Wind & Site
 subtitle: one-click away
 keywords: wind and site, farm, development, decisions, measuring
 ---
