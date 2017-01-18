@@ -1,13 +1,14 @@
 ---
+title: 'Iran Validation: Vortex Mast and Series'
+date: 2017-01-18 00:00:00 Z
+categories:
+- resources
+- validations
 layout: resources
-slug: validation-iran-vortex-series-masts
-title: "Iran Validation: Vortex Mast and Series"
-categories: [resources, validations]
 featured-img-url: vortex-iran-validation.png
-featured-img-alt: "Iran Validation: Vortex SERIES and MASTS"
+featured-img-alt: 'Iran Validation: Vortex SERIES and MASTS'
 docs-url: Vortex_Validation_Iran.pdf
-tags:
-meta: "Iran Validation: Vortex SERIES and MASTS"
+meta: 'Iran Validation: Vortex SERIES and MASTS'
 excerpt: 
 author: vortex
 keywords: 
