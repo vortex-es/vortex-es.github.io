@@ -116,7 +116,7 @@ keywords: online, wind, modeling, forecast, solar, offshore
 							<!-- <h4><time datetime="{{ post.date | date: "%Y-%m-%d %H:%M%z" }}">{{ post.date | localize: ":simple" }}</time></h4> -->
 							<hr />
 							{% if post.featured-img-url %}
-            				<p class="pull-left hidden-xs thoughts-thumbnail"><img src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}" {% if post.featured-img-alt != %} alt="{{post.featured-img-alt}}" title="{{post.featured-img-alt}}" {% endif %}></p>
+            				<p class="pull-left hidden-xs thoughts-thumbnail"><img src="{{site.baseurl}}/assets/img/{{post.featured-img-url}}" {% if post.featured-img-alt != "" %} alt="{{post.featured-img-alt}}" title="{{post.featured-img-alt}}" {% endif %}></p>
             				{% endif %}
 							<p>{{ post.excerpt }}</p>
 						</div>												

@@ -27,8 +27,8 @@ slug: blog
             {% include social.html %}
             <h4><time datetime="{{ page.date | date: "%Y-%m-%d %H:%M%z" }}">{{ page.date | date: "%b %d" }}</time> by {{ author.display_name }}</h4>
             {% if page.featured-img-url %}
-            <p class="hidden-md hidden-lg text-center"><img class="img-thumbnail featured-img" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}} featured-img" title="{{page.featured-img-alt}}"{% endif %}></p>
-            <p class="pull-right hidden-xs hidden-sm"><img class="img-thumbnail featured-img" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != %}alt="{{page.featured-img-alt}}" title="{{page.featured-img-alt}}"{% endif %}></p>
+            <p class="hidden-md hidden-lg text-center"><img class="img-thumbnail featured-img" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != "" %}alt="{{page.featured-img-alt}} featured-img" title="{{page.featured-img-alt}}"{% endif %}></p>
+            <p class="pull-right hidden-xs hidden-sm"><img class="img-thumbnail featured-img" src="{{site.baseurl}}/assets/img/{{page.featured-img-url}}" {% if page.featured-img-alt != "" %}alt="{{page.featured-img-alt}}" title="{{page.featured-img-alt}}"{% endif %}></p>
             {% endif %}
             {{ content }}
           </article>
