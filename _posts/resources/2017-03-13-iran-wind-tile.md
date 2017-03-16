@@ -7,7 +7,7 @@ categories:
 layout: resources
 featured-img-url: iran-wind-100m.png
 featured-img-alt: Iran Wind Map
-docs-url: vortex_3km_iran_wind_tile.pdf
+docs-url: vortex_100m_iran_wind_tile.pdf
 meta: Iran Wind Map
 excerpt: 
 author: vortex
