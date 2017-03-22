@@ -1,6 +1,6 @@
 ---
-title: "Mesoscale-Microscale Coupling: A New Time For The Atmospheric Modeling."
-date: "2017-03-22T00:00:00Z"
+title: Mesoscale-Microscale Coupling: A New Time For The Atmospheric Modeling.
+date: 2017-03-22T 00:00:00Z
 categories:
 - resources
 - technical-docs
