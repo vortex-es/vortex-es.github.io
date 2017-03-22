@@ -1,6 +1,6 @@
 ---
 title: Wind Maps Freely Available
-date: 2014-09-02 14:59:00 Z
+date: 2014-09-02T14:59:00Z
 categories:
 - infraestructura
 - general

@@ -1,6 +1,6 @@
 ---
 title: Results of validation of vortex in India
-date: 2013-11-27 11:48:19 Z
+date: 2013-11-27T11:48:19Z
 categories:
 - infraestructura
 - general

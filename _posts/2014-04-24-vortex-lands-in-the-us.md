@@ -1,6 +1,6 @@
 ---
 title: Vortex lands in the US
-date: 2014-04-24 14:59:00 Z
+date: 2014-04-24T14:59:00Z
 categories:
 - infraestructura
 - general

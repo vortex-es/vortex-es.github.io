@@ -1,6 +1,6 @@
 ---
 title: Remodel your SERIES to perform better
-date: 2014-03-26 14:59:00 Z
+date: 2014-03-26T14:59:00Z
 categories:
 - infraestructura
 - general

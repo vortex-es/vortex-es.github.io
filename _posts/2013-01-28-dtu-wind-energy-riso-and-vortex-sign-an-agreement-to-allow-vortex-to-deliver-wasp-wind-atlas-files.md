@@ -1,7 +1,7 @@
 ---
 title: DTU Wind Energy (Risø) and Vortex sign an agreement  to allow Vortex to deliver
   WAsP Wind Atlas files
-date: 2013-01-28 11:48:19 Z
+date: 2013-01-28T11:48:19Z
 categories:
 - infraestructura
 - general

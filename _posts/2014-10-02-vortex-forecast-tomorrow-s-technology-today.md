@@ -1,6 +1,6 @@
 ---
 title: Check our Accuracy, online.
-date: 2014-10-02 14:59:00 Z
+date: 2014-10-02T14:59:00Z
 categories:
 - infraestructura
 - general

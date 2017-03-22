@@ -1,6 +1,6 @@
 ---
 title: Vortex FORECAST helps India’s wind industry to forecast wind farms
-date: 2015-06-26 11:59:00 Z
+date: 2015-06-26T11:59:00Z
 categories:
 - infraestructura
 - general

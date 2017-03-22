@@ -1,6 +1,6 @@
 ---
 title: Come meet us in sunny Barcelona
-date: 2014-03-04 11:48:19 Z
+date: 2014-03-04T11:48:19Z
 categories:
 - infraestructura
 - general

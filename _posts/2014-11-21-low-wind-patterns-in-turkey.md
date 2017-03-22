@@ -1,6 +1,6 @@
 ---
 title: 2014 Low Wind Patterns in Turkey
-date: 2014-11-21 11:59:00 Z
+date: 2014-11-21T11:59:00Z
 categories:
 - infraestructura
 - general

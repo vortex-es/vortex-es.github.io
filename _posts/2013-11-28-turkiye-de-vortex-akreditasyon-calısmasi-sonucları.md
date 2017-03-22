@@ -1,6 +1,6 @@
 ---
 title: Türkiye'de Vortex Akreditasyon Çalışması Sonuçları
-date: 2013-11-28 11:48:19 Z
+date: 2013-11-28T11:48:19Z
 categories:
 - infraestructura
 - general

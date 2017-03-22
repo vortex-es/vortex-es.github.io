@@ -1,6 +1,6 @@
 ---
 title: We'll always have Paris...
-date: 2015-11-13 09:00:00 Z
+date: 2015-11-13T09:00:00Z
 categories:
 - infraestructura
 - general

@@ -1,6 +1,6 @@
 ---
 title: Iran Wind 100m Tile
-date: 2017-03-13 00:00:02 Z
+date: 2017-03-13T 00:00:02Z
 categories:
 - resources
 - wind-maps

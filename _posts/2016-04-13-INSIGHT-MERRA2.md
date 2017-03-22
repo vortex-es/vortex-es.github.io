@@ -1,6 +1,6 @@
 ---
 title: Is your wind farm underperforming?
-date: 2016-04-13 10:00:00 Z
+date: 2016-04-13T10:00:00Z
 categories:
 - infraestructura
 - general

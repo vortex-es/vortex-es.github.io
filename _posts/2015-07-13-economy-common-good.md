@@ -1,6 +1,6 @@
 ---
 title: Vortex and the Economy for the Common Good
-date: 2015-07-13 11:59:00 Z
+date: 2015-07-13T11:59:00Z
 categories:
 - infraestructura
 - general

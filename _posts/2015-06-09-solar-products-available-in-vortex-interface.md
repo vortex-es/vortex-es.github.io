@@ -1,6 +1,6 @@
 ---
 title: Solar Products Available in Vortex Interface
-date: 2015-06-09 11:59:00 Z
+date: 2015-06-09T11:59:00Z
 categories:
 - infraestructura
 - general
