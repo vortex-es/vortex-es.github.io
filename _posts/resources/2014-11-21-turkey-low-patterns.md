@@ -1,6 +1,6 @@
 ---
 title: 2014 Low Wind Patterns in Turkey
-date: 2014-11-21T00:00:00Z
+date: 2014-11-21 00:00:00 Z
 categories:
 - resources
 - anomaly-wind-maps

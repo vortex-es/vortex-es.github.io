@@ -1,6 +1,6 @@
 ---
 title: Ghana Wind Map
-date: 2014-09-05T00:00:00Z
+date: 2014-09-05 00:00:00 Z
 categories:
 - resources
 - wind-maps

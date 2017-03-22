@@ -1,6 +1,6 @@
 ---
 title: 2014 Wind Anomalies in UK and Ireland
-date: 2015-04-17T00:00:00Z
+date: 2015-04-17 00:00:00 Z
 categories:
 - resources
 - anomaly-wind-maps

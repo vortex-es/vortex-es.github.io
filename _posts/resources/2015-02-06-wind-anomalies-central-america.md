@@ -1,6 +1,6 @@
 ---
 title: 2014 Wind Anomalies in Central America
-date: 2015-02-06T00:00:00Z
+date: 2015-02-06 00:00:00 Z
 categories:
 - resources
 - anomaly-wind-maps

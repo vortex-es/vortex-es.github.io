@@ -1,6 +1,6 @@
 ---
 title: LES IS MORE!
-date: 2016-09-29T00:00:00Z
+date: 2016-09-29 00:00:00 Z
 categories:
 - resources
 - technical-docs

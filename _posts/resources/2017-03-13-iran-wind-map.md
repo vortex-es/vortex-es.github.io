@@ -1,6 +1,6 @@
 ---
 title: Iran Wind Map
-date: 2017-03-13T00:00:00Z
+date: 2017-03-13 00:00:00 Z
 categories:
 - resources
 - wind-maps

@@ -1,6 +1,6 @@
 ---
 title: Instruccions For Using Vortex Modelling
-date: 2014-04-10T00:00:00Z
+date: 2014-04-10 00:00:00 Z
 categories:
 - resources
 - technical-docs

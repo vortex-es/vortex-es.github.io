@@ -1,6 +1,6 @@
 ---
 title: In "10" simple words, how does Vortex work?
-date: 2014-01-01T00:00:00Z
+date: 2014-01-01 00:00:00 Z
 categories:
 - ask-gil
 layout: gil-faq

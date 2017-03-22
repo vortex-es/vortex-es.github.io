@@ -1,6 +1,6 @@
 ---
 title: How accurate is Vortex?
-date: 2014-01-05T00:00:00Z
+date: 2014-01-05 00:00:00 Z
 categories:
 - ask-gil
 layout: gil-faq

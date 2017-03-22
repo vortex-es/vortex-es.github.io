@@ -1,6 +1,6 @@
 ---
 title: El Salvador Wind Map
-date: 2014-11-17T00:00:00Z
+date: 2014-11-17 00:00:00 Z
 categories:
 - resources
 - wind-maps

@@ -1,6 +1,6 @@
 ---
 title: Kenya Wind Map
-date: 2014-09-26T00:00:00Z
+date: 2014-09-26 00:00:00 Z
 categories:
 - resources
 - wind-maps

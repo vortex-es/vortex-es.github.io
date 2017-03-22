@@ -1,6 +1,6 @@
 ---
 title: Mongolia Wind Map
-date: 2014-07-17T00:00:00Z
+date: 2014-07-17 00:00:00 Z
 categories:
 - resources
 - wind-maps

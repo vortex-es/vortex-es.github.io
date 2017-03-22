@@ -1,6 +1,6 @@
 ---
 title: Calibrate your WRG with measurements
-date: 2016-05-19T00:00:00Z
+date: 2016-05-19 00:00:00 Z
 categories:
 - infraestructura
 - general

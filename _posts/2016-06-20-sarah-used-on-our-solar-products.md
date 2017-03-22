@@ -1,6 +1,6 @@
 ---
 title: Welcome to the team, SARAH
-date: 2016-06-20T00:00:00Z
+date: 2016-06-20 00:00:00 Z
 categories:
 - infraestructura
 - general

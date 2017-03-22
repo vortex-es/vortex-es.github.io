@@ -1,6 +1,6 @@
 ---
 title: Saudi Arabia Wind Map
-date: 2014-08-13T00:00:00Z
+date: 2014-08-13 00:00:00 Z
 categories:
 - resources
 layout: resources

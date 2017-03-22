@@ -1,6 +1,6 @@
 ---
 title: Nigeria Wind Map
-date: 2014-09-15T00:00:00Z
+date: 2014-09-15 00:00:00 Z
 categories:
 - resources
 - wind-maps

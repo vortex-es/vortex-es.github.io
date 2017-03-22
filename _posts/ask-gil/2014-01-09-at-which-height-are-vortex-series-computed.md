@@ -1,6 +1,6 @@
 ---
 title: At which height are Vortex SERIES computed?
-date: 2014-01-09T00:00:00Z
+date: 2014-01-09 00:00:00 Z
 categories:
 - ask-gil
 layout: gil-faq

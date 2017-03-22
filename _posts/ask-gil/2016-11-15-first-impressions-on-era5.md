@@ -1,6 +1,6 @@
 ---
 title: First impressions on ERA5
-date: 2016-11-15T00:00:00Z
+date: 2016-11-15 00:00:00 Z
 categories:
 - ask-gil
 layout: gil-faq
