@@ -1,6 +1,6 @@
 ---
 title: 2015 (first half) Wind Anomalies in South Africa
-date: 2015-10-26 00:00:00 Z
+date: 2015-10-26T00:00:00Z
 categories:
 - resources
 - anomaly-wind-maps

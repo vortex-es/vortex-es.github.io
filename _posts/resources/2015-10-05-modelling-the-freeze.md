@@ -1,6 +1,6 @@
 ---
 title: Modelling the freeze
-date: 2015-10-05 00:00:00 Z
+date: 2015-10-05T00:00:00Z
 categories:
 - resources
 - technical-docs

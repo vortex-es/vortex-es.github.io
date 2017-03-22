@@ -1,6 +1,6 @@
 ---
 title: What makes Vortex approach different from other wind modelers?
-date: 2014-01-02 00:00:00 Z
+date: 2014-01-02T00:00:00Z
 categories:
 - ask-gil
 layout: gil-faq

@@ -1,7 +1,7 @@
 ---
 title: On the benefit of a multivariate description of wind for a better long-term
   extrapolation
-date: 2014-04-10 00:00:00 Z
+date: 2014-04-10T00:00:00Z
 categories:
 - resources
 - technical-docs

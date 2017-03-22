@@ -1,6 +1,6 @@
 ---
 title: Jordan Wind Map
-date: 2014-11-02 00:00:00 Z
+date: 2014-11-02T00:00:00Z
 categories:
 - resources
 - wind-maps

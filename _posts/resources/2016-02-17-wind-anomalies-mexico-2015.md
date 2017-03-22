@@ -1,6 +1,6 @@
 ---
 title: 2015 Wind Anomalies in Mexico
-date: 2016-02-17 00:00:00 Z
+date: 2016-02-17T00:00:00Z
 categories:
 - resources
 - anomaly-wind-maps

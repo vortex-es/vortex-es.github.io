@@ -1,7 +1,7 @@
 ---
 title: I have altitude or roughness data at a finer resolution than 100m. May I use
   them?
-date: 2014-01-10 00:00:00 Z
+date: 2014-01-10T00:00:00Z
 categories:
 - ask-gil
 layout: gil-faq
