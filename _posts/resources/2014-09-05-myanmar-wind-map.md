@@ -1,6 +1,6 @@
 ---
 title: Myanmar Wind Map
-date: 2014-09-05 00:00:00 Z
+date: 2014-09-05T00:00:00Z
 categories:
 - resources
 - wind-maps

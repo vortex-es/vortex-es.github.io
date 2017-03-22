@@ -1,6 +1,6 @@
 ---
 title: Which technology runs behind the Vortex interface?
-date: 2014-01-04 00:00:00 Z
+date: 2014-01-04T00:00:00Z
 categories:
 - ask-gil
 layout: gil-faq

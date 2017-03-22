@@ -1,6 +1,6 @@
 ---
 title: Vortex Solar Specifications and Validation
-date: 2016-11-03 00:00:00 Z
+date: 2016-11-03T00:00:00Z
 categories:
 - resources
 - technical-docs

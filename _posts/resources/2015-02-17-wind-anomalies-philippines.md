@@ -1,6 +1,6 @@
 ---
 title: 2014 Wind Anomalies in Philippines
-date: 2015-02-17 00:00:00 Z
+date: 2015-02-17T00:00:00Z
 categories:
 - resources
 - anomaly-wind-maps

@@ -1,6 +1,6 @@
 ---
 title: How far is your time series nearest calculation node away from my mast?
-date: 2014-01-08 00:00:00 Z
+date: 2014-01-08T00:00:00Z
 categories:
 - ask-gil
 layout: gil-faq

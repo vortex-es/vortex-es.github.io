@@ -1,6 +1,6 @@
 ---
 title: 2014 Wind Anomalies in Brazil and Uruguay
-date: 2015-08-25 00:00:00 Z
+date: 2015-08-25T00:00:00Z
 categories:
 - resources
 - anomaly-wind-maps

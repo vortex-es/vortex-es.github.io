@@ -1,6 +1,6 @@
 ---
 title: Vortex 3D FARM Remodeling
-date: 2016-04-25 00:00:00 Z
+date: 2016-04-25T00:00:00Z
 categories:
 - resources
 - technical-docs

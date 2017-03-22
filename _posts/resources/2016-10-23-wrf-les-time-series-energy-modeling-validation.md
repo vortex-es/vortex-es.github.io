@@ -1,6 +1,6 @@
 ---
 title: WRF LES Time-Series Energy Modeling and Validation
-date: 2016-10-23 00:00:00 Z
+date: 2016-10-23T00:00:00Z
 categories:
 - resources
 - technical-docs

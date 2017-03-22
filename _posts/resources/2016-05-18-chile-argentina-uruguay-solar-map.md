@@ -1,6 +1,6 @@
 ---
 title: Chile Argentina Uruguay Solar Map
-date: 2016-05-18 00:00:00 Z
+date: 2016-05-18T00:00:00Z
 categories:
 - resources
 - solar-maps

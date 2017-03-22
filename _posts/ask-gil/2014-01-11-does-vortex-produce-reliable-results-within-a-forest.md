@@ -1,6 +1,6 @@
 ---
 title: Does Vortex produce reliable results within a forest?
-date: 2014-01-11 00:00:00 Z
+date: 2014-01-11T00:00:00Z
 categories:
 - ask-gil
 layout: gil-faq

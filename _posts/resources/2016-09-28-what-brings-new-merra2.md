@@ -1,6 +1,6 @@
 ---
 title: What brings new MERRA2
-date: 2016-09-28 00:00:00 Z
+date: 2016-09-28T00:00:00Z
 categories:
 - resources
 - technical-docs

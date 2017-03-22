@@ -1,6 +1,6 @@
 ---
 title: Sample of Vortex Farm Report
-date: 2014-04-01 00:00:00 Z
+date: 2014-04-01T00:00:00Z
 categories:
 - resources
 - technical-docs

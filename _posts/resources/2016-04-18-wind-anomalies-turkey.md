@@ -1,6 +1,6 @@
 ---
 title: 2015 Wind Anomalies in Turkey
-date: 2016-04-18 00:00:00 Z
+date: 2016-04-18T00:00:00Z
 categories:
 - resources
 - anomaly-wind-maps
