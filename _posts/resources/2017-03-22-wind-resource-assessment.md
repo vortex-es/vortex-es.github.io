@@ -1,6 +1,6 @@
 ---
-title: 'Wind Europe Resource Assessment 2017 Edinburgh'
-date: 2017-03-22T00:00:00Z
+title: "Wind Europe Resource Assessment 2017 Edinburgh"
+date: "2017-03-22T00:00:00Z"
 categories:
 - resources
 - technical-docs
