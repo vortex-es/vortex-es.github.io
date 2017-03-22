@@ -1,6 +1,6 @@
 ---
 title: 2015 Wind Anomalies in Romania
-date: 2016-04-08T00:00:00Z
+date: 2016-04-08 00:00:00 Z
 categories:
 - resources
 - anomaly-wind-maps

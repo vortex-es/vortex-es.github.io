@@ -1,6 +1,6 @@
 ---
 title: LES IS MORE!
-date: 2016-09-19T00:00:00Z
+date: 2016-09-19 00:00:00 Z
 categories:
 - infraestructura
 - general

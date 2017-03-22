@@ -1,6 +1,6 @@
 ---
 title: 2014 Wind Anomalies in Morocco
-date: 2015-02-19T00:00:00Z
+date: 2015-02-19 00:00:00 Z
 categories:
 - resources
 - anomaly-wind-maps

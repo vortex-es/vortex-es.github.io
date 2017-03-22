@@ -1,6 +1,6 @@
 ---
 title: How is Vortex turbulence computed?
-date: 2015-06-12T00:00:00Z
+date: 2015-06-12 00:00:00 Z
 categories:
 - ask-gil
 layout: gil-faq

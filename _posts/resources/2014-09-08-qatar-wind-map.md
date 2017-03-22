@@ -1,6 +1,6 @@
 ---
 title: Qatar Wind Map
-date: 2014-09-08T00:00:00Z
+date: 2014-09-08 00:00:00 Z
 categories:
 - resources
 - wind-maps

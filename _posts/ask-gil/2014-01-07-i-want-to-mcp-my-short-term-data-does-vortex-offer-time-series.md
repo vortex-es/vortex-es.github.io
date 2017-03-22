@@ -1,6 +1,6 @@
 ---
 title: I want to MCP my short-term data. Does Vortex offer time series?
-date: 2014-01-07T00:00:00Z
+date: 2014-01-07 00:00:00 Z
 categories:
 - ask-gil
 layout: gil-faq

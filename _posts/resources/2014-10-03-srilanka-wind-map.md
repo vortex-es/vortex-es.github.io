@@ -1,6 +1,6 @@
 ---
 title: Sri Lanka Wind Map
-date: 2014-10-03T00:00:00Z
+date: 2014-10-03 00:00:00 Z
 categories:
 - resources
 - wind-maps

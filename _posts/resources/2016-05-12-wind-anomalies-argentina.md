@@ -1,6 +1,6 @@
 ---
 title: 2015 Wind Anomalies in Argentina
-date: 2016-05-12T00:00:00Z
+date: 2016-05-12 00:00:00 Z
 categories:
 - resources
 - anomaly-wind-maps
