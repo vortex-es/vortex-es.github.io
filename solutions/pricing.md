@@ -44,7 +44,7 @@ keywords: wind and site, farm, development, decisions, measuring
 					<li class="list-group-item">LES: 1900 €</li>
 				</ul>
 				<ul class="list-group list-group-flush text-center">
-					<li class="list-group-item"><i class="icon-ok text-info"></i> Progressive discounts apply for packages of 3 or more Runs in a row. <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a> if interested</li>
+					<li class="list-group-item"><i class="icon-ok text-info"></i> Progressive discounts apply for packages of 3 or more Runs in a row. <a href='mailto:info@vortex.es?subject={{ page.title }} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a> if interested</li>
 					<li class="list-group-item"><i class="icon-ok text-info"></i> Secure credit card payment or bank transfer.</li>
 				</ul>
 				<div class="panel-footer">
@@ -70,7 +70,7 @@ keywords: wind and site, farm, development, decisions, measuring
 					<li class="list-group-item"><i class="icon-ok text-default"></i> Guaranteed delivery times.</li>
 				</ul>
 				<div class="panel-footer">
-					<a class="btn btn-lg btn-block btn-default" href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a>
+					<a class="btn btn-lg btn-block btn-default" href='mailto:info@vortex.es?subject={{ page.title }} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a>
 				</div>
 			</div>
 
@@ -86,7 +86,7 @@ keywords: wind and site, farm, development, decisions, measuring
 			<div class="panel panel-default">
 				<div class="panel-heading"><h3 class="text-center">Wind Forecast</h3></div>
 				<div class="panel-footer">
-					<a class="btn btn-lg btn-block btn-default" href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact sales'>Contact sales</a>
+					<a class="btn btn-lg btn-block btn-default" href='mailto:info@vortex.es?subject={{ page.title }} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact sales'>Contact sales</a>
 				</div>
 			</div>
 
@@ -95,7 +95,7 @@ keywords: wind and site, farm, development, decisions, measuring
 			<div class="panel panel-default">
 				<div class="panel-heading"><h3 class="text-center">Power forecast</h3></div>
 				<div class="panel-footer">
-					<a class="btn btn-lg btn-block btn-default" href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact sales'>Contact sales</a>
+					<a class="btn btn-lg btn-block btn-default" href='mailto:info@vortex.es?subject={{ page.title }} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact sales'>Contact sales</a>
 				</div>
 			</div>
 

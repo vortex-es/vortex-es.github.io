@@ -1,14 +1,14 @@
 ---
-title: 'Validation India: Vortex MAST'
+title: "Validation India. Vortex MAST"
 date: 2014-04-10T00:00:00Z
 categories:
 - resources
 - validations
 layout: resources
 featured-img-url: validation-in-india-vortex-mast.png
-featured-img-alt: 'Validation India: Vortex MAST'
+featured-img-alt: "Validation India: Vortex MAST"
 docs-url: IndiaVORTEXvalidation.pdf
-meta: 'Validation India: Vortex MAST'
+meta: "Validation India: Vortex MAST"
 excerpt: 
 author: vortex
 keywords: 

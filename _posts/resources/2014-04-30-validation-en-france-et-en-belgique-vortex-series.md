@@ -1,5 +1,5 @@
 ---
-title: 'Validation en France et Belgique: Vortex SERIES'
+title: 'Validation en France et Belgique. Vortex SERIES'
 date: 2014-04-30T00:00:00Z
 categories:
 - resources

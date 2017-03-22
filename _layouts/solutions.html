@@ -17,7 +17,7 @@ slug: solutions
       <ul class="breadcrumb">
         <li><a href="{{ site.base_url }}/">Home</a></li>
         <li><a href="{{ site.base_url }}/solutions/">Solutions (Wind & Site)</a></li>
-        <li class="active">{{page.title}}</li>
+        <li class="active">{{ page.title }}</li>
       </ul>
       {% include nav-solutions-wind-and-site.html %}
       {% endif %}
@@ -26,7 +26,7 @@ slug: solutions
       <ul class="breadcrumb">
         <li><a href="{{ site.base_url }}/">Home</a></li>
         <li><a href="{{ site.base_url }}/solutions/solar-index.html">Solutions (Solar)</a></li>
-        <li class="active">{{page.title}}</li>
+        <li class="active">{{ page.title }}</li>
       </ul>
       {% include nav-solutions-solar.html %}
       {% endif %}
@@ -35,7 +35,7 @@ slug: solutions
       <ul class="breadcrumb">
         <li><a href="{{ site.base_url }}/">Home</a></li>
         <li><a href="{{ site.base_url }}/solutions/forecast-index.html">Solutions (Forecast)</a></li>
-        <li class="active">{{page.title}}</li>
+        <li class="active">{{ page.title }}</li>
       </ul>
       {% include nav-solutions-forecast.html %}
       {% endif %}
@@ -43,7 +43,7 @@ slug: solutions
       {% if page.title == 'Solutions' or page.title == 'Pricing' or page.title == 'Solar' or page.class == 'forecast-index' or page.title == 'Off-shore' %}
       {% else %}
       <div class="page-header">
-        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {{page.title}} {% if page.subitle %}, {{page.subtitle}} {% endif %}</h1>
+        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {{ page.title }} {% if page.subitle %}, {{page.subtitle}} {% endif %}</h1>
       </div>
       {% endif %}
 
@@ -69,7 +69,7 @@ slug: solutions
 
           <div class="well well-sm  ox_animate_when_almost_visible ox_bottom-to-top {% if page.title == 'Solutions' or page.title == 'Forecast' or page.title == 'Solar' %}hidden-xs hidden-sm hidden-md hidden-lg{% endif %}">
 
-            <h2 class="text-center"><p>Try it for free, <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact sales</a></h2>
+            <h2 class="text-center"><p>Try it for free, <a href='mailto:info@vortex.es?subject={{ page.title }} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact sales</a></h2>
 
           </div>
           {% endif %}

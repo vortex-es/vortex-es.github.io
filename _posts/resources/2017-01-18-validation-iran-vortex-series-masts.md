@@ -1,5 +1,5 @@
 ---
-title: 'Iran Validation: Vortex Mast and Series'
+title: 'Iran Validation. Vortex Mast and Series'
 date: 2017-01-18T00:00:00Z
 categories:
 - resources

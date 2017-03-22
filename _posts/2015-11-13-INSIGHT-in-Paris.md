@@ -9,7 +9,7 @@ layout: blog
 featured-img-url: Paris.jpg
 featured-img-alt: Le basier de Hotel de Ville, Robert Doisneau
 meta: INDEX in Paris
-excerpt: 'Meet us at EWEA''s event and discover our new product: INDEX'
+excerpt: "Meet us at EWEA's event and discover our new product INDEX"
 author: vortex
 keywords: vortex, INDEX, anomaly, Paris
 ---

@@ -39,7 +39,7 @@ keywords: forecast, development, decisions, measuring
 					<li class="list-group-item">Custom prices depending on setup details</li>
 				</ul>
 				<ul class="list-group list-group-flush text-center">
-					<li class="list-group-item"><i class="icon-ok text-info"></i> Progressive discounts on a volume basis <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a> if interested</li>
+					<li class="list-group-item"><i class="icon-ok text-info"></i> Progressive discounts on a volume basis <a href='mailto:info@vortex.es?subject={{ page.title }} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a> if interested</li>
 				</ul>
 				<div class="panel-footer">
 				<a href='http://interface.vortex.es/signup' class='btn btn-lg btn-block btn-info' title='Please, sign up'><span class='icon-signin icon-white'></span> Get started</a>
@@ -59,7 +59,7 @@ keywords: forecast, development, decisions, measuring
 					<li class="list-group-item"><i class="icon-ok text-default"></i> Guaranteed delivery times.</li>
 				</ul>
 				<div class="panel-footer">
-					<a class="btn btn-lg btn-block btn-default" href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a>
+					<a class="btn btn-lg btn-block btn-default" href='mailto:info@vortex.es?subject={{ page.title }} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a>
 				</div>
 			</div>
 

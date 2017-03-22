@@ -17,7 +17,7 @@ slug: markets
         <li><a href="{{ site.base_url }}/">Home</a></li>
         <li><a href="{{ site.base_url }}/markets">Markets</a></li>
         {% if page.title != 'Markets' %}
-        <li class="active">{{page.title}}</li>
+        <li class="active">{{ page.title }}</li>
         {% endif %}
       </ul>
       {% else if %}
@@ -28,7 +28,7 @@ slug: markets
       {% if page.title == 'Markets' %}
       {% else %}
       <div class="page-header">
-        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {% if page.title == 'Pricing' %}<strong>{{page.title}}</strong> {% else if %}<strong>{{page.title}}</strong>, {{page.subtitle}} {% endif %}</h1>
+        <h1>{% if page.icon-url %}<img src="{{site.baseurl}}/assets/img/{{page.icon-url}}"/>{% endif %} {% if page.title == 'Pricing' %}<strong>{{ page.title }}</strong> {% else if %}<strong>{{ page.title }}</strong>, {{page.subtitle}} {% endif %}</h1>
       </div>
       {% endif %}
 
@@ -48,7 +48,7 @@ slug: markets
         {% else if %}
           {% if page.title != 'Markets' %}
           <div class="well well-sm ox_animate_when_almost_visible ox_bottom-to-top">
-            <h2 class="text-center">Are you interested? <a href='mailto:info@vortex.es?subject={{page.title}} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact us</a></p>
+            <h2 class="text-center">Are you interested? <a href='mailto:info@vortex.es?subject={{ page.title }} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' class='mailto btn btn-default' title='Contact sales'><span class='icon-envelope icon-white'></span> Contact us</a></p>
           </div>
           {% else if %}
           <div class="well well-sm ox_animate_when_almost_visible ox_bottom-to-top">
