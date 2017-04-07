@@ -54,10 +54,10 @@ keywords: wind and site, farm, development, decisions, measuring
 <div class="text-center hidden-xs hidden-sm hidden-md">
 	<img id="Image-Maps_3201311160731402" src="{{ site.base_url }}/assets/img/vortex-markets-wind-farm-development.png" usemap="#Image-Maps_3201311160731402" border="0" alt="" />
 	<map id="_Image-Maps_3201311160731402" name="Image-Maps_3201311160731402">
-	<area shape="rect" coords="154,600,204,650" href="{{ site.base_url }}/solutions/maps.html" alt="MAPS" title="MAPS"    />
-	<area shape="rect" coords="404,650,454,700" href="{{ site.base_url }}/solutions/les.html" alt="LES" title="LES"    />
-	<area shape="rect" coords="489,700,539,730" href="{{ site.base_url }}/solutions/mast.html" alt="MAST" title="MAST"    />
-	<area shape="rect" coords="556,750,606,800" href="{{ site.base_url }}/solutions/farm.html" alt="FARM" title="FARM"    />
+	<area shape="rect" coords="154,625,204,700" href="{{ site.base_url }}/solutions/maps.html" alt="MAPS" title="MAPS"    />
+	<area shape="rect" coords="404,625,454,700" href="{{ site.base_url }}/solutions/les.html" alt="LES" title="LES"    />
+	<area shape="rect" coords="489,625,539,700" href="{{ site.base_url }}/solutions/mast.html" alt="MAST" title="MAST"    />
+	<area shape="rect" coords="556,625,606,700" href="{{ site.base_url }}/solutions/farm.html" alt="FARM" title="FARM"    />
 	<area shape="rect" coords="813,726,863,756" href="{{ site.base_url }}/solutions/forecast.html" alt="FORECAST" title="FORECAST"    />
 	</map>
 </div>
