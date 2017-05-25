@@ -1,5 +1,5 @@
 ---
-title: World Bank choose Vortex to map the Globe.
+title: The World Bank chooses Vortex to map the globe.
 date: 2017-05-25T18:11:00Z
 categories:
 - infraestructura
