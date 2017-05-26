@@ -14,6 +14,8 @@ author: vortex
 keywords: 'vortex, World Bank, DTU, Everoze'
 ---
 
+<p align="justify">
+
 ## The World Bank chooses Vortex to map the globe
 Vortex together with Bristol based consultancy Everoze have won a contract with the **World Bank Group** to map the world’s wind resource in greater detail than ever before. Based on mesoscale modelling to capture important regional trends, the atlas will be further downscaled by **DTU** and is scheduled to go live by the end of 2017.  The engagement will also see the consortium deliver a wide spectrum of development support in a number of emerging economies, from country-level analysis and wind development zone identification through to individual bankable site assessment and due diligence review.  
 
@@ -22,3 +24,4 @@ R&D Director at **Vortex**, Gil Lizcano commented *“This will be the most adva
 Founding Partner at **Everoze** Richard Whiting said *“We are hugely excited to be working on this project.  We believe it is possible for economies which currently depend on unreliable and expensive diesel generators to leap-frog the rest of the world - building an energy system around clean and affordable renewables. This initiative will help deliver some of the key data and support needed to realise this vision.”* 
 
 A successful kick-off training session was held in Washington DC in early May, where energy experts from the World Bank Group where given an outline of wind project development, construction and operations by the consortium. 
+</p>
