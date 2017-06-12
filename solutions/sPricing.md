@@ -62,8 +62,4 @@ keywords: solar, development, decisions, measuring
 				<div class="panel-footer">
 					<a class="btn btn-lg btn-block btn-default" href='mailto:info@vortex.es?subject={{ page.title }} - Vortex.es&body=I would like further information on: http://www.vortex.es{{page.url}}' title='Contact us'>Contact us</a>
 				</div>
-			</div>
-
-		</div>
-	</div>
-
+		
