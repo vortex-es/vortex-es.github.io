@@ -12,13 +12,13 @@ keywords: forecast, service, energy, management, imbalance
     <footer>&mdash; <cite>EWEA Wind Power Forecasting Workshop. Rotterdam 2013</cite></footer>
 </blockquote>
 
-Vortex [FORECAST](../solutions/forecast) uses an combination of up to 36 different algorithm in an attempt to deliver the best forecast current technology can provide. Even if you already have a forecast provider, Vortex atractive prices make [FORECAST](../solutions/forecast) a perfect complement to increase your predictions performance by combining both in an ensemble.
+Vortex [FORECAST](../solutions/forecast-index.html) uses an combination of up to 36 different algorithm in an attempt to deliver the best forecast current technology can provide. Even if you already have a forecast provider, Vortex atractive prices make [FORECAST](../solutions/forecast-index.html) a perfect complement to increase your predictions performance by combining both in an ensemble.
 
 <!--
 <p> With FORECAST, Vortex enters the very competitive forecast market with a new, fresh approach: making use of our massive cluster (in charge of heavy Wind & Site calculations delivered every day) and a extremely interactive, easy-to-use users Interface.</p>
 -->
 
-Vortex [FORECAST](../solutions/forecast) is based on a 3rd generation forecast approach: while pioneer prediction schemes (based on downscale-modeling) were outperformed by simpler second generation ones (based on statistical training only), Vortex approach takes the best of the two worlds introducing a new combined scheme that has demonstrated to improve forecast quality.
+Vortex [FORECAST](../solutions/forecast-index.html) is based on a 3rd generation forecast approach: while pioneer prediction schemes (based on downscale-modeling) were outperformed by simpler second generation ones (based on statistical training only), Vortex approach takes the best of the two worlds introducing a new combined scheme that has demonstrated to improve forecast quality.
 
 <div class="well well-sm ox_animate_when_almost_visible ox_bottom-to-top">
     <b>NEW! </b> Check our accuracy against <a href="http://www.sotaventogalicia.com/en" target="_blank">Sotavento</a> real-time measurements, on-line. Simply, <a href="http://interface.vortex.es" target="_blank">log in</a> as usual and open FORECAST Sample.

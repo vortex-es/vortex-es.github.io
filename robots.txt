@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: _includes
+Disallow: _posts
+Disallow: _layouts
+Sitemap: http://www.vortexfdc.com/sitemap.xml
