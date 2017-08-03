@@ -2,7 +2,7 @@
 title: New wind energy capacity rolled out across Europe in 1H17 tops 6 GW
 date: 2017-08-03T15:00:00Z
 categories:
-- wind energy
+- infraestructura
 - general
 - no-cita
 layout: blog
