@@ -24,7 +24,7 @@ The findings are presented in the Global Wind Energy Council’s biennial Global
 
 The new report examines the International Energy Agency’s central scenario from its World Energy Outlook, the New Policies Scenario, and is compared with the IEA’s 450 Scenario, the GWEC Moderate Scenario and the GWEC Advanced Scenario.
 
-##Wind power, essential for the Paris Agreement
+## Wind power, essential for the Paris Agreement
 
 “Now that the Paris Agreement is coming into force, countries need to get serious about what they committed to last December. Meeting the Paris targets means a completely decarbonised electricity supply well before 2050, and wind power will play the major role in getting us there”, states Steve Sawyer, GWEC Secretary General.
 
@@ -32,15 +32,15 @@ Global wind energy installations totalled 433 GW as of the end of 2015, and the 
 
 "Decarbonising the global energy system includes the transport sector as a major emitter of carbon. The market for electric mobility, both in regard to electric vehicles as well as public transport, will continue to grow significantly and with this electricity demand for the transport sector. **Wind power is in a pole position to supply this future power demand** making the wind industry one of the key industries of the energy sector”, said the report’s lead analyst Dr. Sven Teske, Research Principal for the Institute for Sustainable Futures at the University of Technology Sydney.
 
-##The key data of the Global Wind Energy Outlook 2016
+## The key data of the Global Wind Energy Outlook 2016
 
 <img src="/assets/img/20percent.jpg" alt="Key data of the Global Wind Energy Outlook 2016">
 
 
 **By 2030 wind power could…**
 - Reach 2,110 GW
-- Supply up to 20% of global electricity 
+- Supply up to 20% of global electricity
 
-**By 2030 the wind industry could… **
+**By 2030 the wind industry could…**
 - Create 2.4 million new jobs
 - Reduce C02 emissions by more than 3.3 billion tones
