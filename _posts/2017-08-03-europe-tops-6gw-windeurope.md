@@ -16,7 +16,7 @@ keywords: 'vortex, WindEurope, Wind Energy, Europe'
 
 
 
-## New wind energy capacity rolled out across Europe in 1H17 tops 6 GW
+# New wind energy capacity rolled out across Europe in 1H17 tops 6 GW
 WindEurope has published figures for new wind energy capacity installed during the first half of 2017. According to the European wind energy association, 6.1 GW of new capacity was added, which points towards 2017 being a great year for installations. The association does however warn that the figures hide some worrying trends: excessive concentration in a few markets and a decline in finance.
  
 Of the total 6.1 GW installed across Europe, **4.8 GW was onshore, heavily concentrated in Germany (2.2 GW), the UK (1.2 GW) and France (492 MW)**. A raft of offshore wind projects also saw a total of 1.3 GW installed. In monetary terms, the new capacity was rolled out at a cost of €8.3 billion.
