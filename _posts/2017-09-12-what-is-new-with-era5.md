@@ -23,9 +23,11 @@ ERA5, with significant new advances, is **an outstanding effort to move one step
 ERA5 offers an **increase of spatial resolution** reducing x4 the previous ERA-Interim grid area and has augmented the vertical levels up to 130. And this is very new: for the first time, an operational reanalysis is giving us an ensemble approach (with lower resolution thus) to start inferring uncertainty of the model. It also comes with the **latest version of ECMWF GCM core**, which inherited the experience of probably the best short-medium term global forecasting system. ERA5 also has, as part of the underlying observing data, the latest remote sensing sources which is a must taking into consideration the changes on the technology over the last years and which ensures ERA5 to be operational for a while. And many more technological specifications and advances.
 
 # The questions you might be asking yourself about ERA5:
-– What is what ERA5 can actually do better compared to what we have?
-– Is it improving our R2 correlations?
-– Is it capturing better the seasonality in those regions that we still detect conflicts?
+<ul>
+<li>What is what ERA5 can actually do better compared to what we have?</li>
+<li>Is it improving our R2 correlations?</li>
+<li>Is it capturing better the seasonality in those regions that we still detect conflicts?</li>
+</ul>
 – Is it getting low level jets closer to the actual height?
 – Is it getting better in the flow complexity lab zone like Gulf of Suez or North of Chile?
 – Can we use 20 years of these data without worrying about the time consistency?
