@@ -17,7 +17,7 @@ After two years of development on NCAR cutting-egde WRF-LES model, we are proud 
 
 ## When to use LES?
 
-When  measured time series are not enough to characterize mean wind and turbulence across the wind farm.
+When no measured wind is available (or reliable) to characterize mean flow and turbulence.
 
 ### Technical details:
 
