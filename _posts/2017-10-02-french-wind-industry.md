@@ -1,6 +1,6 @@
 ---
 title: French wind industry tipped to be crème de la crème
-date: 2017-10-02T08:00:00Z
+date: 2017-10-03T08:00:00Z
 categories:
 - infraestructura
 - general
