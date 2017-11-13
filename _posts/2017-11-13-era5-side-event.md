@@ -14,7 +14,7 @@ author: vortex
 keywords: 'vortex, wind, reanalysis, ERA5, ECMWF, EWEA, WindEurope'
 ---
 
-# ERA5 Vortex Downscaling Validation Results
+# ERA5 Vortex downscaling validation results
 
 Downscaling of ERA5 reanalysis has been implemented into the whole Vortex modeling chain and has passed demanding internal tests that shown, among other results, an impressive R2=1.00 correlation coefficient reached for the very first time in our records!
 
