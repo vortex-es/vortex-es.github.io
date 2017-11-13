@@ -6,7 +6,7 @@ categories:
 - general
 - no-cita
 layout: blog
-featured-img-url: era5.png
+featured-img-url: ewea_era5.png
 featured-img-alt: ECMWF reanalysis
 excerpt: The characteristics of ERA5 and its Vortex implementation & validation will be extensively presented next Tuesday 28-November during WindEurope exhibition (room D403, Elicium -4th floor-).
 
