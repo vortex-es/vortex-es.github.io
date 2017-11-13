@@ -30,6 +30,6 @@ Event's agenda
 - ERA5 Consistency by Gil Lizcano (Vortex). 15'
 - Q&A
 
-Interested in attending? Please, write us at <a href=mailto:info@vortex.es>info@vortexfdc.com)</a> to book a place.
+Interested in attending? Please, write us at <a href=mailto:info@vortex.es>info@vortexfdc.com</a> to book a place.
 
 See you in Amsterdam soon!
