@@ -20,7 +20,11 @@ Downscaling of ERA5 reanalysis has been implemented into the whole Vortex modeli
 
 It is not only correlation that has dramatically increased, mean wind speed BIAS has also greatly decreased, prompting us to implement ERA5 in all products (MAPS, FARM, LES, etc.) in what can be considered the most important system upgrade since Vortex was founded.
 
-The characteristics of ERA5 and its Vortex implementation & validation will be extensively presented next Tuesday 28-November at 14:30 during WindEurope exhibition (room D403, Elicium -4th floor-). For that event, we are very pleased to count on the collaboration of Hans Hersbach, C3S Reanalysis Team Leader at ECMWF.
+The characteristics of ERA5 and its Vortex implementation & validation will be extensively presented
+-Next Tuesday 28-November at 14:30
+-During WindEurope exhibition (room D403, Elicium -4th floor-)
+
+For that event, we are very pleased to count on the collaboration of Hans Hersbach, C3S Reanalysis Team Leader at ECMWF.
 
 Event's agenda
 
