@@ -15,7 +15,7 @@ keywords: 'vortex, DOE, Wind Energy, Wind Power, Grid Study'
 
 # DOE’s new grid study concludes wind energy is not a threat to supply reliability
 
-**The United States Department of Energy (DOE) released its  <a href="https://energy.gov/staff-report-secretary-electricity-markets-and-reliability">long-awaited Staff Report to the Secretary on Electricity Markets and Reliability** yesterday,</a>which includes an **assessment of the reliability and resilience of the electric grid** and an overview of the evolution of electricity markets. The study shows recent growth in wind and solar power is generating new jobs and is not threatening reliability.
+**The United States Department of Energy (DOE)** released its  <a href="https://energy.gov/staff-report-secretary-electricity-markets-and-reliability">long-awaited Staff Report to the Secretary on Electricity Markets and Reliability yesterday,</a>which includes an **assessment of the reliability and resilience of the electric grid** and an overview of the evolution of electricity markets. The study shows recent growth in wind and solar power is generating new jobs and is not threatening reliability.
  
 The study contains a comprehensive analysis and **series of recommendations from the Department of Energy staff** and, the DOE explains, is meant to “inform and guide policy makers, regulators, and the general public in future conversations about the challenges America faces”.
  
