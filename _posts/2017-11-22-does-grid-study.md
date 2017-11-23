@@ -1,8 +1,5 @@
-2017-11-25-does-grid-study.md
-
----
 title: DOE’s new grid study concludes wind energy is not a threat to supply reliability
-date: 2017-11-25T08:00:00Z
+date: 2017-11-22T08:00:00Z
 categories:
 - infraestructura
 - general
