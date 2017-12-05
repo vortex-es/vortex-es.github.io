@@ -13,7 +13,7 @@ excerpt: New report, ‘Local Impact, Global Leadership’ by Deloitte for WindE
 keywords: 'vortex, DOE, Wind Energy, Wind Power, Grid Study'
 ---
 
-#European wind industry contributes billions to EU’s GDP
+# European wind industry contributes billions to EU’s GDP
 
 New report, ‘Local Impact, Global Leadership’ by Deloitte for WindEurope and published last week shows the European wind industry contributed €36 billion to the EU’s GDP in 2016, supporting 263,000 jobs and generating €8 billion of exports outside of Europe.
 
