@@ -26,5 +26,6 @@ The report’s authors also concluded that for every €1,000 of turnover genera
 However, he has also issued a stark warning: “We need an EU renewables target of at least 35% by 2030. We need clarity on post-2020 volumes so the supply chain knows what to invest and where. We need R&D and industrial policies that help Europe maintain its technology lead and continue to export. If all this happens, wind could meet 30% of Europe’s power needs in 2030 and we’d generate more jobs and growth for the economy. But if it doesn’t, Europe will miss out on €92bn of investments and 132,000 jobs: that’s the cost of non-ambition”.
 
 His view was echoed by Enercon’s Managing Director Hans-Dieter Kettwig: “Wind energy is making major contributions to economies on a national and international level. The main requirement for the wind industry and green, sustainable growth in Europe is a stable, reliable and long-term political framework post-2020. Visibility is crucial to industrial planning. When we see significant volumes in a market or a region, we invest in the supply chain as it provides economies of scale”.
-https://windeurope.org/about-wind/reports/local-impact-global-leadership/
+<a href=https://windeurope.org/about-wind/reports/local-impact-global-leadership/>
+https://windeurope.org/about-wind/reports/local-impact-global-leadership/</a>
 
