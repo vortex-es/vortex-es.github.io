@@ -32,5 +32,5 @@ Thomas Choisnet, Chief Technology Officer of Ideol – a Floatgen partner – sa
 With costs expected to fall as experience gleaned from the first floating wind farm projects is fed back into development and economies of scale start to take effect, investor confidence in floating wind technologies will rise, driving greater deployment.
 
 
-<a href=http://www.eti.co.uk/programmes/offshore-wind>http://www.eti.co.uk/programmes/offshore-wind</a>
+<a href=http://www.eti.co.uk/programmes/offshore-wind> http://www.eti.co.uk/programmes/offshore-wind </a>
 
