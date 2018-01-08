@@ -6,7 +6,7 @@ categories:
 - general
 - no-cita
 layout: blog
-featured-img-url: electricity_stats.jpg
+featured-img-url: electricity_stats.png
 featured-img-alt: Electricity Stats
 meta: Pelastar floating platform
 excerpt: The European wind industry has made a great start to the new year, generating more power in a single day on 3 January than ever before.
