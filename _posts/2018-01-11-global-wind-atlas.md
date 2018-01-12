@@ -8,7 +8,7 @@ categories:
 layout: blog
 featured-img-url: gwa.jpg
 featured-img-alt: Global Wind Atlas
-meta: The new Global Wind Atlas: a tool to engage the wind development across the World.
+meta: The new Global Wind Atlas, a tool to engage the wind development across the World.
 excerpt: Leading commercial provider of wind resource model data, Vortex, has played a key role in the development of the recently launched Global Wind Atlas 2.0 (GWA 2.0).
 keywords: 'Vortex, Wind Atlas, Wind Energy, Europe, Power'
 ---
