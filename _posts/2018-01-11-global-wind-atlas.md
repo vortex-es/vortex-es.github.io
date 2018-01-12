@@ -1,5 +1,5 @@
 ---
-title: The new Global Wind Atlas: a tool to engage the wind development across the World.
+title: The new Global Wind Atlas, a tool to engage the wind development across the World.
 date: 2018-01-11T08:00:00Z
 categories:
 - infraestructura
