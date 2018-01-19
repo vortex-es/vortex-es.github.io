@@ -31,6 +31,6 @@ Bigger wind turbines with larger swept areas harvest more electricity from the s
 
 Thanks to these drivers, Bloomberg New Energy Finance estimates in its New Energy Outlook 2017 report that offshore wind levelised costs will slide a whopping 71% by 2040, with the cost of onshore wind falling 47% in the same period, on top of the 30% drop of the past eight years.
 
-<a href=https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Jan/IRENA_2017_Power_Costs_2018.pdf>IRENA Renewable Power Generation Costs in 2017</a>
+https://www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Jan/IRENA_2017_Power_Costs_2018.pdf
 
 
