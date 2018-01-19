@@ -29,4 +29,4 @@ Barcelona’s industry leading mesoscale modellers, Vortex, won a contract with 
 
 R&D Director at Vortex, Gil Lizcano, describes the atlas as "chalinging modeling work as the specification and timings requires us to be very effective and smart", drawing on the ever-improving input data and modelling innovations at Vortex. "We loved that the GWA wants to grow: it is an evolving platform. At Vortex, we understand that technology is not a frozen solution, but is ever changing. Our role is also to integrate the changes and understand what comes next and when it should be available for end users".
 
-Vortex’s mesolayer is available at <a href=http://www.interface.vortexfdc.com>www.interface.com</a>
+Vortex’s mesolayer is available at <a href="http://www.interface.vortexfdc.com">www.interface.com</a>
