@@ -26,5 +26,5 @@ The new record comes off the back of every increasing capacity in the European w
 The consultancy firm forecasts in its Europe Wind Power Outlook 2017 report that the largest advances will be in Germany, as developers rush to install as much capacity as possible during 2018 ahead of the feed-in tariff phase-out at the end of the year. Growth in Germany will also be boosted by tweaking the country’s auction system to improve clarity over project timelines and completion rates. Further cost reductions will also play a part, evidenced by the recent zero-subsidy bids submitted in Germany’s first competitive auction towards the end of last year.
 
 The UK (primarily in the offshore segment) and France will also lead the way.
-<a href=http://www.consultmake.com/news-european-wind-power-report>http://www.consultmake.com/news-european-wind-power-report</a>
+<a href="http://www.consultmake.com/news-european-wind-power-report">http://www.consultmake.com/news-european-wind-power-report</a>
 

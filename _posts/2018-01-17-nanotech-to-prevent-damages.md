@@ -25,4 +25,4 @@ According to Vicente Sanz, research lead, “the previous developments of the IT
 
 Companies including Laurentia and technology centers such as Aimplas and Tekniker are also partnering on the project to manufacture nanoparticles and develop super-hydrophobic and anti-freeze coatings.
 
-http://www.itc.uji.es/en/Paginas/
+<a href="http://www.itc.uji.es/en/Paginas/">http://www.itc.uji.es/en/Paginas/</a>

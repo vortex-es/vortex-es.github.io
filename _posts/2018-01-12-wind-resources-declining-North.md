@@ -35,6 +35,6 @@ Despite these findings, Karnauskas warns that the results for certain regions ar
 
 The Central United States and Inner Mongolia are other areas of uncertainty. “We need to use different tools to try to forecast the future -- this global study gives us a roadmap for where we should focus next with higher-resolution tools,” concludes Lundquist.
 
-<a href=http://cires.colorado.edu/>http://cires.colorado.edu/</a>
+<a href="http://cires.colorado.edu/">http://cires.colorado.edu/</a>
 
 Image note: Top images represent next 40 years, bottom images represent next 80 years. Left images represent lower emissions, right images represent higher emissions scenario. Red areas are wind power hotspots, blue areas are reductions. White areas are uncertain. Source: Kris Karnauskas/CIRE
