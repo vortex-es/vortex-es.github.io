@@ -18,7 +18,7 @@ In India we have worked hand in hand with India National Institute of Wind Energ
 
 We have done this for 3 consecutive years, which has given us a great experience in the Indian market, which combined with our low margin of error, makes us the best ally for your wind project in Asia.
 
-<a href="http://www.vortexfdc.com/validation-india-era5">CLICK HERE TO DOWNLOAD</a>
+Click on this<a href="http://www.vortexfdc.com/validation-india-era5">link</a> to download the document.
 
 
 
