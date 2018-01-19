@@ -10,8 +10,9 @@ featured-img-url: validation_India_era5.png
 featured-img-alt: Vortex ERA5 + WRF Validation in India
 meta: Vortex ERA5 + WRF Validation in India
 excerpt: Vortex has validated the studies done in 70 points of India with real life results.
-
-We have validated the studies we have done in 70 points of India with real life results. At Vortex we are committed to provide prospects every day with an increasingly lower margin of error.
+keywords: 'Vortex, Validation, India, ERA5, WRF'
+---
+Vortex has validated the studies done in 70 points of India with real life results. At Vortex we are committed to provide prospects every day with an increasingly lower margin of error.
 
 In India we have worked hand in hand with India's National Institute of Wind Energy (NIWE) to enhance wind forecasting in Tamil Nadu state. 
 

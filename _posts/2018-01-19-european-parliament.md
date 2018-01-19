@@ -10,6 +10,9 @@ featured-img-url: irena.png
 featured-img-alt: Irena Renewable Power Generation Cost
 meta: Irena Renewable Power Generation Cost
 excerpt: Members of the European Parliament voted yesterday for a 2030 renewable energy target of 35 per cent. 
+keywords: 'Vortex, EU, Wind Energy'
+---
+
 Members of the European Parliament voted yesterday for a 2030 renewable energy target of 35% – more ambitious than the Commission’s initial proposal of at least 27%. The news comes just a few days after IRENA released its latest electricity cost projections showing the LCOE for renewables will be equal to and even lower than those of fossil fuel as early as 2020.
 
 As well as calling for a new more ambitious renewable energy target for 2030, the Parliament also voted for Member States to submit their new National Energy and Climate Action Plans by June 2019. They will also have to offer details of public support mechanisms for renewable energies looking five years ahead.
