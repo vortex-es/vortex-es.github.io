@@ -1,11 +1,11 @@
 ---
-title: Rüzgar modellemede yeni bir dönem: ERA5
+title: ERA5
 date: 2018-02-15T08:00:00Z
 categories:
 - infraestructura
 - general
 - no-cita
-layout: blog 
+layout:  
 featured-img-url: Istanbul_Turkey.jpg
 featured-img-alt: ERA5 new dataset
 meta: ERA5 new dataset
