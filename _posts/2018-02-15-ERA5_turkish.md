@@ -9,7 +9,7 @@ layout:
 featured-img-url: Istanbul_Turkey.jpg
 featured-img-alt: ERA5 new dataset
 meta: ERA5 new dataset
-excerpt: Öncü rüzgar modelleme şirketi Vortex’in uzmanları bir konuda çok açık: Reanaliz çalışmaları, küresel endüstriye kapsamlı ve tam teşekküllü bir çözüm sunmaya yönelik ileri rüzgar modelleme teknolojisini ileri götüren yakıttır.
+excerpt: A new era in the wind model: ERA5.
 
 
 keywords: 'Vortex, Europe, ERA5'
