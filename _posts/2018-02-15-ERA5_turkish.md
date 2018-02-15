@@ -9,7 +9,7 @@ layout:
 featured-img-url: Istanbul_Turkey.jpg
 featured-img-alt: ERA5 new dataset
 meta: ERA5 new dataset
-excerpt: A new era in the wind model: ERA5.
+excerpt: A new era in the wind model, ERA5.
 
 
 keywords: 'Vortex, Europe, ERA5'
