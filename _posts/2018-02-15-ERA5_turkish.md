@@ -5,7 +5,7 @@ categories:
 - infraestructura
 - general
 - no-cita
-layout: 
+layout: blog 
 featured-img-url: Istanbul_Turkey.jpg
 featured-img-alt: ERA5 new dataset
 meta: ERA5 new dataset
