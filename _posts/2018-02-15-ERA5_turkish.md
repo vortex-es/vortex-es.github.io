@@ -5,7 +5,7 @@ categories:
 - infraestructura
 - general
 - no-cita
-layout:  
+layout: blog  
 featured-img-url: Istanbul_Turkey.jpg
 featured-img-alt: ERA5 new dataset
 meta: ERA5 new dataset
@@ -25,4 +25,3 @@ Casso’nun çalışma arkadaşı CEO Pep Moreno ekledi: “Bunun sadece gelişt
 İlk ERA5 setinin (şu anda 2010-2016 arası mevcut) piyasaya sürümünden sonra Vortex ERA5 reanalizini ölçeklendirmekte ve şirketin bütün modelleme zincirine dahil etmektedir. Gil Lizcano şirketin şu ana kadar alınan sonuçlardan çok memnun olduğunun altını çizip, verinin çok sıkı iç testlerden geçmekte ve Vortex kayıtlarında ilk defa ulaşılan etkileyici bir R2=1.00 korelasyon katsayısı sonucuna varıldığını belirtmektedir. “ERA5 verisi bize çok daha iyi bir korelasyon katsayısı verdi ve ürünlerimizdeki günlük çevrimleri, mevsimselliği ve tutarlılığı iyileştirdi. Bütün bunlar geniş ve orta ölçekli modeller arasında daha iyi bir zincir olması sayesinde. Örneğin, şu anda düşük seviye jet fenomenini doğru yükseklik ve doğru anda tespit edebiliyoruz.”
 Ortalama rüzgar hızı sapması ciddi şekilde düştü, bu da Vortex’i şirketin kuruluşundan bu yana olan en önemli sistem güncellemesiyle ERA5’i bütün ürünlerde (MAPS, FARM, LES, vb.) uygulamaya sokmasına sebep oldu.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uRAyuUmWMwk?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
