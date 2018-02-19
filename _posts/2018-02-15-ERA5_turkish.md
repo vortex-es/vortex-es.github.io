@@ -6,7 +6,7 @@ categories:
 - general
 - no-cita
 layout: blog  
-featured-img-url: Istanbul_Turkey.jpg
+featured-img-url: era5_tur.png
 featured-img-alt: ERA5 new dataset
 meta: ERA5 new dataset
 excerpt: A new era in the wind model, ERA5.
