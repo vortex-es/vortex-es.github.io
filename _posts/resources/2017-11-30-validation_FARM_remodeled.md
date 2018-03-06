@@ -3,7 +3,7 @@ title: 'Vortex FARM remodeled validation'
 date: 2017-11-30T00:00:00Z
 categories:
 - resources
-- validation
+- validations
 layout: resources
 featured-img-url: farm_remodeled_validation.png
 featured-img-alt: 'Vortex FARM remodeled validation'
