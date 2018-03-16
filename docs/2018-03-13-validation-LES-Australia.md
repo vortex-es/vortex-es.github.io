@@ -5,9 +5,9 @@ categories:
 - resources
 - validations
 layout: resources
-featured-img-url: validation_LES_Australia.png
+featured-img-url: assets/img/validation_LES_Australia.png
 featured-img-alt: "Validation LES Australia"
-docs-url: validation_LES_Australia.pdf
+docs-url: assets/docs/validation_LES_Australia.pdf
 meta: "Validation LES Australia"
 excerpt: 
 author: vortex
